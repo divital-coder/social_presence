@@ -76,6 +76,7 @@ theaisummer.com
 Alan Turing Institute
 climatechange.ai
 DeepSenseAI
+ResearchGate
 
 !------------------------BlockChain stuff--------------------------------!
 OpenSea
