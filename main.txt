@@ -47,7 +47,7 @@ NOtion COmmunity
 !------------------Career--------------!
 Producthunt @hurtbadly
 Github @divital-coder
-Anaconda notebooks + jupyter notebooks 
+Anaconda notebooks + jupyter notebooks + gooogle collab 
 Replit (signed email) & CodePen "divital2004@gmail.com"
 HuggingFace @hurtbadly "divital2004@gmail.com"
 Kaggle
