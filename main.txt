@@ -43,6 +43,7 @@ CgSociety
 CgArchitect 
 Figma Community
 NOtion COmmunity 
+miro (brainstorming , mindmapping and tech diagrams)
 
 !------------------Career--------------!
 Producthunt @hurtbadly
