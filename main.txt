@@ -88,6 +88,14 @@ Meta Spark
 Snap AR
 
 
+!------------------cyber security and infrastructure security---------------------!
+hackerone
+bugcrowd
+synack team
+cybrary
+Black Hat conference
+Defcon
+
 !---------------------------API development---------------------
 Quandl
 rapid API
