@@ -137,6 +137,11 @@ Nvidia AI development Tracks / paths
 
 
 
+!--------------------Softawre Hackathons and stuff----------------------!
+DevPost
+Kaggle
+DrivenData
+MachineHack Gen Ai
 
 
 !------Music and SOunds---------------------!
