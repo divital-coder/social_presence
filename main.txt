@@ -95,6 +95,7 @@ synack team
 cybrary
 Black Hat conference
 Defcon
+hackersploit
 
 !---------------------------API development---------------------
 Quandl
