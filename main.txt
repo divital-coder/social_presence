@@ -49,7 +49,8 @@ Figma Community
 NOtion COmmunity 
 miro (brainstorming , mindmapping and tech diagrams)
 
-!------------------Career--------------!
+!------------------Career--------------
+roadmaps.sh (for tech roadmaps for learning technologies and stufF)
 Producthunt @hurtbadly
 Github @divital-coder
 Anaconda notebooks + jupyter notebooks + gooogle collab 
