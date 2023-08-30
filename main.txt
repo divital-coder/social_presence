@@ -81,6 +81,7 @@ Alan Turing Institute
 climatechange.ai
 DeepSenseAI
 ResearchGate
+UCI ML (Machine Learning repository for data sets and training)
 
 !------------------------BlockChain stuff--------------------------------!
 OpenSea
