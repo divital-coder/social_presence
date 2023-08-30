@@ -134,7 +134,10 @@ PluralSight
 ARM Developer HUb  (Advanced RISC Machines)
 Nvidia AI development Tracks / paths
 
-
+!----------------------------Free computer science Education-----------------------!
+FullstackOPen.com (university of helsinki, credits in modern web application development and design)
+OpenSourceSocietyUniversity (Learn from a wide variety of courses and submit a project in the end)
+Dash Enterprise App Gallery (MAKE UR OWN CUSTOM PROJECTS IN JULIA AND DASH WEB APPLICATION FRAMEWORK TO UNDERSTAND SOFTWARE ENGINERERING FROM A ROBUST PERSPECTIVE)
 
 
 !--------------------Softawre Hackathons and stuff----------------------!
@@ -163,3 +166,9 @@ Passes.com
 InternetArchive  (Wayback machine)
 CatchaFire
 
+
+
+!-------------------Company Discovery------------------!
+Growjob
+ProductHunt
+GetLatka Databases
