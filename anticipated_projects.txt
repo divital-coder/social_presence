@@ -2,7 +2,7 @@ HIGH TIME STUFF :
 "complete your full stack open .com (university of helsinki) course"
 "Complete your Open Source Society University course"
 "complete your pending udemy courses (mastery in sql, andrei neagoie)
-
+"Learn c++ from learncpp.com and right some data structures and algorithms from it (neetcode)"
 
 
 

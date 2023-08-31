@@ -1,0 +1,7 @@
+multi threading 
+machine learning ( from main.txt machine learning section)
+blockchain (web3 stuff, ask claude)
+data-visualisation (main.txt,tools.txt ,  ask claude as well)
+cloud-native development (golang, github, ask github)
+NOTE: CHECK APPLE ICLOUD NOTES TITLES "COMPUTATIONAL INTERESTS FOR MORE INFORMATION"
+
