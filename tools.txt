@@ -14,4 +14,20 @@ Adobe photoshop
 Adobe Audition
 Adobe Podcast
 Audacity 
-AI TOOLS IN SOUND ENHANCEMENT
+
+
+!-------------------------- Web based ai tools in video enhancement------------------!
+Topaz Labs 
+Other video upscaling solutions 
+Kapwing
+
+!---------------------------CODING FRAMEWORKS AND MISCELLANEOUS----------------------!
+Dear Imgui (immediate mode graphical user interface) + qt development
+OpenGL  + SFML + WebGl (graphics libraries for the web)
+sveltejs [threlte] + threejs + nextjs [vercel] + netlify + mongodb + postgresql + mysq + apache[kafka, hadoop] + docker, kubernetes + graphQl
+solanaJS + "ask claude[anthropic] for technologies for building smart contracts on blockchains"
+python + anaconda + virtualenv + tensorflow + pytorch + keras + pandas + numpy + scipy + matplotlib 
+NOTE : "check visual studio community edition installer interface for data-science related stuff ,ask claude as well"
+rust + tauri + wayland 
+julia + dataFrames + dash (data -visualisation framework)
+Continuous integration + Continuous Development stuff (CI/CD)) 
