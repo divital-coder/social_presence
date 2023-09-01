@@ -156,6 +156,11 @@ DrivenData
 MachineHack Gen Ai
 
 
+!-----------Cloud native development and stuff--------!
+Cloud Native Computing Foundation (CNCF)
+nginx + supabase + firebase 
+mongoDB + cloud databases  +kubernetes + docker
+
 !------Music and SOunds---------------------!
 Spotify 
 SoundCloud 
