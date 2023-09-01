@@ -145,7 +145,7 @@ Nvidia AI development Tracks / paths
 FullstackOPen.com (university of helsinki, credits in modern web application development and design)
 OpenSourceSocietyUniversity (Learn from a wide variety of courses and submit a project in the end)
 Dash Enterprise App Gallery (MAKE UR OWN CUSTOM PROJECTS IN JULIA AND DASH WEB APPLICATION FRAMEWORK TO UNDERSTAND SOFTWARE ENGINERERING FROM A ROBUST PERSPECTIVE)
-
+University of Helsinki (Open University Courses)
 
 !--------------------Softawre Hackathons and stuff----------------------!
 DevPost
