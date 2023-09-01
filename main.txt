@@ -84,6 +84,7 @@ climatechange.ai
 DeepSenseAI
 ResearchGate
 UCI ML (Machine Learning repository for data sets and training)
+NeurIPS + ICLR + CVPR + AAAI (from scaleAI internship listings, posts in these platforms)
 
 !------------------------BlockChain stuff--------------------------------!
 OpenSea
