@@ -53,6 +53,7 @@ miro (brainstorming , mindmapping and tech diagrams)
 roadmaps.sh (for tech roadmaps for learning technologies and stufF)
 Producthunt @hurtbadly
 Github @divital-coder
+Gitlab (another version control system server)
 Anaconda notebooks + jupyter notebooks + gooogle collab 
 Replit (signed email) & CodePen "divital2004@gmail.com"
 HuggingFace @hurtbadly "divital2004@gmail.com"
@@ -167,6 +168,15 @@ GumRoad
 OnlyFans
 Fansly 
 Passes.com 
+
+
+!------------------payment systems and commercialisation stuff---------!
+Stripe atlas 
+Shopify 
+Ebay 
+Amazon 
+Craigslist 
+ClickFunnels (Sales funnel from kevin david)
 
 
 !------------------------VOlunteer work-------------------------!
