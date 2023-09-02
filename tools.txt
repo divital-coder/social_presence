@@ -21,6 +21,7 @@ Topaz Labs
 Other video upscaling solutions 
 Kapwing
 
+
 !---------------------------CODING FRAMEWORKS AND MISCELLANEOUS----------------------!
 c++ (learncpp.com) Dear Imgui (immediate mode graphical user interface) + qt development
 OpenGL  + SFML + WebGl (graphics libraries for the web)
@@ -32,3 +33,14 @@ rust + tauri + wayland
 julia + dataFrames + dash (data -visualisation framework)
 swift + createML 
 Continuous integration + Continuous Development stuff (CI/CD)) 
+TERMINAL : iterm + warp/fig + hyper + foot (arch) / kitty 
+
+
+!-------------------------------------Note taking and Brainstorming----------------------------------------!
+Apple Notes (sync via icloud)
+Notion
+Mem Labs(the ai driver note taking assistant)
+Google Docs 
+
+
+
