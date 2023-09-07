@@ -1,7 +1,10 @@
-multi threading 
+multi threading + parallel computing + distributed computing
 machine learning ( from main.txt machine learning section)
 blockchain (web3 stuff, ask claude)
 data-visualisation (main.txt,tools.txt ,  ask claude as well)
 cloud-native development (golang, github, ask github)
+Continuous Integration + Continuous Development
+Cache Replacement Algorithms (huawei 2022, database problem algoritm)
+
 NOTE: CHECK APPLE ICLOUD NOTES TITLES "COMPUTATIONAL INTERESTS FOR MORE INFORMATION"
 

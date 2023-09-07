@@ -77,7 +77,9 @@ Meta Open Source (LlAmA)
 SourceForge (for open source softawre discovery and contributions)
 
 
+
 !------------------Artificial Intelligence and Machine Learning Stuff--------------!
+Hugging Face (learn category)
 Cohere LLM (University)
 theaisummer.com
 Alan Turing Institute
@@ -86,6 +88,8 @@ DeepSenseAI
 ResearchGate
 UCI ML (Machine Learning repository for data sets and training)
 NeurIPS + ICLR + CVPR + AAAI (from scaleAI internship listings, posts in these platforms)
+stableDiffusion (the site for generating images)
+"tip  try replicating services offered by scaleAI, to potentially increase ur chances in tech industry"
 
 !------------------------BlockChain stuff--------------------------------!
 OpenSea

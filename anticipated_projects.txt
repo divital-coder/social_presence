@@ -3,8 +3,9 @@ HIGH TIME STUFF :
 "Complete your Open Source Society University course"
 "complete your pending udemy courses (mastery in sql, andrei neagoie)
 "Learn c++ from learncpp.com and right some data structures and algorithms from it (neetcode)"
-
-
+"Learn Julia pacakge development and AI stuff from O;reilly"
+"Complete curated course by AlphaVantage"
+"Any project launches on ProductHunt"
 
 DASH SAMPLE APPLICATIONS WITHIN THE JULIA LANGAUGE AND THE JULIA ECOSYSTEM SRC: DASH ENTERPRISE APP GALLERY / GITHUB (PLOTLY)
 STICKS DESCEND ( A SORTING ALGORITHM VISUALISER BASED ON STOCK PRICE DATA FROM ALPHAVANTAGE API) SRC : SOUND-OF-SORTING /TIMOBINGMANN
