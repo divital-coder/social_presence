@@ -6,6 +6,9 @@ HIGH TIME STUFF :
 "Learn Julia pacakge development and AI stuff from O;reilly"
 "Complete curated course by AlphaVantage"
 "Any project launches on ProductHunt"
+"Complete lectures on machine learning and AI thru Hugging Face, and cohere LLM""
+
+
 
 DASH SAMPLE APPLICATIONS WITHIN THE JULIA LANGAUGE AND THE JULIA ECOSYSTEM SRC: DASH ENTERPRISE APP GALLERY / GITHUB (PLOTLY)
 STICKS DESCEND ( A SORTING ALGORITHM VISUALISER BASED ON STOCK PRICE DATA FROM ALPHAVANTAGE API) SRC : SOUND-OF-SORTING /TIMOBINGMANN
