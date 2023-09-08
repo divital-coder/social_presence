@@ -17,6 +17,7 @@ SQL Murder Mystery Revamped ( initial idea for buildspace , make it interactive 
 Custom Fine Tuned META'S LlAmA (large language model
 Custom Made Portfolio websited (sveltejs/ nextjs ~ involving creating coding principles ~ sean halpin / threejs designed websites and apps)
 
+MY IMPLEMENTATION OF A COMPUTATIONAL FLUID MECHANICS ENGINE ,
 
 "CHECK APPLE I CLOUD NOTES FOR MORE INFORMATION"
 --)
