@@ -81,6 +81,7 @@ SourceForge (for open source softawre discovery and contributions)
 !------------------Artificial Intelligence and Machine Learning Stuff--------------!
 Hugging Face (learn category)
 Cohere LLM (University)
+LangChanAi
 theaisummer.com
 Alan Turing Institute
 climatechange.ai
