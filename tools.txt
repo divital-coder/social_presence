@@ -41,6 +41,6 @@ Apple Notes (sync via icloud)
 Notion
 Mem Labs(the ai driver note taking assistant)
 Google Docs 
-
-
+github 
+Any do (todo lists)
 
