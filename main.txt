@@ -61,7 +61,8 @@ CgArchitect
 Artstation
 Free3D
 sketchfab
-
+V-Ray
+Metahuman (Unreal engine)
 
 !------------------Career--------------
 roadmaps.sh (for tech roadmaps for learning technologies and stufF)
