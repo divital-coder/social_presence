@@ -19,5 +19,9 @@ Custom Made Portfolio websited (sveltejs/ nextjs ~ involving creating coding pri
 
 MY IMPLEMENTATION OF A COMPUTATIONAL FLUID MECHANICS ENGINE ,
 
+Check out arweave crypto blockchain and deno framework projects
+read the cybersecurity books from blackhat , and red team field manual , and learn from comp sci courses online via "dorking like cs101, 202, 901 ,999" etc.
+
+
 "CHECK APPLE I CLOUD NOTES FOR MORE INFORMATION"
 --)
