@@ -10,6 +10,7 @@ Forefront
 Inflection
 Topaz Labs
 Epic Games (unreal engine)
+TinyGrad (George hotz company)
 
 
 

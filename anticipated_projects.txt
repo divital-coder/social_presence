@@ -10,6 +10,23 @@ HIGH TIME STUFF :
 
 
 
+
+
+projects : 
+sound-of-sorting in [dear Imgui, svelte]
+Plotly julia dash sample applications, within the julia langauge ecosystem
+Custom self portfolio site alongside your linktree.
+
+UPCOMING THINGS :
+plotly talent network 
+hacktoberfest 
+Major League hacking fellowship
+google summer of code 
+the alan turing institute summer school 
+recurse center (pair-programming and coding cool stuff)
+hugging face, scale ai (generative AI hacakthons) , hacakthon listings on devpost 
+
+
 DASH SAMPLE APPLICATIONS WITHIN THE JULIA LANGAUGE AND THE JULIA ECOSYSTEM SRC: DASH ENTERPRISE APP GALLERY / GITHUB (PLOTLY)
 STICKS DESCEND ( A SORTING ALGORITHM VISUALISER BASED ON STOCK PRICE DATA FROM ALPHAVANTAGE API) SRC : SOUND-OF-SORTING /TIMOBINGMANN
 WINDOW MANAGER( A WINDOW MANAGER IMPLEMENTATION OF MY OWN FOR MY ARCH LINUX SETUP IN RUST AND WAYLAND , SRC : RAGNAR WM FROM COCOCRY)
