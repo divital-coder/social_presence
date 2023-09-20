@@ -27,6 +27,11 @@ the alan turing institute summer school
 recurse center (pair-programming and coding cool stuff)
 hugging face, scale ai (generative AI hacakthons) , hacakthon listings on devpost 
 Arweave community (Arconnect blockchain wallet)
+linux foundation mentorship 
+Cloud native computing foundation careers 
+
+
+
 
 
 DASH SAMPLE APPLICATIONS WITHIN THE JULIA LANGAUGE AND THE JULIA ECOSYSTEM SRC: DASH ENTERPRISE APP GALLERY / GITHUB (PLOTLY)
