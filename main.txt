@@ -125,6 +125,9 @@ cybrary
 Black Hat conference
 Defcon
 hackersploit
+TEam field manual (Red team field manual + blue team field manual)
+
+
 
 !---------------------------API development---------------------
 Quandl
