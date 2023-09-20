@@ -17,7 +17,10 @@ SQL Murder Mystery Revamped ( initial idea for buildspace , make it interactive 
 Custom Fine Tuned META'S LlAmA (large language model
 Custom Made Portfolio websited (sveltejs/ nextjs ~ involving creating coding principles ~ sean halpin / threejs designed websites and apps)
 
+
 MY IMPLEMENTATION OF A COMPUTATIONAL FLUID MECHANICS ENGINE ,
+Replicate Scale AI services and machine learning models under your own implementation
+Try creating services like levelsio did using ai technology
 
 Check out arweave crypto blockchain and deno framework projects
 read the cybersecurity books from blackhat , and red team field manual , and learn from comp sci courses online via "dorking like cs101, 202, 901 ,999" etc.
