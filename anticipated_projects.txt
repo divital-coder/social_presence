@@ -18,7 +18,8 @@ Plotly julia dash sample applications, within the julia langauge ecosystem
 Custom self portfolio site alongside your linktree.
 
 UPCOMING THINGS :
-plotly talent network 
+plotly talent network
+canva talent network 
 hacktoberfest 
 Major League hacking fellowship
 google summer of code 
