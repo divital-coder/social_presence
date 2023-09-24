@@ -138,7 +138,7 @@ yahoo finance api
 
 !---------------Blog like platforms---------------!
 Blogger : hurtreallbadly.blogspot.com
-Medium
+Medium + Hashnode 
 SubStack (Newsletter)
 Moodle (BLog and writing stuff)
 Reddit @hurtreallybadly
