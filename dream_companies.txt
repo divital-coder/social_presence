@@ -18,7 +18,9 @@ TinyGrad (George hotz company)
 !----------------Currently---------------
 OnePlus student ambassador 
 Microsoft Student Ambassador
-Hugging Face careers (tech skills)
+Hugging Face careers (tech skills) 
+Scale Ai generative AI hackathon
+Devpost listings
 Layer 5 meshery (Software engineering internships hacktoberfest)
 Plotly dash, talent community
 Canva talent community
@@ -28,6 +30,8 @@ Recurse Center
 CodeForces competition
 Leetcode
 O'reilly (learning stuff)
+find opportunities via product hunt and growjo
+
 
 ---------------other companies  ---------------
 Golden Gate Sotheby internation realty 
