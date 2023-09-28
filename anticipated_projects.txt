@@ -25,7 +25,8 @@ Major League hacking fellowship
 google summer of code 
 the alan turing institute summer school 
 recurse center (pair-programming and coding cool stuff)
-hugging face, scale ai (generative AI hacakthons) , hacakthon listings on devpost 
+hugging face, scale ai (generative AI hacakthons) , hacakthon listings on devpost + Svelte Hackathon
+Meshery (cloud native computing foundation) internship
 Arweave community (Arconnect blockchain wallet)
 linux foundation mentorship 
 Cloud native computing foundation careers 
