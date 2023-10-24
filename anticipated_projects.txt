@@ -7,7 +7,7 @@ HIGH TIME STUFF :
 "Complete curated course by AlphaVantage"
 "Any project launches on ProductHunt"
 "Complete lectures on machine learning and AI thru Hugging Face, and cohere LLM""
-
+"watch and ingrain those general comp sci knowledge and algorithms from ur chrome bookmark, some bilwal sandhu guy"
 
 
 
