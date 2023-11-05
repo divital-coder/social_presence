@@ -112,6 +112,9 @@ stableDiffusion (the site for generating images)
 OpenSea
 THeAlchemy (WEB 3 institute)
 Ethereum , Solana Development communities 
+arweave blockchain (community labs + permaweb)
+celestia labs  (modular)
+
 
 !----------------Augmented Reality and Virtual Reality stuff----------------!
 Meta Spark
