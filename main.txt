@@ -97,6 +97,7 @@ SourceForge (for open source softawre discovery and contributions)
 Hugging Face (learn category)
 Cohere LLM (University)
 LangChanAi
+observable + noteable
 theaisummer.com
 Alan Turing Institute
 climatechange.ai
