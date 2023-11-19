@@ -217,6 +217,10 @@ Amazon
 Craigslist 
 ClickFunnels (Sales funnel from kevin david)
 
+!-----------------------open source mapping and proprietary mapping integrations---------------------------!
+Polymap
+Leaflet
+Mapbox
 
 !------------------------VOlunteer work-------------------------!
 InternetArchive  (Wayback machine)
