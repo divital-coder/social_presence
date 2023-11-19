@@ -76,6 +76,7 @@ HuggingFace @hurtbadly "divital2004@gmail.com"
 Kaggle
 THefullstackNetwork
 Dev COmmunity 
+showwcase
 CSS Tricks 
 Stack Overflow and Stack Exchange 
 Polywork
