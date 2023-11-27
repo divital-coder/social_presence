@@ -25,14 +25,16 @@ Kapwing
 !---------------------------CODING FRAMEWORKS AND MISCELLANEOUS----------------------!
 c++ (learncpp.com) Dear Imgui (immediate mode graphical user interface) + qt development
 OpenGL  + SFML + WebGl (graphics libraries for the web)
-sveltejs [threlte] + [tailwindCSS + headlessUI ] + threejs + spline3d (3d modelling tool for web apps) + nextjs [vercel] + netlify+ node  + mongodb + postgresql + mysql + apache[spark,kafka, hadoop, datalake, Hive] + docker, kubernetes + graphQl + P5.js (creative coding) + deno js + supabase / surrealDB + cassandra + skylla db  + d3.js (observable notebooks), plotly , dash , powerBI, microsoft fabric
-solanaJS + Arweave (marton lederer) Arconnect + "ask claude[anthropic] for technologies for building smart contracts on blockchains"
+sveltejs [threlte] + [tailwindCSS + headlessUI ] + threejs + spline3d (3d modelling tool for web apps) + nextjs [vercel] + netlify+ node  + mongodb + lenis(smooth scroll)
+postgresql + mysql + apache[spark,kafka, hadoop, datalake, Hive] + docker, kubernetes + graphQl + P5.js (creative coding) + deno js + supabase / surrealDB + cassandra + skylla db  + d3.js (observable notebooks), plotly , dash , powerBI, microsoft fabric
+solanaJS + Arweave (marton lederer) Arconnect + "ask claude[anthropic] for technologies for building smart contracts on blockchains" + arweave starter kit (nextjs , shadcnui , arweave kit)
 python + anaconda + virtualenv + tensorflow + pytorch + keras + pandas + numpy + scipy + matplotlib + noteable(notebooks)
 NOTE : "check visual studio community edition installer interface for data-science related stuff ,ask claude as well"
 rust + tauri + wayland 
 julia + dataFrames + dash (data -visualisation framework)
 swift + createML 
 vector databases 
+FFMPEG
 Continuous integration + Continuous Development stuff (CI/CD)) 
 TERMINAL : iterm + warp/fig + hyper + foot (arch) / kitty + nvim + jet brains suite of products + visual studio code 
 
