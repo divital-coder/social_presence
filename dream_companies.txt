@@ -11,7 +11,8 @@ Inflection
 Topaz Labs
 Epic Games (unreal engine)
 TinyGrad (George hotz company)
-
+PumasAI 
+JuliaHUB
 
 //these companies freaking exist today , what are you waiting for 
 
