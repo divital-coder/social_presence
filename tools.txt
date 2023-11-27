@@ -25,7 +25,7 @@ Kapwing
 !---------------------------CODING FRAMEWORKS AND MISCELLANEOUS----------------------!
 c++ (learncpp.com) Dear Imgui (immediate mode graphical user interface) + qt development
 OpenGL  + SFML + WebGl (graphics libraries for the web)
-sveltejs [threlte] + [tailwindCSS + headlessUI ] + threejs + spline3d (3d modelling tool for web apps) + nextjs [vercel] + netlify+ node  + mongodb + postgresql + mysql + apache[spark,kafka, hadoop, datalake] + docker, kubernetes + graphQl + P5.js (creative coding) + deno js + supabase / surrealDB + cassandra + skylla db  + d3.js (observable notebooks), plotly , dash , powerBI, microsoft fabric
+sveltejs [threlte] + [tailwindCSS + headlessUI ] + threejs + spline3d (3d modelling tool for web apps) + nextjs [vercel] + netlify+ node  + mongodb + postgresql + mysql + apache[spark,kafka, hadoop, datalake, Hive] + docker, kubernetes + graphQl + P5.js (creative coding) + deno js + supabase / surrealDB + cassandra + skylla db  + d3.js (observable notebooks), plotly , dash , powerBI, microsoft fabric
 solanaJS + Arweave (marton lederer) Arconnect + "ask claude[anthropic] for technologies for building smart contracts on blockchains"
 python + anaconda + virtualenv + tensorflow + pytorch + keras + pandas + numpy + scipy + matplotlib + noteable(notebooks)
 NOTE : "check visual studio community edition installer interface for data-science related stuff ,ask claude as well"
