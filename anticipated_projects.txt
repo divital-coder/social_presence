@@ -24,6 +24,7 @@ hacktoberfest
 Major League hacking fellowship
 google summer of code 
 the alan turing institute summer school 
+Microsoft Reinforcement learning open source fest 
 recurse center (pair-programming and coding cool stuff)
 hugging face, scale ai (generative AI hacakthons) , hacakthon listings on devpost + Svelte Hackathon
 Meshery (cloud native computing foundation) internship
@@ -37,7 +38,7 @@ join the github campus expert programme next year in 2024
 
 DASH SAMPLE APPLICATIONS WITHIN THE JULIA LANGAUGE AND THE JULIA ECOSYSTEM SRC: DASH ENTERPRISE APP GALLERY / GITHUB (PLOTLY)
 STICKS DESCEND ( A SORTING ALGORITHM VISUALISER BASED ON STOCK PRICE DATA FROM ALPHAVANTAGE API) SRC : SOUND-OF-SORTING /TIMOBINGMANN
-WINDOW MANAGER( A WINDOW MANAGER IMPLEMENTATION OF MY OWN FOR MY ARCH LINUX SETUP IN RUST AND WAYLAND , SRC : RAGNAR WM FROM COCOCRY)
+WINDOW MANAGER( A WINDOW MANAGER IMPLEMENTATION OF MY OWN FOR MY ARCH LINUX SETUP IN RUST AND WAYLAND , SRC : RAGNAR WM FROM COCOCRY) (maybe later)
 SQL Murder Mystery Revamped ( initial idea for buildspace , make it interactive using popular machine learnign methodologies)
 Custom Fine Tuned META'S LlAmA (large language model
 Custom Made Portfolio websited (sveltejs/ nextjs ~ involving creating coding principles ~ sean halpin / threejs designed websites and apps)
