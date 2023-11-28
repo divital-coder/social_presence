@@ -108,6 +108,8 @@ UCI ML (Machine Learning repository for data sets and training)
 NeurIPS + ICLR + CVPR + AAAI (from scaleAI internship listings, posts in these platforms)
 stableDiffusion (the site for generating images)
 "tip  try replicating services offered by scaleAI, to potentially increase ur chances in tech industry"
+weights and  biases (platform for building machine learning stuff)
+aman.ai (for learning about the grounding knowledge in ai)
 
 !------------------------BlockChain stuff--------------------------------!
 OpenSea
