@@ -109,7 +109,11 @@ NeurIPS + ICLR + CVPR + AAAI (from scaleAI internship listings, posts in these p
 stableDiffusion (the site for generating images)
 "tip  try replicating services offered by scaleAI, to potentially increase ur chances in tech industry"
 weights and  biases (platform for building machine learning stuff)
-aman.ai (for learning about the grounding knowledge in ai)
+
+
+
+(learn about all things algos data structs and ai knowledge)
+aman.ai (for learning about the grounding knowledge in ai) + https://youtu.be/t2CEgPsws3U?list=RDCMUC8butISFwT-Wl7EV0hUK0BQ
 
 !------------------------BlockChain stuff--------------------------------!
 OpenSea
