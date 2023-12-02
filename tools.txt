@@ -45,5 +45,12 @@ Notion
 Mem Labs(the ai driver note taking assistant)
 Google Docs 
 github 
+Figma Figjam
+Todoist
 Any do (todo lists)
 
+!-----------------Event organising stuff and meeting---------------------------------!
+Meetup
+Luma AI (For event cards)
+Microsoft 365 suite
+Gather Town + Around(miro | LABS)
