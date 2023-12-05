@@ -32,6 +32,7 @@ python + anaconda + virtualenv + tensorflow + pytorch + keras + pandas + numpy +
 NOTE : "check visual studio community edition installer interface for data-science related stuff ,ask claude as well"
 rust + tauri + wayland 
 julia + dataFrames + dash (data -visualisation framework)
+Golang
 swift + createML 
 vector databases 
 FFMPEG
