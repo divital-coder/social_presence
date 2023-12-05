@@ -110,6 +110,12 @@ stableDiffusion (the site for generating images)
 "tip  try replicating services offered by scaleAI, to potentially increase ur chances in tech industry"
 weights and  biases (platform for building machine learning stuff)
 
+datasets from :
+data.gov
+data.world
+https://radweb.su.domains/datasets/ 
+https://aimi.stanford.edu/shared-datasets
+awesome-public-datasets from github repo 
 
 
 (learn about all things algos data structs and ai knowledge)
