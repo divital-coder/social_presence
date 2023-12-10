@@ -184,7 +184,7 @@ Ibm SKill Build
 Udemy 
 Edx
 O'reilly 
-PluralSight
+Pluralight
 ARM Developer HUb  (Advanced RISC Machines)
 Nvidia AI development Tracks / paths
 
@@ -254,7 +254,10 @@ Playbook (storage, modern)
 !-------other Interesting tools for building modern apps---------!
 Mapbox 
 
-
+-----------------------------------DARK WEB LINKS FOR INFORMATION------------------------
+gentoomen-library (for condensed computer science knowledge)
+z-library (for finding books mentioned within gentoomen-library)
+just-another-library (library for finding even more books)
 !-------BONUS, LIST OF THIRD PARTY LINK AGGREGRATORS (linktree, allmylinks)---------------------!
 
 amouranth linktree : linktr.ee/amouranth (amazing person in terms of social growth and living life on a barn)
