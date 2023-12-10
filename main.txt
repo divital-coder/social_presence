@@ -258,6 +258,7 @@ Mapbox
 gentoomen-library (for condensed computer science knowledge)
 z-library (for finding books mentioned within gentoomen-library)
 just-another-library (library for finding even more books)
+goalkicker.com (for comprehensive cheathsheets on everything)
 !-------BONUS, LIST OF THIRD PARTY LINK AGGREGRATORS (linktree, allmylinks)---------------------!
 
 amouranth linktree : linktr.ee/amouranth (amazing person in terms of social growth and living life on a barn)
