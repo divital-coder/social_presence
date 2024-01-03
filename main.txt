@@ -95,7 +95,7 @@ SourceForge (for open source softawre discovery and contributions)
 
 
 !------------------Artificial Intelligence and Machine Learning Stuff--------------!
-Hugging Face (learn category)
+Hugging Face (learn category) + gradio + streamlit (workflow)
 Cohere LLM (University)
 LangChanAi
 observable + noteable
