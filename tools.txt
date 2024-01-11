@@ -31,7 +31,7 @@ solanaJS + Arweave (marton lederer) Arconnect + "ask claude[anthropic] for techn
 python + anaconda + virtualenv + tensorflow + pytorch + keras + pandas + numpy + scipy + matplotlib + noteable(notebooks)
 NOTE : "check visual studio community edition installer interface for data-science related stuff ,ask claude as well"
 rust + tauri + wayland 
-julia + dataFrames + dash (data -visualisation framework)
+julia + dataFrames + dash (data -visualisation framework) + Plotly + (MedImage, Medeye3d , MedPipe3d for medical imaging in julia)
 Golang
 swift + createML 
 vector databases 
