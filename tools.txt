@@ -57,6 +57,7 @@ TERMINAL : iterm + warp/fig + hyper + foot (arch) / kitty + nvim + jet brains su
 Audio frameworks : FFMPEG 
 Startup and company research : GetLATKA, Growjo, HuggingFace, StreamLit, WeightsorBiases, wellfound, SimplifyJobSearch, producthunt, levels.fyi, indeed, linkedin, glassdoor, dice-job-search, Apollo
 hackathons : kaggle, Major-League-Hacking, Devpost
+design : Figma + FigJam (boards), Draw.io
 !-------------------------------------Note taking and Brainstorming----------------------------------------!
 Apple Notes (sync via icloud)
 Notion
