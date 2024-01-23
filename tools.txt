@@ -38,7 +38,7 @@ solanaJS + Arweave (marton lederer) Arconnect + "ask claude[anthropic] for techn
 
 #ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING 
 PYTHON :  + anaconda + virtualenv + tensorflow + pytorch + keras + pandas + numpy + scipy + matplotlib + noteable(notebooks) + huggingface + selenium + pysyft(openminded) + scikitlearn + FastAPI + LangChain + spaCY + OpenCV + NLTK + pySpark + pyODBC (azure sql databases ) + giskardAI (Model testing) + WeightsandBiases + openML + data.world + UCI ML + Gradio + StreamLit
-prebuilt-models : scaleAI, icons8-models, pieter-levels-companies. 
+prebuilt-models : scaleAI, icons8-models, pieter-levels-companies(photoai.com, interiorAI.com). 
 
 NOTE : "check visual studio community edition installer interface for data-science related stuff ,ask claude as well"
 rust + tauri + wayland 
