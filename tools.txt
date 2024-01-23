@@ -21,18 +21,30 @@ Topaz Labs
 Other video upscaling solutions 
 Kapwing
 
+
+#LANGUAGES
 C++/python/Julia/Javascript/TypeScript/Golang
 !---------------------------CODING FRAMEWORKS AND MISCELLANEOUS----------------------!
+#SOFTWARE ENGINEERING 
 c++ (learncpp.com) Dear Imgui (immediate mode graphical user interface) + qt development
 OpenGL  + SFML + WebGl (graphics libraries for the web)
+
+#WEB DEVELOPMENT TECHNOLOGIES AND DATABASES
 sveltejs [threlte] + [tailwindCSS + headlessUI ] + threejs + spline3d (3d modelling tool for web apps) + nextjs [vercel] + netlify+ node  + mongodb + lenis(smooth scroll) + jest.js 
-postgresql + mysql + apache[spark,kafka, hadoop, datalake, Hive, solr, airflow]+ graphQl + P5.js (creative coding) + deno js + supabase / surrealDB + cassandra + skylla db  +vector databases + d3.js (observable notebooks), plotly , dash , powerBI, microsoft fabric + elastic search
+postgresql + mysql + apache[spark,kafka, hadoop, datalake, Hive, solr, airflow] + DataBricks + graphQl + P5.js (creative coding) + deno js + supabase / surrealDB + cassandra + skylla db  +vector databases + d3.js (observable notebooks), plotly , dash , powerBI, microsoft fabric + elastic search
+
+#BLOCKCHAIN 
 solanaJS + Arweave (marton lederer) Arconnect + "ask claude[anthropic] for technologies for building smart contracts on blockchains" + arweave starter kit (nextjs , shadcnui , arweave kit)
-PYTHON :  + anaconda + virtualenv + tensorflow + pytorch + keras + pandas + numpy + scipy + matplotlib + noteable(notebooks) + huggingface + selenium + pysyft(openminded) + scikitlearn + FastAPI + LangChain + spaCY + OpenCV + NLTK + pySpark + pyODBC (azure sql databases ) + giskardAI (Model testing)
+
+#ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING 
+PYTHON :  + anaconda + virtualenv + tensorflow + pytorch + keras + pandas + numpy + scipy + matplotlib + noteable(notebooks) + huggingface + selenium + pysyft(openminded) + scikitlearn + FastAPI + LangChain + spaCY + OpenCV + NLTK + pySpark + pyODBC (azure sql databases ) + giskardAI (Model testing) + WeightsandBiases.
 
 NOTE : "check visual studio community edition installer interface for data-science related stuff ,ask claude as well"
 rust + tauri + wayland 
+
+#SCIENTIFIC COMPUTING IN JULIA LANGUAGE
 julia + dataFrames + dash (data -visualisation framework) + Plotly + (MedImage, Medeye3d , MedPipe3d for medical imaging in julia) + sciML
+
 Golang
 swift + createML 
 Bash scripting 
@@ -42,6 +54,7 @@ Continuous integration + Continuous Development stuff (CI/CD)) : github actions 
 Deployment : Docker , kubernetes , Microsoft Azure , Cloud databases.
 TERMINAL : iterm + warp/fig + hyper + foot (arch) / kitty + nvim + jet brains suite of products + visual studio code 
 Audio frameworks : FFMPEG 
+Startup and company research : GetLATKA, Growjo, HuggingFace, StreamLit, WeightsorBiases, wellfound, SimplifyJobSearch.
 
 !-------------------------------------Note taking and Brainstorming----------------------------------------!
 Apple Notes (sync via icloud)
