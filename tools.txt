@@ -21,22 +21,24 @@ Topaz Labs
 Other video upscaling solutions 
 Kapwing
 
-
+C++/python/Julia/Javascript/TypeScript/Golang
 !---------------------------CODING FRAMEWORKS AND MISCELLANEOUS----------------------!
 c++ (learncpp.com) Dear Imgui (immediate mode graphical user interface) + qt development
 OpenGL  + SFML + WebGl (graphics libraries for the web)
-sveltejs [threlte] + [tailwindCSS + headlessUI ] + threejs + spline3d (3d modelling tool for web apps) + nextjs [vercel] + netlify+ node  + mongodb + lenis(smooth scroll)
+sveltejs [threlte] + [tailwindCSS + headlessUI ] + threejs + spline3d (3d modelling tool for web apps) + nextjs [vercel] + netlify+ node  + mongodb + lenis(smooth scroll) + jest.js 
 postgresql + mysql + apache[spark,kafka, hadoop, datalake, Hive, solr, airflow] + docker, kubernetes + graphQl + P5.js (creative coding) + deno js + supabase / surrealDB + cassandra + skylla db  + d3.js (observable notebooks), plotly , dash , powerBI, microsoft fabric + elastic search
 solanaJS + Arweave (marton lederer) Arconnect + "ask claude[anthropic] for technologies for building smart contracts on blockchains" + arweave starter kit (nextjs , shadcnui , arweave kit)
-python + anaconda + virtualenv + tensorflow + pytorch + keras + pandas + numpy + scipy + matplotlib + noteable(notebooks)
+python + anaconda + virtualenv + tensorflow + pytorch + keras + pandas + numpy + scipy + matplotlib + noteable(notebooks) + huggingface
 NOTE : "check visual studio community edition installer interface for data-science related stuff ,ask claude as well"
 rust + tauri + wayland 
-julia + dataFrames + dash (data -visualisation framework) + Plotly + (MedImage, Medeye3d , MedPipe3d for medical imaging in julia)
+julia + dataFrames + dash (data -visualisation framework) + Plotly + (MedImage, Medeye3d , MedPipe3d for medical imaging in julia) + sciML
 Golang
 swift + createML 
 vector databases 
 FFMPEG
-Continuous integration + Continuous Development stuff (CI/CD)) 
+API and hosting : ngrok + Postman API + RAPID API
+observaibility platforms : datadog, cloud native computing foundation(Projects)
+Continuous integration + Continuous Development stuff (CI/CD)) : github actions and workflows, 
 TERMINAL : iterm + warp/fig + hyper + foot (arch) / kitty + nvim + jet brains suite of products + visual studio code 
 
 
