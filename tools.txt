@@ -28,7 +28,8 @@ OpenGL  + SFML + WebGl (graphics libraries for the web)
 sveltejs [threlte] + [tailwindCSS + headlessUI ] + threejs + spline3d (3d modelling tool for web apps) + nextjs [vercel] + netlify+ node  + mongodb + lenis(smooth scroll) + jest.js 
 postgresql + mysql + apache[spark,kafka, hadoop, datalake, Hive, solr, airflow]+ graphQl + P5.js (creative coding) + deno js + supabase / surrealDB + cassandra + skylla db  +vector databases + d3.js (observable notebooks), plotly , dash , powerBI, microsoft fabric + elastic search
 solanaJS + Arweave (marton lederer) Arconnect + "ask claude[anthropic] for technologies for building smart contracts on blockchains" + arweave starter kit (nextjs , shadcnui , arweave kit)
-python + anaconda + virtualenv + tensorflow + pytorch + keras + pandas + numpy + scipy + matplotlib + noteable(notebooks) + huggingface + selenium + pysyft(openminded)
+PYTHON :  + anaconda + virtualenv + tensorflow + pytorch + keras + pandas + numpy + scipy + matplotlib + noteable(notebooks) + huggingface + selenium + pysyft(openminded) + scikitlearn + FastAPI + LangChain + spaCY + OpenCV + NLTK + pySpark + pyODBC (azure sql databases ) 
+
 NOTE : "check visual studio community edition installer interface for data-science related stuff ,ask claude as well"
 rust + tauri + wayland 
 julia + dataFrames + dash (data -visualisation framework) + Plotly + (MedImage, Medeye3d , MedPipe3d for medical imaging in julia) + sciML
