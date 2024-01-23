@@ -37,7 +37,7 @@ postgresql + mysql + apache[spark,kafka, hadoop, datalake, Hive, solr, airflow] 
 solanaJS + Arweave (marton lederer) Arconnect + "ask claude[anthropic] for technologies for building smart contracts on blockchains" + arweave starter kit (nextjs , shadcnui , arweave kit)
 
 #ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING 
-PYTHON :  + anaconda + virtualenv + tensorflow + pytorch + keras + pandas + numpy + scipy + matplotlib + noteable(notebooks) + huggingface + selenium + pysyft(openminded) + scikitlearn + FastAPI + LangChain + spaCY + OpenCV + NLTK + pySpark + pyODBC (azure sql databases ) + giskardAI (Model testing) + WeightsandBiases.
+PYTHON :  + anaconda + virtualenv + tensorflow + pytorch + keras + pandas + numpy + scipy + matplotlib + noteable(notebooks) + huggingface + selenium + pysyft(openminded) + scikitlearn + FastAPI + LangChain + spaCY + OpenCV + NLTK + pySpark + pyODBC (azure sql databases ) + giskardAI (Model testing) + WeightsandBiases + openML + data.world + UCI ML 
 
 NOTE : "check visual studio community edition installer interface for data-science related stuff ,ask claude as well"
 rust + tauri + wayland 
@@ -54,8 +54,8 @@ Continuous integration + Continuous Development stuff (CI/CD)) : github actions 
 Deployment : Docker , kubernetes , Microsoft Azure , Cloud databases.
 TERMINAL : iterm + warp/fig + hyper + foot (arch) / kitty + nvim + jet brains suite of products + visual studio code 
 Audio frameworks : FFMPEG 
-Startup and company research : GetLATKA, Growjo, HuggingFace, StreamLit, WeightsorBiases, wellfound, SimplifyJobSearch.
-
+Startup and company research : GetLATKA, Growjo, HuggingFace, StreamLit, WeightsorBiases, wellfound, SimplifyJobSearch, producthunt, levels.io, indeed, linkedin, glassdoor, dice-job-search
+hackathons : kaggle, Major-League-Hacking, Devpost
 !-------------------------------------Note taking and Brainstorming----------------------------------------!
 Apple Notes (sync via icloud)
 Notion
