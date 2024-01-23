@@ -116,7 +116,10 @@ data.world
 https://radweb.su.domains/datasets/ 
 https://aimi.stanford.edu/shared-datasets
 awesome-public-datasets from github repo 
+
+
 https://machinelearningmastery.com/start-here/
+https://roadmap.sh/ai-data-scientist
 
 (learn about all things algos data structs and ai knowledge)
 aman.ai (for learning about the grounding knowledge in ai) + https://youtu.be/t2CEgPsws3U?list=RDCMUC8butISFwT-Wl7EV0hUK0BQ
