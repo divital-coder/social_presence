@@ -56,3 +56,7 @@ read the cybersecurity books from blackhat , and red team field manual , and lea
 
 "CHECK APPLE I CLOUD NOTES FOR MORE INFORMATION"
 --)
+
+Interesting projects from Youtube:
+https://youtu.be/CgW0HPHqFE8 (A* pathfinding algorithm on a real map)
+https://youtu.be/Tsvxx-GGlTg (visualisation of a neural network)
