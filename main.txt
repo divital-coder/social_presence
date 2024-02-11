@@ -116,7 +116,7 @@ data.world
 https://radweb.su.domains/datasets/ 
 https://aimi.stanford.edu/shared-datasets
 awesome-public-datasets from github repo 
-
+Neuraldatascience.io (https://neuraldatascience.io/1-intro/learning_approach.html)
 
 https://machinelearningmastery.com/start-here/
 https://roadmap.sh/ai-data-scientist
