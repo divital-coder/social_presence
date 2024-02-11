@@ -40,12 +40,16 @@ solanaJS + Arweave (marton lederer) Arconnect + "ask claude[anthropic] for techn
 PYTHON :  + anaconda + virtualenv + tensorflow + pytorch + keras + pandas + numpy + scipy + matplotlib + noteable(notebooks) + huggingface + selenium + pysyft(openminded) + scikitlearn + FastAPI + LangChain + spaCY + OpenCV + NLTK + pySpark + pyODBC (azure sql databases ) + giskardAI (Model testing) + WeightsandBiases + openML + data.world + UCI ML + Gradio + StreamLit, on-prem. foundational models, orchestration, azure machine learning studio, vector databases(pinecone, chroma)
 theoretical knowledge : evaluation metrics, deep learning, machine learning algorithms
 prebuilt-models : scaleAI, icons8-models, pieter-levels-companies(photoai.com, interiorAI.com). 
+data-generation-and-handling : neuraldatascience.io, MedResearch(divital-coder/github): a lot of resarch paper on GAN and medical imaging data.
 
 NOTE : "check visual studio community edition installer interface for data-science related stuff ,ask claude as well"
 rust + tauri + wayland 
+ML-OPS: neptune.ai 
 
 #SCIENTIFIC COMPUTING IN JULIA LANGUAGE
 julia + dataFrames + dash (data -visualisation framework) + Plotly + (MedImage, Medeye3d , MedPipe3d for medical imaging in julia) + sciML
+
+
 
 Golang
 swift + createML 
