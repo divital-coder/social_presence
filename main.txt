@@ -124,6 +124,24 @@ https://roadmap.sh/ai-data-scientist
 (learn about all things algos data structs and ai knowledge)
 aman.ai (for learning about the grounding knowledge in ai) + https://youtu.be/t2CEgPsws3U?list=RDCMUC8butISFwT-Wl7EV0hUK0BQ
 
+-----------------------AI Resarch Labs---------------------------
+Vector Institute for AI
+Mila/Udem Institute for AI (Professor Irina Rish)
+Santa Fe institute undergrad complexity research
+The Alan Turing Institute
+Openminded Federated machine learning 
+MBZUAI - Mohd AI
+Singapore international pregrad award SIPGA A* Research Intern
+Mitacs Globalink Research Intern
+
+AI Conferences:
+NeurIPS , ICLR , ICML, Association for Computational Linguistics, ICVPR, 
+
+-------------------------------------------------------------------
+
+
+
+
 !------------------------BlockChain stuff--------------------------------!
 OpenSea
 THeAlchemy (WEB 3 institute)
