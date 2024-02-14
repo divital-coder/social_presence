@@ -73,6 +73,13 @@ Figma Figjam
 Todoist
 Any do (todo lists)
 
+-----------------------linux integration within windows packages and tools--------------------------
+Tools available wthin winget/ chocolatey (preferably winget)
+Cygwin - cygwin is the best.
+Mingw
+MSYS2
+Windows subsystem for linux
+
 !-----------------Event organising stuff and meeting---------------------------------!
 Meetup
 Luma AI (For event cards)
