@@ -135,7 +135,7 @@ Singapore international pregrad award SIPGA A* Research Intern
 Mitacs Globalink Research Intern
 
 AI Conferences:
-NeurIPS , ICLR , ICML, Association for Computational Linguistics, ICVPR, "ECML PKDD" (for visual question answering research papers)
+NeurIPS , ICLR , ICML, Association for Computational Linguistics, ICVPR, "ECML PKDD" (for visual question answering research papers), ICDAR
 
 -------------------------------------------------------------------
 
