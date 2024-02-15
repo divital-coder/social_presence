@@ -137,6 +137,10 @@ Mitacs Globalink Research Intern
 AI Conferences:
 NeurIPS , ICLR , ICML, Association for Computational Linguistics, ICVPR, "ECML PKDD" (for visual question answering research papers), ICDAR
 
+AI Hackathons : 
+https://lablab.ai/event (lablab.ai)
+https://devpost.com/hackathons (devpost ai hackathons)
+
 -------------------------------------------------------------------
 
 
