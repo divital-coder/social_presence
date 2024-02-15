@@ -49,7 +49,8 @@ ML-OPS: neptune.ai
 #SCIENTIFIC COMPUTING IN JULIA LANGUAGE
 julia + dataFrames + dash (data -visualisation framework) + Plotly + (MedImage, Medeye3d , MedPipe3d for medical imaging in julia) + sciML
 
-
+#Medical imaging and Artificial Intelligence
+Pytorch, MONAI, DICOM.jl, NIfTI.jl, MedImage.jl, MedPipe3D.jl, MedEye3D.jl, MetaArrays.jl, ITK.jl, MedResearch(github repo with papers)
 
 Golang
 swift + createML 
