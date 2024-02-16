@@ -37,7 +37,7 @@ postgresql + mysql + apache[spark,kafka, hadoop, datalake, Hive, solr, airflow] 
 solanaJS + Arweave (marton lederer) Arconnect + "ask claude[anthropic] for technologies for building smart contracts on blockchains" + arweave starter kit (nextjs , shadcnui , arweave kit)
 
 #ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING 
-PYTHON :  + anaconda + virtualenv + tensorflow + pytorch + keras + pandas + numpy + scipy + matplotlib + noteable(notebooks) + huggingface + selenium + pysyft(openminded) + scikitlearn + FastAPI + LangChain + pydantic + spaCY + OpenCV + NLTK + pySpark + pyODBC (azure sql databases ) + giskardAI (Model testing) + WeightsandBiases + openML + data.world + UCI ML + Gradio + StreamLit, on-prem. foundational models, containerization(kubernetes + helm) , container orchestration, azure machine learning studio, vector databases(pinecone, chroma), MLFlow
+PYTHON :  + anaconda + virtualenv + tensorflow + pytorch + keras + pandas + numpy + scipy + matplotlib + noteable(notebooks) + huggingface + selenium + pysyft(openminded) + scikitlearn + FastAPI + LangChain + pydantic + spaCY + OpenCV + NLTK + pySpark + pyODBC (azure sql databases ) + giskardAI (Model testing) + WeightsandBiases + openML + data.world + UCI ML + Gradio + StreamLit, on-prem. foundational models, containerization(kubernetes + helm) , container orchestration, azure machine learning studio, vector databases(pinecone, chroma), MLFlow, airbyte
 theoretical knowledge : evaluation metrics, deep learning, machine learning algorithms
 prebuilt-models : scaleAI, icons8-models, pieter-levels-companies(photoai.com, interiorAI.com). 
 data-generation-and-handling : neuraldatascience.io, MedResearch(divital-coder/github): a lot of resarch paper on GAN and medical imaging data.
