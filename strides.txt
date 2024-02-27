@@ -5,3 +5,4 @@ Reinforcement Learning with Human Feedback, Evaluation of LLMS, Hallucinations i
 Vector Search Datasets and Databases eg: ChromaDB,Pinecone, Elasticsearch
 Understanding and Implementing Graph Convolutional Neural Networks, and graph databases (GRAPHQL, GraphCNN in julia, SciML)
 Federated Machine Learning eg: Pysyft 
+GPU Programming / GPU Acceleration Using CUDA
