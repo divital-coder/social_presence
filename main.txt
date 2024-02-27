@@ -118,6 +118,9 @@ https://aimi.stanford.edu/shared-datasets
 awesome-public-datasets from github repo 
 Neuraldatascience.io (https://neuraldatascience.io/1-intro/learning_approach.html)
 
+Mistral AI (open mistral AI models , mixtral model)
+Nolano AI
+
 https://machinelearningmastery.com/start-here/
 https://roadmap.sh/ai-data-scientist
 
@@ -269,6 +272,8 @@ CatchaFire
 Growjo
 ProductHunt
 GetLatka Databases
+Y Combinator Hacker news
+
 
 !------------------------------Storage and organisation-------------!
 Playbook (storage, modern)

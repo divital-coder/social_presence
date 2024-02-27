@@ -10,9 +10,13 @@ Forefront
 Inflection
 Topaz Labs
 Epic Games (unreal engine)
-TinyGrad (George hotz company)
+TinyGrad (George hotz company) / MicroGrag
+MistralAI
+Northwood space (northwoodspace.io) (the data highway between ground stations and satellite)
+Paypal (machine learning division)
+NolanoAI
 PumasAI 
-JuliaHUB
+Juliahub
 
 //these companies freaking exist today , what are you waiting for 
 
