@@ -143,6 +143,7 @@ NeurIPS , ICLR , ICML, Association for Computational Linguistics, ICVPR, "ECML P
 AI Hackathons : 
 https://lablab.ai/event (lablab.ai)
 https://devpost.com/hackathons (devpost ai hackathons)
+Colosseum.org (blockchain hackathons, ai hackathons)
 
 -------------------------------------------------------------------
 
