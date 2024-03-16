@@ -103,7 +103,7 @@ theaisummer.com
 Alan Turing Institute
 climatechange.ai
 DeepSenseAI
-ResearchGate + ARxiv-submissions + googleScholar 
+ResearchGate + ARxiv-submissions + googleScholar + OA.mg (https://oa.mg/journals/open-access-quantum-mechanics-journals)
 UCI ML (Machine Learning repository for data sets and training)
 NeurIPS + ICLR + CVPR + AAAI (from scaleAI internship listings, posts in these platforms)
 stableDiffusion (the site for generating images)
