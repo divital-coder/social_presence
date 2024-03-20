@@ -1,0 +1,19 @@
+Working with virtual environments within arch linux:
+
+--Anaconda installation doesn't seem logical since its pain staking slow to install packages using conda.
+--An alternative discovered when dealing with tensorflow installation on anaconda on windows, is miniforge.
+--By defauly virtual environments on arch doesn't make sense, because all of the pytohn pacakges get installed system-wide from the AUR. 
+--There is no pip installation of python on arch. (for me atleast)
+
+--Referring to the following miniforge github repository, for arch linux installation which comes base installed with a base environment (current system-wide system), "mamba" and "conda" preinstalled. 
+https://github.com/conda-forge/miniforge/#download
+
+--installation of packages via the conda-forge channel.
+--Activate the <environment_name> by "mamba activate <environment_name>"
+--start installation pacakges either by mamba or by pip from a requirements file.
+"mamba install <package_name>"
+or 
+"pip install -r requirements.txt"
+
+
+
