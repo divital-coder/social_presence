@@ -19,3 +19,7 @@ Refer to the Conda wiki on arch linx for more details :
 https://wiki.archlinux.org/title/Conda
 
 
+CAUTION : activate your virtual environment first from mamba
+mamba env list
+mamba activate <env_name>
+
