@@ -27,15 +27,15 @@ Hugging Face careers (tech skills)
 Scale Ai generative AI hackathon
 Devpost listings
 Layer 5 meshery (Software engineering internships hacktoberfest)
-Plotly dash, talent community
-Canva talent community
+Plotly dash, talent community, -- applied
+Canva talent community, -- applied
 Arweave community (arewavev blockchain)
 Major League Hacking Fellowship
 Recurse Center
 CodeForces competition
 Leetcode
 O'reilly (learning stuff)
-find opportunities via product hunt and growjo
+find opportunities via product hunt, growjo, ycombinator hackernews
 
 
 ---------------other companies  ---------------
