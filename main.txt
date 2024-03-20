@@ -122,6 +122,8 @@ Mistral AI (open mistral AI models , mixtral model)
 Nolano AI
 Roboflow
 
+paperswithcode.com
+
 https://machinelearningmastery.com/start-here/
 https://roadmap.sh/ai-data-scientist
 
