@@ -15,5 +15,7 @@ https://github.com/conda-forge/miniforge/#download
 or 
 "pip install -r requirements.txt"
 
+Refer to the Conda wiki on arch linx for more details :
+https://wiki.archlinux.org/title/Conda
 
 
