@@ -120,6 +120,7 @@ Neuraldatascience.io (https://neuraldatascience.io/1-intro/learning_approach.htm
 
 Mistral AI (open mistral AI models , mixtral model)
 Nolano AI
+Roboflow
 
 https://machinelearningmastery.com/start-here/
 https://roadmap.sh/ai-data-scientist
