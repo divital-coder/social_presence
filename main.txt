@@ -28,6 +28,7 @@ calendly (great scheduling software)
 
 !--------------JOb Search ---------------!
 
+ai-jobs.net
 SIMPLIFY Extension (JOb search portal)
 Levels.io (Companies listings)
 Greenhouse (whenever u apply for a job, greenhosue provides a template for that job description and stuff)
