@@ -235,7 +235,8 @@ MachineHack Gen Ai
 
 
 !-----------Cloud native development and stuff--------!
-Cloud Native Computing Foundation (CNCF)
+Cloud Native Computing Foundation (CNCF) Project + Ambassador
+Linux Foundation Scholarships
 nginx + supabase + firebase 
 mongoDB + cloud databases  +kubernetes + docker
 
