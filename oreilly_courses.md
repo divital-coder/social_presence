@@ -1,4 +1,4 @@
-1) Deep learning with tensorflow, keras and pytorch. [https://github.com/jonkrohn/DLTFpT](https://github.com/jonkrohn/DLTFpT)
-2) Hands on deep learning with keras.
-3) Natural Language Processing with Real World projects 
-[https://github.com/packtpublishing/natural-language-processing-with-real-world-projects](https://github.com/packtpublishing/natural-language-processing-with-real-world-projects)
+1) Deep learning with tensorflow, keras and pytorch.[video link](https://youtu.be/UinV6_QiOEU?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) [github repos](https://github.com/jonkrohn/DLTFpT)
+2) Hands-on Deep Learning Model Training with the Sequential API in Keras.[video link](https://youtu.be/aPUCQ46BcK0?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) [SUpplementary](https://manning.com)
+3) Natural Language Processing with Real World projects [video link part1]() [video link part2]() 
+[github repos](https://github.com/packtpublishing/natural-language-processing-with-real-world-projects)
