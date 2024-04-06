@@ -6,3 +6,4 @@
 4) LangChain Masterclass - Build 15 OpenAI and LLAMA 2 LLM Apps Using Python [video link](https://youtu.be/R6sRBWnqZH0?list=PLwVzlbeNfUoGAhidDFq-GLVuilj_ICkmk) [github repos](https://github.com/PacktPublishing/LangChain-MasterClass---Build-15-OpenAI-and-LLAMA-2-LLM-Apps-using-Python)
 
 5) Deep Learning for Natural Language Processing, 2nd edition [video link](https://youtube.com/live/GWTjGE7I3Qo) [github repos](https://github.com/jonkrohn/DLTFpT)
+6) Introduction to Transformer Models for NLP: Using BERT, GPT, and More to Solve Modern NLP [video link](https://youtu.be/t6L9MBi0qNA) [github repos](https://github.com/sinanuozdemir/oreilly-transformers-video-series)
