@@ -7,3 +7,4 @@
 
 5) Deep Learning for Natural Language Processing, 2nd edition [video link](https://youtube.com/live/GWTjGE7I3Qo) [github repos](https://github.com/jonkrohn/DLTFpT)
 6) Introduction to Transformer Models for NLP: Using BERT, GPT, and More to Solve Modern NLP [video link](https://youtu.be/t6L9MBi0qNA) [github repos](https://github.com/sinanuozdemir/oreilly-transformers-video-series)
+7) Machine Vision, GANs, and Deep Reinforcement Learning [video link](https://youtu.be/OvEqxjJoNcY?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) [github repos](https://github.com/jonkrohn/DLTFpT)
