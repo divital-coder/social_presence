@@ -9,3 +9,4 @@
 6) Introduction to Transformer Models for NLP: Using BERT, GPT, and More to Solve Modern NLP [video link](https://youtu.be/t6L9MBi0qNA) [github repos](https://github.com/sinanuozdemir/oreilly-transformers-video-series)
 7) Machine Vision, GANs, and Deep Reinforcement Learning [video link](https://youtu.be/OvEqxjJoNcY?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) [github repos](https://github.com/jonkrohn/DLTFpT)
 8) Learning Deep Learning: From Perceptron to Large Language Models [video link](https://youtu.be/TqCS2KinBzw?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) [github repos](https://github.com/NVDLI/LDL)
+9) Quick Guide to Large Language Models: Introduction [video link](https://youtu.be/YxFuXcOJq-s?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) [github repos](https://github.com/sinanuozdemir/quick-start-guide-to-llms)
