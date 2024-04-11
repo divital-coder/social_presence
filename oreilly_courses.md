@@ -13,4 +13,5 @@
 10) Machine Learning, Data Science and Generative AI with Python [video link part1](https://youtu.be/2y98BAWL8Yw?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) [video link part2](https://youtu.be/sSyIH7BqFmU?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) [github repos](https://github.com/PacktPublishing/Machine-Learning-Data-Science-and-Generative-AI-with-Python)
 11) The Essential Machine Learning Foundations: Math, Probability, Statistics, and Computer Science [video link part1](https://youtu.be/x23Wt84ATSQ?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) [video link part2](https://youtu.be/MNad_ebcY3M?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) [github repos](https://github.com/jonkrohn/ML-foundations)
 12) Virtualization for Everyone [video link](https://youtu.be/4eYcUO0eZXU)
-13) 
+13) PyTorch 2.0 for Deep Learning: Building and Training Neural Networks from Scratch [video link](https://youtu.be/nXpwLie0LFE?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM)
+14) 
