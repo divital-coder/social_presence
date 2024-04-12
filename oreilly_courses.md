@@ -16,4 +16,5 @@
 13) PyTorch 2.0 for Deep Learning: Building and Training Neural Networks from Scratch [video link](https://youtu.be/nXpwLie0LFE?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM)
 14) AI Security and Responsible AI Practices [video link](https://youtu.be/nNz770PhYYM?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM)
 15) Deep Learning - Artificial Neural Networks with Tensorflow [video link](https://youtu.be/NLZ08PoEnJ0?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM)
-16) 
+16) Linux Under the Hood, 2nd Edition [video link](https://youtu.be/JVBLEMJUYck?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM)
+17) 
