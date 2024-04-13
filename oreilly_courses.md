@@ -18,4 +18,4 @@
 15) Deep Learning - Artificial Neural Networks with Tensorflow [video link](https://youtu.be/NLZ08PoEnJ0?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM)
 16) Linux Under the Hood, 2nd Edition [video link](https://youtu.be/JVBLEMJUYck?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM)
 17) Linux Shell Scripting - Advanced [video link](https://youtu.be/RpfhSm_4vtU)
-18) 
+18) PyTorch for Deep Learning and Computer Vision [video link](https://youtu.be/cn3KbDDCmuI?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) [github repos](https://github.com/packtpublishing/pytorch-for-deep-learning-and-computer-vision)
