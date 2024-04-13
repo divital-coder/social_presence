@@ -313,5 +313,28 @@ Alice Delish (all her links on her personal site) :  alicedelish.com (the girl w
 !---------------nostalgic ,miscellaneous things ------------------------!
 Google Earth (locate your favourite places and travel all across the world, wherever u want)
 
+!--------------Information saved from the web----------------------------!
+Google chrome saved bookmarks
+Microsoft Edge saved bookmarks
+Winwdows Os screenshots
+Brave bookmarks
+Realmex, Iphone6 screenshots
+Self whatsapp Chat
+Self slack chat
+Added discord servers 
+Saved LinkedinPosts
+Saved Instagram posts
+Saved X posts
+Saved Reddit posts
+Saved and Liked youtube videos and playlist (ML ones, Deno.js ones, svelte and Dear Imgui ones)
+Macbook screenshots
+Apple notes information
+Onenote information
+Mem labs informaiton
+Notion information
+
+
+
+
 
 
