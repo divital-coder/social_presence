@@ -20,4 +20,5 @@
 17) Linux Shell Scripting - Advanced [video link](https://youtu.be/RpfhSm_4vtU)
 18) PyTorch for Deep Learning and Computer Vision [video link](https://youtu.be/cn3KbDDCmuI?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) [github repos](https://github.com/packtpublishing/pytorch-for-deep-learning-and-computer-vision)
 19) Advanced Chatbots with Deep Learning and Python [video link](https://youtu.be/QdZ4ZJMWjvM?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) [github repos](https://github.com/PacktPublishing/Advanced-Chatbots-with-Deep-Learning-Python)
-20) 
+20) Practical Machine Learning with TensorFlow 2.0 and Scikit-Learn [video link part1](https://youtube.com/live/x929jsGsQds) [video link part2]() [github repos](https://github.com/PacktPublishing/Practical-Machine-Learning-with-TensorFlow-2.0-and-Scikit-Learn)
+21) 
