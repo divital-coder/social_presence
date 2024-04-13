@@ -35,6 +35,11 @@ Greenhouse (whenever u apply for a job, greenhosue provides a template for that 
 Indeed 
 GlassDoor
 Dice.com
+GrowJO
+ProductHunt
+GetLatka databases
+Y combinator hacker news
+
 
 !-------CREATIVE OUTLETS --------!
 Pexels (signed email) "divital2004@gmail.com"
@@ -180,6 +185,7 @@ TEam field manual (Red team field manual + blue team field manual)
 
 
 !---------------------------API development---------------------
+FastAPI (python library)
 Quandl
 rapid API
 alphavantage api
@@ -271,7 +277,8 @@ Mapbox
 !------------------------VOlunteer work-------------------------!
 InternetArchive  (Wayback machine)
 CatchaFire
-
+Github open source contributions
+Julia ML models on huggingface
 
 
 !-------------------Company Discovery------------------!
