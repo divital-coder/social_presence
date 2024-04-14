@@ -39,6 +39,7 @@ GrowJO
 ProductHunt
 GetLatka databases
 Y combinator hacker news
+CNCF Job board
 
 
 !-------CREATIVE OUTLETS --------!
