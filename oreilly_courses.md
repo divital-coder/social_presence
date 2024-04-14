@@ -22,4 +22,5 @@
 19) Advanced Chatbots with Deep Learning and Python [video link](https://youtu.be/QdZ4ZJMWjvM?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) [github repos](https://github.com/PacktPublishing/Advanced-Chatbots-with-Deep-Learning-Python)
 20) Practical Machine Learning with TensorFlow 2.0 and Scikit-Learn [video link part1](https://youtube.com/live/x929jsGsQds) [video link part2](https://youtu.be/li-q9iPJC5M?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) [github repos](https://github.com/PacktPublishing/Practical-Machine-Learning-with-TensorFlow-2.0-and-Scikit-Learn)
 21) Ultimate Go: Advanced Concepts [video link](https://youtu.be/i3f39QPdg8Y?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM)
-22) 
+22) Learning Apache Tomcat [video link](https://youtube.com/live/nuinnubO_D0) [gitlab repos](https://resources.oreilly.com/examples/0636920053606/?_gl=1%2ary0j79%2a_ga%2aMTYwNzAwMzAzNC4xNzAyMDMwMTYz%2a_ga_4WZYL59WMV%2aMTcxMzA5NDAwMi4zMS4xLjE3MTMwOTUwMDMuMjkuMC4w)
+23) 
