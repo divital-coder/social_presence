@@ -154,7 +154,8 @@ AI Hackathons :
 https://lablab.ai/event (lablab.ai)
 https://devpost.com/hackathons (devpost ai hackathons)
 Colosseum.org (blockchain hackathons, ai hackathons)
-
+https://sites.nyuad.nyu.edu/hackathon/ (quantum computing hackathon)
+https://qworld.net (quantum computing hackathons)
 -------------------------------------------------------------------
 
 
