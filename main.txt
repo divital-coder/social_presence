@@ -137,6 +137,8 @@ https://roadmap.sh/ai-data-scientist
 (learn about all things algos data structs and ai knowledge)
 aman.ai (for learning about the grounding knowledge in ai) + https://youtu.be/t2CEgPsws3U?list=RDCMUC8butISFwT-Wl7EV0hUK0BQ
 
+backdrop build
+buildspace 
 -----------------------AI Resarch Labs---------------------------
 Vector Institute for AI
 Mila/Udem Institute for AI (Professor Irina Rish)
