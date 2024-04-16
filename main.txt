@@ -160,7 +160,36 @@ https://sites.nyuad.nyu.edu/hackathon/ (quantum computing hackathon)
 https://qworld.net (quantum computing hackathons)
 -------------------------------------------------------------------
 
-
+!-----------------------Julia community networking --------------------!
+Barcelona julia health meetup group (Genie.jl) https://www.meetup.com/groups/
+Julia community otganizations https://julialang.org/community/organizations/
+MLJ.jl https://github.com/alan-turing-institute/MLJ.jl/blob/dev/CONTRIBUTING.md https://github.com/alan-turing-institute/MLJ.jl?tab=readme-ov-file https://alan-turing-institute.github.io/MLJ.jl/dev/
+Julia con and julia con sponsorsA for opportunitites https://juliacon.org/2024/
+julia jobns wiki https://en.wikibooks.org/w/index.php?title=Introducing_Julia/Jobs
+julia hub careers https://juliahub.com/
+pumasAI careers https://pumasai.com/careers
+julia lang forem https://forem.julialang.org/search?q=&filters=class_name:Organization
+julia lang discourse jobs tag https://discourse.julialang.org/tag/jobs/l/latest
+Numfocus IG life science shared drive https://drive.google.com/drive/folders/0AP53T0JdGQK-Uk9PVA
+NumFocus Inc people emails :
+alexy@opensource.science (manager)
+arliss@numfocus.org (manager)
+Eileenkoski@gmail.com (content manager)
+jon@numfocus.org (manager)
+leah@numfocus.org (manager)
+nicole@numfocus.org (manager)
+nolan@numfocus.org (manager)
+life-sciences@opensource.science (OSSci Life science IG commenter)
+rapsomaniki.marianna@gmail.com (content manager)
+tim@opensource.science (manager)
+Numfocus shared drive resources https://docs.google.com/spreadsheets/d/1XdvuYmrLSVRFmpBaBY9uXsVts8uXjhdL/edit#gid=589676214  https://docs.google.com/spreadsheets/d/1ODKbjEWpB3Sb7-jbqQMW0vQT4TG7ZDVx0tWVExN4AHA/edit#gid=0
+Numfocu shared drive recordings https://drive.google.com/drive/folders/1Vv6XF3udRb0yhhbIUQUedDXL9r181-1h
+Numfocus GSOc and community projects https://numfocus.org/programs/google-summer-code https://github.com/numfocus/gsoc https://numfocus.medium.com/ https://numfocus.org/community/people
+The Genie frameworks and community https://genieframework.com/ , GEnie discord server  https://github.com/GenieFramework/Genie.jl https://www.linkedin.com/in/cpalumbo/ https://genieframework.com/blog
+Julia language contributions page https://julialang.org/contribute/#:~:text=Contributing%20to%20the%20Julia%20ecosystem%20brings%20the%20following%20benefits%3A,Build%20confidence%20with%20Julia.
+Aurora Rossi julia phd candidate https://aurorarossi.github.io/menu3/
+Climate modelling alliance https://clima.caltech.edu/
+Axiomatic AI https://www.axiomatic-ai.com/
 
 
 !------------------------BlockChain stuff--------------------------------!

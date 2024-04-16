@@ -64,7 +64,7 @@ swift + createML
 Bash scripting 
 API and hosting : ngrok + Postman API + RAPID API
 observaibility platforms : datadog, cloud native computing foundation(Projects)
-Continuous integration + Continuous Development stuff (CI/CD)) : github actions and workflows
+Continuous integration + Continuous Development stuff (CI/CD)) : github actions and workflows, dagger.io
 Deployment : Docker , kubernetes + helm , Microsoft Azure , Cloud databases.
 TERMINAL : iterm + warp/fig + hyper + foot (arch) / kitty + nvim + jet brains suite of products + visual studio code 
 Audio frameworks : FFMPEG 
