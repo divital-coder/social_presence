@@ -40,8 +40,14 @@ Colosseum.org (hackathons)
 #ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING 
 PYTHON :  + anaconda + virtualenv + tensorflow + pytorch + keras + pandas + numpy + scipy + matplotlib + noteable(notebooks) + huggingface + selenium + pysyft(openminded), Flower (slack) + scikitlearn + FastAPI + LangChain + pydantic + spaCY + OpenCV + NLTK + pySpark + pyODBC (azure sql databases ) + giskardAI (Model testing) + WeightsandBiases + openML + data.world + UCI ML + Gradio + StreamLit, on-prem. foundational models, containerization(kubernetes + helm) , container orchestration, azure machine learning studio, vector databases(pinecone, chroma), MLFlow, airbyte
 KubeFlow(machine-learning on kubernetes), MistralAI, RoboFlow
-Jax (library and advanced tutorials) , Ivy ML framework, LlamaIndex, Llamahub (https://llamahub.ai/),
-Ollama, mixedbread.ai (embeddings)
+Jax (library and advanced tutorials) , Ivy ML framework, LlamaIndex, Llamahub (https://llamahub.ai/), adaptive-ml.com, e2b.dev 
+Ollama, mixedbread.ai (embeddings), llamafile https://justine.lol/matmul/
+
+Fine-tuning : torchtune
+Data-labelling and annotation : v7labs.com
+open-source CRM : https://twenty.com/
+open-souce alt to zendesk : https://www.seventy-seven.dev/
+
 
 research reading : paperswithcode.com
 
@@ -53,8 +59,12 @@ NOTE : "check visual studio community edition installer interface for data-scien
 rust + tauri + wayland 
 ML-OPS: neptune.ai 
 
+Proximal policy optimization (PPO in LLMs) https://cameronrwolfe.substack.com/p/proximal-policy-optimization-ppo
+Direct preference optimization (DPO in LLMs) https://medium.com/@ManishChablani/aligning-llms-with-direct-preference-optimization-dpo-background-overview-intuition-and-paper-0a72b9dc539c
+
 #SCIENTIFIC COMPUTING IN JULIA LANGUAGE
 julia + dataFrames + dash (data -visualisation framework) + Plotly + (MedImage, Medeye3d , MedPipe3d for medical imaging in julia) + sciML
+JuliaGenAI, Genie.jl contributions
 
 #Medical imaging and Artificial Intelligence
 Pytorch, MONAI, DICOM.jl, NIfTI.jl, MedImage.jl, MedPipe3D.jl, MedEye3D.jl, MetaArrays.jl, ITK.jl, MedResearch(github repo with papers)
