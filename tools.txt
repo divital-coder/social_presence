@@ -98,6 +98,12 @@ Mingw
 MSYS2
 Windows subsystem for linux
 
+---------------------Illustrations and graphics---------------------------------
+mind the graph https://mindthegraph.com/illustrations/
+icons8
+font awesome
+
+
 !-----------------Event organising stuff and meeting---------------------------------!
 Meetup
 Luma AI (For event cards)

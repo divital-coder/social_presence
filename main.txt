@@ -158,6 +158,15 @@ https://devpost.com/hackathons (devpost ai hackathons)
 Colosseum.org (blockchain hackathons, ai hackathons)
 https://sites.nyuad.nyu.edu/hackathon/ (quantum computing hackathon)
 https://qworld.net (quantum computing hackathons)
+
+(MEDICAL IMAGING INSTITUTES)
+chan zuckerberg imaging institute https://www.czimaginginstitute.org/careers/ https://github.com/czimaginginstitute  https://chanzuckerberg.com/careers/career-opportunities/?lists=all&lists=artificial-intelligence
+center of advanced imaging institute https://cai2r.net/research/
+wellcome center human neuroimageing https://www.fil.ion.ucl.ac.uk/about/vacancies-and-careers/
+[architecture firm]  https://www.atrr.ca/company
+siemens healthineers https://jobs.siemens-healthineers.com/careers?query=intern&location=any&pid=563156119397676&level=student%20%28not%20yet%20graduated%29&level=recent%20college%20graduate&domain=siemens.com&sort_by=relevance&hl=en
+national institute of health https://www.nibib.nih.gov/training-careers/undergraduate
+
 -------------------------------------------------------------------
 
 !-----------------------Julia community networking --------------------!
