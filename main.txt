@@ -168,6 +168,24 @@ wellcome center human neuroimageing https://www.fil.ion.ucl.ac.uk/about/vacancie
 siemens healthineers https://jobs.siemens-healthineers.com/careers?query=intern&location=any&pid=563156119397676&level=student%20%28not%20yet%20graduated%29&level=recent%20college%20graduate&domain=siemens.com&sort_by=relevance&hl=en
 national institute of health https://www.nibib.nih.gov/training-careers/undergraduate
 GE healthcare [https://careers.gehealthcare.com/global/en/internships]
+Medical Imaging (https://www.medicalimaging.org/medical-imaging)
+Medical Imaging Challenges , Grand Challenges (https://grand-challenge.org/challenges/)
+Image Sciences Institute (https://www.isi.uu.nl/vacancies/)
+UMC Utrecht (https://www.werkenbijumcutrecht.nl/vacatures?o=0&n=10&of=8180726&f=5397647&hl=0&hh=48#vacancy-overview)
+ImagO (https://www.imago.uu.nl/)
+ASCI Distributed computing institute (https://asci.school/)
+Image Sciences tutorial (https://imagescience.org/tutorials/)
+Magnetic Resonance Book (https://www.magnetic-resonance.org/ch/06-01.html)
+Leukemia Database for Image Processing (https://scotti.di.unimi.it/all/)
+Cancer Imaging Archive (https://wiki.cancerimagingarchive.net/display/Public/Challenge+competitions)
+Rochester Institute of Technology, phd in Imaging Science (https://www.rit.edu/science/chester-f-carlson-center-imaging-science#research)
+Search for Imaging Science Competitions on brave, chrome, firefox and other search engines. use google dorking with gpt-4o. (WinGPT)
+---https://www.nanoartography.org/2023
+---https://www.rms.org.uk/outreach.html
+---https://www.snf.ch/en/xcDCNJikRZXwYWC5/page/science-communication/image-competition
+Sample Imaging CT data from cancer imaging archive (https://www.cancerimagingarchive.net/collection/ct-org/)
+Danaher Sciences careers (https://jobs.danaher.com/global/en?utm_source=dhls_website&utm_medium=referral&utm_content=footer)
+
 
 -------------------------------------------------------------------
 
@@ -225,6 +243,7 @@ Black Hat conference
 Defcon
 hackersploit
 TEam field manual (Red team field manual + blue team field manual)
+World Campus Tech Club https://sites.psu.edu/wctechclub/ 
 
 
 
