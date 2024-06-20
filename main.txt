@@ -111,7 +111,7 @@ theaisummer.com
 Alan Turing Institute
 climatechange.ai
 DeepSenseAI
-ResearchGate + ARxiv-submissions + googleScholar + OA.mg (https://oa.mg/journals/open-access-quantum-mechanics-journals)
+ResearchGate + ARxiv-submissions + Research Square https://www.researchsquare.com/  + googleScholar + OA.mg (https://oa.mg/journals/open-access-quantum-mechanics-journals)
 UCI ML (Machine Learning repository for data sets and training)
 NeurIPS + ICLR + CVPR + AAAI (from scaleAI internship listings, posts in these platforms)
 stableDiffusion (the site for generating images)
@@ -125,11 +125,12 @@ https://radweb.su.domains/datasets/
 https://aimi.stanford.edu/shared-datasets
 awesome-public-datasets from github repo 
 Neuraldatascience.io (https://neuraldatascience.io/1-intro/learning_approach.html)
-
+GPT4-o within a web based interface like the old windows 95 winGPT(https://wingpt.vercel.app/)
 Mistral AI (open mistral AI models , mixtral model)
 Nolano AI
 Roboflow
-
+AI Alliance (https://thealliance.ai/aia-members)
+NousResearch releases (https://nousresearch.com/releases/)
 paperswithcode.com
 https://goombalab.github.io/blog/ (Ai channels from julia slack)
 https://machinelearningmastery.com/start-here/
@@ -185,7 +186,18 @@ Search for Imaging Science Competitions on brave, chrome, firefox and other sear
 ---https://www.snf.ch/en/xcDCNJikRZXwYWC5/page/science-communication/image-competition
 Sample Imaging CT data from cancer imaging archive (https://www.cancerimagingarchive.net/collection/ct-org/)
 Danaher Sciences careers (https://jobs.danaher.com/global/en?utm_source=dhls_website&utm_medium=referral&utm_content=footer)
+MonAI (framework) (https://monai.io/started.html) (https://monai.io/model-zoo)
+Starred package and repositories on github (https://github.com/divital-coder?tab=stars)
+OneNote Medical Imaging project note with resources : https://stdntpartners-my.sharepoint.com/personal/divyansh_goyal_studentambassadors_com/_layouts/15/Doc.aspx?sourcedoc={8e27c69a-651e-4cc8-985d-85529c0d8fc7}&action=edit&wd=target%28BackdropBuild.one%7Cfbd0e990-3d55-4cc8-a46a-d0bafdfea341%2FProject%20%20Medical%20Image%20%28brain%5C%29%2C%20visualisation%2C%7C54a88332-5ae4-4741-977b-e744f1a9c8be%2F%29&wdorigin=NavigationUrl
+OPI (https://opi.org.pl/en/) National Information Processing Institute
+Carmias toolkit (https://carimas.fi/carimasce/)
 
+Educational resources and publications : 
+https://link.springer.com/search?new-search=true&query=medical+imaging&content-type=review&dateFrom=&dateTo=&sortBy=relevance
+https://www.nature.com/collections/ebfjiijhgc?gad_source=1&gclid=CjwKCAjw1K-zBhBIEiwAWeCOFw7oNIkQHAGqq9WlaOmXOMZjXuvbkUXczFJ4DDKienqSkSgkd6ZPPBoCgyQQAvD_BwE
+https://link.springer.com/article/10.1007/s10278-024-01083-0
+https://link.springer.com/article/10.1007/s12559-024-10291-3
+Pirates bay search for medical imaging stuff (https://tprbay.pw/search/medical%20imaging/1/99/0)
 
 -------------------------------------------------------------------
 
