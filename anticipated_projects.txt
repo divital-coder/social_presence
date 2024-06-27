@@ -17,7 +17,9 @@ sound-of-sorting in [dear Imgui, svelte]
 Plotly julia dash sample applications, within the julia langauge ecosystem
 Custom self portfolio site alongside your linktree.
 
-MEDICAL IMAGING : 
+MEDICAL IMAGING :
+TAKEN FROM MAIN HERE : https://discourse.julialang.org/t/northeastern-university-looking-for-research-projects-for-student-teams/114880/6
+
 My propositions
 A) implement foundational models for medical image segmentation and regression, similar to monai network architectures [1]. Implementation should be tested on medical decathlon datasets [2] .
 Expected outcome :
@@ -80,6 +82,20 @@ Redirect Notice
 https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/omlins/ParallelStencil.jl&ved=2ahUKEwiX7fHsgriGAxWmIhAIHU6RI_cQFnoECBIQAQ&usg=AOvVaw1HUlijhdrIEA6BxB_9FvSH
 
 https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/JuliaGPU/KernelAbstractions.jl&ved=2ahUKEwjfg-mEg7iGAxXTJBAIHSjyBqcQFnoECBMQAQ&usg=AOvVaw2rX4DW2SLKAIVL7wNZk5Tv
+
+
+Additional idea (I do not have sufficient knowledge of the underlying algorithms to mentor it, but I know it would be very usefull)
+Expected outcome:
+Create a package that will calculate required sample size for study group and external validation for various task like binary prediction, multiclass prediction, prediction of continuous variable including time to event.
+Sources:
+
+https://www.researchgate.net/profile/Richard-Riley-5
+algoriths described for example in
+https://www.researchgate.net/publication/371960599_Calculating_the_power_of_a_planned_individual_participant_data_meta-analysis_of_randomised_trials_to_examine_a_treatment-covariate_interaction_with_a_time-to-event_outcome?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6Il9kaXJlY3QifX0https://www.researchgate.net/publication/367287222_Minimum_sample_size_for_developing_a_multivariable_prediction_model_using_multinomial_logistic_regression?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6Il9kaXJlY3QifX0https://www.researchgate.net/publication/362523318_Calculating_the_power_to_examine_treatment-covariate_interactions_when_planning_an_individual_participant_data_meta-analysis_of_randomized_trials_with_a_binary_outcome?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6Il9kaXJlY3QifX0https://www.researchgate.net/publication/362276940_Minimum_Sample_Size_for_Developing_a_Multivariable_Prediction_Model_using_Multinomial_Logistic_Regression?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6Il9kaXJlY3QifX0https://www.researchgate.net/publication/361920809_Bayesian_network_meta-analysis_methods_for_combining_individual_participant_data_and_aggregate_data_from_single_arm_trials_and_randomised_controlled_trials?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6Il9kaXJlY3QifX0https://www.researchgate.net/publication/357113126_Minimum_sample_size_calculations_for_external_validation_of_a_clinical_prediction_model_with_a_time-to-event_outcome?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6Il9kaXJlY3QifX0https://www.researchgate.net/publication/351841938_Minimum_sample_size_for_external_validation_of_a_clinical_prediction_model_with_a_binary_outcome?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSJ9fQhttps://www.researchgate.net/publication/351791690_Power_Calculations_for_Planning_an_IPD_Meta-Analysis?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSJ9fQhttps://www.researchgate.net/publication/346653153_Minimum_sample_size_for_external_validation_of_a_clinical_prediction_model_with_a_continuous_outcome?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSJ9fQhttps://www.researchgate.net/publication/340003737_Calculating_the_sample_size_required_for_developing_a_clinical_prediction_model?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSJ9fQhttps://www.researchgate.net/publication/328539604_Minimum_sample_size_for_developing_a_multivariable_prediction_model_PART_II_-_binary_and_time-to-event_outcomes?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSJ9fQhttps://www.researchgate.net/publication/328438042_Minimum_sample_size_for_developing_a_multivariable_prediction_model_Part_I_-_Continuous_outcomes?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSJ9fQhttps://www.researchgate.net/publication/325228522_Simulation-based_power_calculations_for_planning_a_two-stage_individual_participant_data_meta-analysis?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoicHJvZmlsZSJ9fQ
+
+big part of those articles them has short R code available
+
+if a team of students could parse it to Julia and organize would be immensly helpfull for anybody planning a study.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
