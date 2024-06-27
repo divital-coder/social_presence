@@ -17,6 +17,79 @@ sound-of-sorting in [dear Imgui, svelte]
 Plotly julia dash sample applications, within the julia langauge ecosystem
 Custom self portfolio site alongside your linktree.
 
+MEDICAL IMAGING : 
+My propositions
+A) implement foundational models for medical image segmentation and regression, similar to monai network architectures [1]. Implementation should be tested on medical decathlon datasets [2] .
+Expected outcome :
+Set of the well established architectures, build in a modular way. Modularity shluld lead to the possibility of exchanging encoders and decoders from diffrent architectures. Each level of encoder or decoder should be implemented as a parametrirised module. There should benimplemented function that given parameters would return decoder, encoder, or whole network. All parameters of the constructed network should be present in struct to enable hyperparameter tuning. Models should be implemented in Julia using Lux.jl [3], and MedPipe3D.jl [4]. Final report should include the results of architectures with default settings (those can be based on monai [1]) on chosen datasets from medical decathlon [2] for segmentation use dice score. Report also training and infrence time, as well as generalizibility of the model measured by performance of the algorithm on ct-org [5]
+
+B) Adapt and or add explainability algorithms in julia libraries [6] for 3d medical imaging. Taking into account ussually high memory requirements caused by big size of medical images. As the additional example analyze python captum library [7] .
+Expected outcome :
+Algorithms should include at least guided backpropagation including layer wise [8], occlusion [9] and training data attribution [10]. Experiments should be done using classic unet architecture in Julia using Lux.jl [3], and MedPipe3D.jl [4]. Final report should include experiments on medical decathlon datasets [2] . for guided backpropagation petform image wise classification of prostate based on picai dataset [11] and show that guided backpropagation shows approximately area of cancer present based on dataset labels. For training data attribution corrupt the segmentation dataset by dilatating or eroding labels using mathemathical morphology and show that training data attribution can find those samples as outliers. For occlusion use picai dataset and show that classification of cancer vs lack of it is harder when occluding area where this cancer is based on labels. Put results explanations, interpratations (for medical interpreterion consult me (Jakub Mitura) and visualization in final report
+
+C) Implementing extraction of radiomic features of 2d and 3d medical images similar to pyradiomics [12] . Perform experiments on pet/ct data from autopet dataset [13].
+Expected outcome : implement at least GLCM, GLSZM, GLRM, NGTDM, and GLDM [12] . Extract all features for segmented lesions in the auto pet dataset from both pet and ct modalities, and check weather you can using probabilistic methods from Turing.jl [14] you can differentiate between diffrent cancer types. In report describe methodology, give results of the model , and show that features values give the same result as in pyradiomics [12]. Implementation should be using medpipe3d [4] or medimage [15]. Extraction methods should be based on parallel stencil [17] or kernel abstractions [18]
+
+D) implent capsule network architecture [16] for 3d medical imaging .
+
+Expected outcome : implement capsule network,
+Using Lux.jl [3], and MedPipe3D.jl [4]. provide explanation why thise network architecture can improve generalizability, adapt implement chosen variants of architecture from literature. Perform experiments trying to proove its generalizibility comparing it to classical unet on medical decathlon dataset.
+
+MONAI
+https://docs.monai.io › networks
+Network architectures — MONAI 1.3.1 Documentation
+
+Medical Segmentation Decathlon
+http://medicaldecathlon.com
+Medical Segmentation Decathlon
+
+GitHub - LuxDL/Lux.jl: Explicitly Parameterized Neural Networks in Julia
+
+GitHub - JuliaHealth/MedPipe3D.jl 1
+
+Nature
+https://www.nature.com › articles
+CT-ORG, a new dataset for multiple organ segmentation in computed tomography
+
+Julia Explainable AI · GitHub
+
+7)Algorithm Descriptions · Captum
+
+8)https://captum.ai/docs/attribution_algorithms###Guided-Backpropagation
+
+[1311.2901] Visualizing and Understanding Convolutional Networks
+
+arXiv
+https://arxiv.org › cs
+Exploring Practitioner Perspectives On Training Data Attribution
+
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pi-cai.grand-challenge.org/&ved=2ahUKEwigkpfa_LeGAxV5IhAIHU7wA0wQFnoECA4QAQ&usg=AOvVaw3t4G5yRZln6enX_QbLh-RA
+
+PyRadiomics
+https://pyradiomics.readthedocs.io
+pyradiomics documentation!
+
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://autopet.grand-challenge.org/&ved=2ahUKEwiAmf-y_7eGAxUdKhAIHWGiJyQQFnoECA4QAQ&usg=AOvVaw1iaKIN-8ZOmsr-HxrX1tXW
+
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://turing.ml/&ved=2ahUKEwj2pNz1_7eGAxWdPhAIHQ2vEgMQFnoECA0QAQ&usg=AOvVaw1eC5TdgkRg4x8cWzy2EOYz
+
+Redirect Notice
+
+16)https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/danielhavir/capsule-network&ved=2ahUKEwiYgpuvgriGAxXtHRAIHTmgAQQQFnoECA4QAQ&usg=AOvVaw1RF-xUHUEm5ttX5zhc-eUi 1
+
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/omlins/ParallelStencil.jl&ved=2ahUKEwiX7fHsgriGAxWmIhAIHU6RI_cQFnoECBIQAQ&usg=AOvVaw1HUlijhdrIEA6BxB_9FvSH
+
+https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/JuliaGPU/KernelAbstractions.jl&ved=2ahUKEwjfg-mEg7iGAxXTJBAIHSjyBqcQFnoECBMQAQ&usg=AOvVaw2rX4DW2SLKAIVL7wNZk5Tv
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
 UPCOMING THINGS :
 plotly talent network : DOne 
 canva talent network : DOne
