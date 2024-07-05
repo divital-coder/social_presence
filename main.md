@@ -212,8 +212,8 @@ SantaFe complexity researcher
 
 [Skills for algorithms for medical imaging by czi]
 
-![CZi job listing one ](/home/hurtbadly/Pictures/Screenshots/swappy-20240706-042151.png)
-![CZI job listing two](/home/hurtbadly/Pictures/Screenshots/swappy-20240706-042208.png)
+![CZi job listing one ](./images/swappy-20240706-042151.png)
+![CZI job listing two](./images/swappy-20240706-042208.png)
 
 -------------------------------------------------------------------
 
