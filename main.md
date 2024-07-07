@@ -215,6 +215,18 @@ SantaFe complexity researcher
 ![CZi job listing one ](./images/swappy-20240706-042151.png)
 ![CZI job listing two](./images/swappy-20240706-042208.png)
 
+![ATROPOS HEALTH machine learning engineer listing](./images/)
+![ATROPOS HEALTH machine learning engineer listing](./images/)
+
+[Commercial Industry under medical imaging outlets, electronics and software]
+[TEMPUS](https://www.tempus.com/job-postings/?department=&location=&filter=&remoteFriendly=0)
+[BUTTERFLY NETWORK](https://www.butterflynetwork.com/careers#open-roles)
+[ATROPOS HEALTH](https://www.atroposhealth.com/careers)
+
+
+
+
+
 -------------------------------------------------------------------
 
 !-----------------------Julia community networking --------------------!
