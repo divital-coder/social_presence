@@ -192,6 +192,14 @@ OneNote Medical Imaging project note with resources : https://stdntpartners-my.s
 OPI (https://opi.org.pl/en/) National Information Processing Institute
 Carmias toolkit (https://carimas.fi/carimasce/)
 CANON medical imaging internship [november-january application deadline] (https://research.eu.medical.canon/careers/internship-program/) (https://www.research.us.medical.canon/opportunities/)
+[MEDICAL IMAGING DEEP LEARNING CONFERENCE](https://www.midl.io/job-board)
+[MICCAI](https://miccai.org/index.php/job-board/?start=9)
+https://www.aicjanelia.org/instruments
+https://www.janelia.org/open-science/overview/open-science-software-initiative-ossi
+https://www.nimbios.org/
+https://ai-jobs.net/?key=cryo+EM&exp=&sal=
+https://aijobs.app/?c=Internship
+
 
 
 Educational resources and publications : 
@@ -201,6 +209,32 @@ https://link.springer.com/article/10.1007/s10278-024-01083-0
 https://link.springer.com/article/10.1007/s12559-024-10291-3
 https://hal.science/search/index?q=domain_t%3Asdv+medical+imaging
 Pirates bay search for medical imaging stuff (https://tprbay.pw/search/medical%20imaging/1/99/0)
+https://openreview.net/forum?id=M6CfJ5H7XH
+https://www.reddit.com/r/Julia/comments/17z0gsg/looking_for_up_to_date_advanced_julia_programming/
+https://book.sciml.ai/
+https://julia.quantecon.org/intro.html
+https://julialang.org/learning/tutorials/
+https://github.com/brenhinkeller/JuliaAdviceForMatlabProgrammers
+https://jmirpublications.com/?__hstc=102212634.0bad7b93397ea5c8e2dc4d8d2d9d9453.1720173762276.1720173762276.1720173762276.1&__hssc=102212634.1.1720173762276&__hsfp=1054730769
+https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0155-3
+https://www.embopress.org/doi/full/10.15252/msb.20156651
+http://www.cellimagelibrary.org/pages/datasets
+https://chanzuckerberg.github.io/cryoet-data-portal/cryoet_data_portal_docsite_aws.html
+https://www.sciencedirect.com/science/article/pii/S1877750322002630
+https://www.frontiersin.org/research-topics/49921/breakthroughs-in-cryo-em-with-machine-learning-and-artificial-intelligence/articles
+https://www.turing.ac.uk/research/research-projects/deep-learning-cryogenic-electron-microscopy
+https://www.nature.com/articles/s41467-024-46041-0
+https://medschool.vanderbilt.edu/basic-sciences/2024/06/03/stop-the-gap-new-cryo-et-package-aims-to-fill-in-the-missing-wedge/
+https://youtu.be/SQDLlZkoCJU
+https://asmp-eurasipjournals.springeropen.com/articles/10.1186/s13636-018-0124-x
+https://www.scribd.com/document/535781314/ML
+https://web.math.princeton.edu/~amits/research.html
+https://www.pacm.princeton.edu/people/amit-singer
+https://spr.math.princeton.edu/reading
+https://spr.math.princeton.edu/SOFTWARE
+https://3demmethods.i2pc.es/index.php/Main_Page [IMPORTANT]
+https://www.moleculardevices.com/applications/cell-imaging
+
 
 [Undergraduate Research for summer listings]
 https://www.aamc.org/career-development/affinity-groups/great/summer-undergrad-research-programs
@@ -209,19 +243,27 @@ Amgen Scholars [Requires english language proficiency test]
 University of Singapore A STAR
 Vector Research Internships
 SantaFe complexity researcher
+[THERMO FISTHER](https://www.thermofisher.com/id/en/home/electron-microscopy/life-sciences/learning-center/resources/cryo-em-careers.html#career-paths)
+[EMBL](https://www.embl.org/about/info/undergraduates/)
+[EMBL](https://www.embl.org/research/units/)
+[INSTRUCT](https://instruct-eric.org/jobs)
+[INSTRUCT](https://i2pc.es/instruct-platforms/)
 
 [Skills for algorithms for medical imaging by czi]
 
 ![CZi job listing one ](./images/swappy-20240706-042151.png)
 ![CZI job listing two](./images/swappy-20240706-042208.png)
 
-![ATROPOS HEALTH machine learning engineer listing](./images/)
-![ATROPOS HEALTH machine learning engineer listing](./images/)
+![ATROPOS HEALTH machine learning engineer listing](./images/Screenshot 2024-07-07 121547.png)
+![ATROPOS HEALTH machine learning engineer listing](./images/Screenshot 2024-07-07 121557.png)
 
 [Commercial Industry under medical imaging outlets, electronics and software]
 [TEMPUS](https://www.tempus.com/job-postings/?department=&location=&filter=&remoteFriendly=0)
 [BUTTERFLY NETWORK](https://www.butterflynetwork.com/careers#open-roles)
 [ATROPOS HEALTH](https://www.atroposhealth.com/careers)
+[STRUCTURA BIO](https://structura.bio/)
+[INSTA DEEP](https://www.instadeep.com/job-offer/b25ebfc8-c298-4ce8-a300-6f47d385d812/)
+
 
 
 
