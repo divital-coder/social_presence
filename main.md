@@ -254,8 +254,8 @@ SantaFe complexity researcher
 ![CZi job listing one ](./images/swappy-20240706-042151.png)
 ![CZI job listing two](./images/swappy-20240706-042208.png)
 
-![ATROPOS HEALTH machine learning engineer listing](./images/Screenshot 2024-07-07 121547.png)
-![ATROPOS HEALTH machine learning engineer listing](./images/Screenshot 2024-07-07 121557.png)
+![ATROPOS HEALTH machine learning engineer listing]("./images/Screenshot 2024-07-07 121547.png")
+![ATROPOS HEALTH machine learning engineer listing]("./images/Screenshot 2024-07-07 121557.png")
 
 [Commercial Industry under medical imaging outlets, electronics and software]
 [TEMPUS](https://www.tempus.com/job-postings/?department=&location=&filter=&remoteFriendly=0)
