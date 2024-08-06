@@ -234,7 +234,7 @@ https://spr.math.princeton.edu/reading
 https://spr.math.princeton.edu/SOFTWARE
 https://3demmethods.i2pc.es/index.php/Main_Page [IMPORTANT]
 https://www.moleculardevices.com/applications/cell-imaging
-
+https://www.emdataresource.org/emsoftware.html [IMPORTANT]
 
 [Undergraduate Research for summer listings]
 https://www.aamc.org/career-development/affinity-groups/great/summer-undergrad-research-programs
