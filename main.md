@@ -258,6 +258,9 @@ SantaFe complexity researcher
 ![ATROPOS HEALTH machine learning engineer listing](./images/atropos_one.png)
 ![ATROPOS HEALTH machine learning engineer listing](./images/atropos_two.png)
 
+![vector research institute response](./images/vector_response_one.png)
+
+![vector research institute response](./images/vector_response_two.png)
 [Commercial Industry under medical imaging outlets, electronics and software]
 [TEMPUS](https://www.tempus.com/job-postings/?department=&location=&filter=&remoteFriendly=0)
 [BUTTERFLY NETWORK](https://www.butterflynetwork.com/careers#open-roles)
