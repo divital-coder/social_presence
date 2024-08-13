@@ -150,6 +150,8 @@ Openminded Federated machine learning
 MBZUAI - Mohd AI
 Singapore international pregrad award SIPGA A* Research Intern
 Mitacs Globalink Research Intern
+Cohere for AI
+Cohere Research Scholar [Important]
 
 AI Conferences:
 NeurIPS , ICLR , ICML, Association for Computational Linguistics, ICVPR, "ECML PKDD" (for visual question answering research papers), ICDAR
@@ -238,6 +240,12 @@ https://www.emdataresource.org/emsoftware.html [IMPORTANT]
 https://www.vanderbilt.edu/csb/facilities/cryo-electron-microscopy/cryo-em-software/
 https://www.shrec.net/cryo-et/
 https://www.shrec.net/
+https://ossi.janelia.org/
+https://ossi.janelia.org/projects/ [Important]
+
+
+
+
 
 [Undergraduate Research for summer listings]
 https://www.aamc.org/career-development/affinity-groups/great/summer-undergrad-research-programs

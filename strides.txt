@@ -4,7 +4,9 @@ Medical Imaging /GPU Acceleration Medical Image Segmentation using Deep Learning
 -- Image Segmentation Algorithms/  Automated Lesion Segmentation
 -- Image Denoising in k space
 -- Machine Learning algorithms for Cryogenic Electron tomography
-
+-- Cryo EM/Tomography, 3d image reconstruction (Chan zuckerberg institute imaging areas, HHMI janelia campus imaging areas)
+-- Physics informed neural networks, Graph convolutional neural networks, temporal graph neural networks
+-- Modelling and simulation for drug discovery
 
 
 Reinforcement Learning with Human Feedback, Evaluation of LLMS, Hallucinations in LLMS, Retreival Augmented Generation (RAG), Multimodal LLMs  (ScaleAI research topics, NolanoAI focus areas, Robust Reading Competition) : eg DOCVQA, MEDVQA,Hierarchical multimodal Transformers, on-prem foundational models. (AGI, discord server)
