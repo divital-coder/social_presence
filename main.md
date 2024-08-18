@@ -178,6 +178,7 @@ UMC Utrecht (https://www.werkenbijumcutrecht.nl/vacatures?o=0&n=10&of=8180726&f=
 ImagO (https://www.imago.uu.nl/)
 ASCI Distributed computing institute (https://asci.school/)
 Image Sciences tutorial (https://imagescience.org/tutorials/)
+Howard Hughes Medical Institute, Janelia campus
 Magnetic Resonance Book (https://www.magnetic-resonance.org/ch/06-01.html)
 Leukemia Database for Image Processing (https://scotti.di.unimi.it/all/)
 Cancer Imaging Archive (https://wiki.cancerimagingarchive.net/display/Public/Challenge+competitions)
@@ -340,6 +341,7 @@ Defcon
 hackersploit
 TEam field manual (Red team field manual + blue team field manual)
 World Campus Tech Club https://sites.psu.edu/wctechclub/ 
+BTDigg (torrent search engine)
 
 
 
