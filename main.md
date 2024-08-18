@@ -261,6 +261,10 @@ SantaFe complexity researcher
 [INSTRUCT](https://instruct-eric.org/jobs)
 [INSTRUCT](https://i2pc.es/instruct-platforms/)
 
+[CHECK THE IMAGES DIRECTORY UNDER SOCIAL_PRESENCE](CHECK THE IMAGES DIRECTORY UNDER SOCIAL_PRESENCE)
+
+
+
 [Skills for algorithms for medical imaging by czi]
 
 ![CZi job listing one ](./images/swappy-20240706-042151.png)
