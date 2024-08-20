@@ -135,6 +135,10 @@ paperswithcode.com
 https://goombalab.github.io/blog/ (Ai channels from julia slack)
 https://machinelearningmastery.com/start-here/
 https://roadmap.sh/ai-data-scientist
+https://julialang.org/jsoc/allprojects/ [IMPORTANT]
+https://www.matsprogram.org/ [IMPORTANT]
+https://talenthub.vectorinstitute.ai/ [IMPORTANT]
+https://www.amii.ca/your-career/career-opportunities/
 
 (learn about all things algos data structs and ai knowledge)
 aman.ai (for learning about the grounding knowledge in ai) + https://youtu.be/t2CEgPsws3U?list=RDCMUC8butISFwT-Wl7EV0hUK0BQ
