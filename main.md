@@ -143,6 +143,9 @@ https://www.amii.ca/your-career/career-opportunities/
 
 (learn about all things algos data structs and ai knowledge)
 aman.ai (for learning about the grounding knowledge in ai) + https://youtu.be/t2CEgPsws3U?list=RDCMUC8butISFwT-Wl7EV0hUK0BQ
+http://www.mmds.org/
+
+
 
 backdrop build
 buildspace 
@@ -291,9 +294,26 @@ SantaFe complexity researcher
 
 
 
-
-
+https://www.cs.cornell.edu/courseinfo/listofcscourses [SUPER IMPORTANT FOR LEARNING]
+http://www.mmds.org/
 -------------------------------------------------------------------
+
+(AI Alignment and Mechanistic Interpretability)
+Opportunities : 
+https://www.aisafetysupport.org/lots-of-links#h.b0w2c5fsdf2d  [Important]
+https://www.lesswrong.com/
+
+
+
+Educationa Resources : 
+https://course.aisafetyfundamentals.com/Alignment
+https://github.com/callummcdougall/ARENA_2.0
+https://forum.effectivealtruism.org/posts/7WXPkpqKGKewAymJf/how-to-pursue-a-career-in-technical-ai-alignment
+https://80000hours.org/career-guide/personal-fit/ [Supplementary]
+https://github.com/dit7ya/awesome-ai-alignment
+https://courses.openmined.org/
+https://www.neelnanda.io/mechanistic-interpretability
+
 
 !-----------------------Julia community networking --------------------!
 Barcelona julia health meetup group (Genie.jl) https://www.meetup.com/groups/
