@@ -38,7 +38,7 @@ solanaJS + Arweave (marton lederer) Arconnect + "ask claude[anthropic] for techn
 Colosseum.org (hackathons)
 
 #ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING 
-PYTHON :  + anaconda + virtualenv + tensorflow + pytorch + keras + pandas + numpy + scipy + matplotlib + noteable(notebooks) + huggingface + selenium + pysyft(openminded), Flower (slack) + scikitlearn + FastAPI + LangChain + pydantic + spaCY + OpenCV + NLTK + pySpark + pyODBC (azure sql databases ) + giskardAI (Model testing) + WeightsandBiases + openML + data.world + UCI ML + Gradio + StreamLit, on-prem. foundational models, containerization(kubernetes + helm) , container orchestration, azure machine learning studio, vector databases(pinecone, chroma), MLFlow, airbyte
+PYTHON :  + anaconda + virtualenv + tensorflow + pytorch + keras + pandas + numpy + scipy + matplotlib + noteable(notebooks) + huggingface + selenium + pysyft(openminded), Flower (slack) + scikitlearn + FastAPI + LangChain + pydantic + spaCY + OpenCV + NLTK + pySpark + pyODBC (azure sql databases ) + giskardAI (Model testing) + WeightsandBiases + openML + data.world + UCI ML + Gradio + StreamLit, on-prem. foundational models, containerization(kubernetes + helm) , container orchestration, azure machine learning studio, vector databases(pinecone, chroma), MLFlow, airbyte, Parsl (parallel scripting in python)
 KubeFlow(machine-learning on kubernetes), MistralAI, RoboFlow
 Jax (library and advanced tutorials) , Ivy ML framework, LlamaIndex, Llamahub (https://llamahub.ai/), adaptive-ml.com, e2b.dev 
 Ollama, mixedbread.ai (embeddings), llamafile https://justine.lol/matmul/, WinGPT (https://wingpt.vercel.app/) , GroqPlayground for prompt engineering (llama3), GoogleAiStudio (Gemini)

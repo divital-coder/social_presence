@@ -108,6 +108,7 @@ Cohere LLM (University)
 LangChanAi
 observable + noteable
 theaisummer.com
+Parsl (Parallel scripting in python)
 Alan Turing Institute
 climatechange.ai
 DeepSenseAI
