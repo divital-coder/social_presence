@@ -121,6 +121,7 @@ weights and  biases (platform for building machine learning stuff)
 OpenML
 datasets from :
 data.gov
+https://chronicwounddatabase.eu/
 data.world
 https://radweb.su.domains/datasets/ 
 https://aimi.stanford.edu/shared-datasets
