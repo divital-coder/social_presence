@@ -137,7 +137,21 @@ paperswithcode.com
 https://goombalab.github.io/blog/ (Ai channels from julia slack)
 https://machinelearningmastery.com/start-here/
 https://roadmap.sh/ai-data-scientist
+
+----------------------JULIA DEVELOPMENT------------------------------------------
 https://julialang.org/jsoc/allprojects/ [IMPORTANT]
+https://juliagpu.org/
+https://discourse.julialang.org/t/solving-sparse-linear-systems-fast/83071
+https://docs.sciml.ai/NonlinearSolve/stable/tutorials/large_systems/
+https://discourse.julialang.org/t/examodels-jl-and-madnlp-jl-on-gpus/111377
+https://discourse.julialang.org/t/batched-lu-solves-or-factorizations-with-sparse-matrices/106019
+https://github.com/exanauts/CUDSS.jl
+https://exanauts.github.io/
+https://stdntpartners-my.sharepoint.com/personal/divyansh_goyal_studentambassadors_com/_layouts/15/Doc.aspx?sourcedoc={8e27c69a-651e-4cc8-985d-85529c0d8fc7}&action=edit&wd=target%28Projects.one%7Cfbd0e990-3d55-4cc8-a46a-d0bafdfea341%2FJakub%20mitura%20recommendation%20for%20northeastern%20students%20for%20research%7C42410a30-da30-4595-8e19-cdd8492d0998%2F%29&wdorigin=NavigationUrl
+https://stdntpartners-my.sharepoint.com/personal/divyansh_goyal_studentambassadors_com/_layouts/15/Doc.aspx?sourcedoc={8e27c69a-651e-4cc8-985d-85529c0d8fc7}&action=edit&wd=target%28Projects.one%7Cfbd0e990-3d55-4cc8-a46a-d0bafdfea341%2FIrnv%20recommendations%7C46a12d5e-888e-491c-8402-dee36a3ae7f9%2F%29&wdorigin=NavigationUrl
+------------------------------------------------------------------------------------
+
+
 https://www.matsprogram.org/ [IMPORTANT]
 https://talenthub.vectorinstitute.ai/ [IMPORTANT]
 https://www.amii.ca/your-career/career-opportunities/
@@ -252,7 +266,7 @@ https://www.shrec.net/cryo-et/
 https://www.shrec.net/
 https://ossi.janelia.org/
 https://ossi.janelia.org/projects/ [Important]
-
+https://stdntpartners-my.sharepoint.com/personal/divyansh_goyal_studentambassadors_com/_layouts/15/Doc.aspx?sourcedoc={8e27c69a-651e-4cc8-985d-85529c0d8fc7}&action=edit&wd=target%28Projects.one%7Cfbd0e990-3d55-4cc8-a46a-d0bafdfea341%2FsProject%20%20Medical%20Image%20%28brain%5C%29%2C%20visualisation%2C%7C54a88332-5ae4-4741-977b-e744f1a9c8be%2F%29&wdorigin=NavigationUrl [IMPORTANT]
 
 
 
