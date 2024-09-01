@@ -126,7 +126,7 @@ data.world
 https://radweb.su.domains/datasets/ 
 https://aimi.stanford.edu/shared-datasets
 awesome-public-datasets from github repo 
-Neuraldatascience.io (https://neuraldatascience.io/1-intro/learning_approach.html)
+Neuraldatascience.io (https://neuraldatascience.io/1-intro/learning_approach.html) & https://github.com/berenslab/neural_data_science
 GPT4-o within a web based interface like the old windows 95 winGPT(https://wingpt.vercel.app/)
 Mistral AI (open mistral AI models , mixtral model)
 Nolano AI
