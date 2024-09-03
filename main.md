@@ -159,11 +159,11 @@ https://www.amii.ca/your-career/career-opportunities/
 (learn about all things algos data structs and ai knowledge)
 aman.ai (for learning about the grounding knowledge in ai) + https://youtu.be/t2CEgPsws3U?list=RDCMUC8butISFwT-Wl7EV0hUK0BQ
 http://www.mmds.org/
-
-
+https://vast.ai/careers
+https://www.together.ai/ca
 
 backdrop build
-buildspace 
+buildspace
 -----------------------AI Resarch Labs---------------------------
 Vector Institute for AI
 Mila/Udem Institute for AI (Professor Irina Rish)
@@ -360,6 +360,14 @@ Julia language contributions page https://julialang.org/contribute/#:~:text=Cont
 Aurora Rossi julia phd candidate https://aurorarossi.github.io/menu3/
 Climate modelling alliance https://clima.caltech.edu/
 Axiomatic AI https://www.axiomatic-ai.com/
+
+
+
+
+---------------------------------Cloud Compute-----------------------------
+https://github.com/zszazi/Deep-learning-in-cloud
+https://www.together.ai/ 
+
 
 
 !------------------------BlockChain stuff--------------------------------!
