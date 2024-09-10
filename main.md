@@ -26,6 +26,25 @@ calendly (great scheduling software)
 
 
 
+
+
+!-------------------Community ----------------------!
+Cohere for Ai discord
+Mila Udem discord
+https://app.gitter.im/#/room/#JuliaDiffEq_Lobby:gitter.im
+https://forum.image.sc/
+Julia Lang slack  https://discourse.julialang.org/c/domain/probprog/48
+OpendMined slack
+Flower Slack
+OpenSourceScience slack
+Genie.jl Discord Server
+Mlh Fellowship
+Plotly forum  https://community.plotly.com/latest
+Microsoft Learn student ambassador
+
+
+
+
 !--------------JOb Search ---------------!
 
 ai-jobs.net
@@ -93,8 +112,9 @@ leetcode + neetcode
 Devpost 
 codewars
 cssbattle
-
-
+ValveSoftware (Computer Vision Engineer)
+https://www.getcruise.com/careers/jobs/ (Staff Ml engineer)
+https://jobs.siemens-healthineers.com/careers
 
 !---------OpenSource Stuff---------------!
 Meta Open Source (LlAmA)
@@ -108,6 +128,7 @@ Cohere LLM (University)
 LangChanAi
 observable + noteable
 theaisummer.com
+Safe Super Intelligence Inc https://ssi.inc
 Parsl (Parallel scripting in python)
 Alan Turing Institute
 climatechange.ai
@@ -140,6 +161,7 @@ https://roadmap.sh/ai-data-scientist
 
 ----------------------JULIA DEVELOPMENT------------------------------------------
 https://julialang.org/jsoc/allprojects/ [IMPORTANT]
+https://info.juliahub.com/products/featured/
 https://juliagpu.org/
 https://discourse.julialang.org/t/solving-sparse-linear-systems-fast/83071
 https://docs.sciml.ai/NonlinearSolve/stable/tutorials/large_systems/
@@ -152,7 +174,7 @@ https://stdntpartners-my.sharepoint.com/personal/divyansh_goyal_studentambassado
 ------------------------------------------------------------------------------------
 
 
-https://www.matsprogram.org/ [IMPORTANT]
+https://www.matsprogram.org/ [IMPORTANT] https://docs.google.com/document/d/1p-ggQV3vVWIQuCccXEl1fD0thJOgXimlbBpGk6FI32I/edit?usp=sharing
 https://talenthub.vectorinstitute.ai/ [IMPORTANT]
 https://www.amii.ca/your-career/career-opportunities/
 
@@ -188,7 +210,7 @@ https://qworld.net (quantum computing hackathons)
 
 (MEDICAL IMAGING INSTITUTES)
 chan zuckerberg imaging institute https://www.czimaginginstitute.org/careers/ https://github.com/czimaginginstitute  https://chanzuckerberg.com/careers/career-opportunities/?lists=all&lists=artificial-intelligence
-center of advanced imaging institute https://cai2r.net/research/
+center of advanced imaging institute https://cai2r.net/research/  https://cai2r.net/resources/#data
 wellcome center human neuroimageing https://www.fil.ion.ucl.ac.uk/about/vacancies-and-careers/
 [architecture firm]  https://www.atrr.ca/company
 siemens healthineers https://jobs.siemens-healthineers.com/careers?query=intern&location=any&pid=563156119397676&level=student%20%28not%20yet%20graduated%29&level=recent%20college%20graduate&domain=siemens.com&sort_by=relevance&hl=en
@@ -225,6 +247,13 @@ https://www.janelia.org/open-science/overview/open-science-software-initiative-o
 https://www.nimbios.org/
 https://ai-jobs.net/?key=cryo+EM&exp=&sal=
 https://aijobs.app/?c=Internship
+https://www.mlmia-unitue.de/
+https://www.helmholtz-munich.de/en/iml
+https://med.nyu.edu/departments-institutes/radiology/research/ai-biomedical-imaging
+University College London Msc. Program https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/artificial-intelligence-and-medical-imaging-msc
+Computation Imaging and AI in Medicine https://compai-lab.github.io/ [IMPORTANT]
+University of Cambridge Research Assistantship (Probabilistic Programming) https://www.jobs.cam.ac.uk/job/?category=2  https://mlg.eng.cam.ac.uk/
+StudentShips with University of Exeter https://www.exeterbrc.nihr.ac.uk/training/type/phd-studentships/ 
 
 
 
@@ -266,6 +295,8 @@ https://www.shrec.net/cryo-et/
 https://www.shrec.net/
 https://ossi.janelia.org/
 https://ossi.janelia.org/projects/ [Important]
+https://mlg.eng.cam.ac.uk/pub/ https://mlg.eng.cam.ac.uk/
+
 https://stdntpartners-my.sharepoint.com/personal/divyansh_goyal_studentambassadors_com/_layouts/15/Doc.aspx?sourcedoc={8e27c69a-651e-4cc8-985d-85529c0d8fc7}&action=edit&wd=target%28Projects.one%7Cfbd0e990-3d55-4cc8-a46a-d0bafdfea341%2FsProject%20%20Medical%20Image%20%28brain%5C%29%2C%20visualisation%2C%7C54a88332-5ae4-4741-977b-e744f1a9c8be%2F%29&wdorigin=NavigationUrl [IMPORTANT]
 
 
@@ -285,7 +316,7 @@ SantaFe complexity researcher
 [INSTRUCT](https://i2pc.es/instruct-platforms/)
 
 [CHECK THE IMAGES DIRECTORY UNDER SOCIAL_PRESENCE](CHECK THE IMAGES DIRECTORY UNDER SOCIAL_PRESENCE)
-
+https://bssw.io/pages/bssw-fellowship-program  [ONLY for US Affiliated University Students]
 
 
 [Skills for algorithms for medical imaging by czi]
@@ -367,7 +398,7 @@ Axiomatic AI https://www.axiomatic-ai.com/
 ---------------------------------Cloud Compute-----------------------------
 https://github.com/zszazi/Deep-learning-in-cloud
 https://www.together.ai/ 
-
+Cloud Native Computing Foundation AI projects 
 
 
 !------------------------BlockChain stuff--------------------------------!
@@ -378,6 +409,18 @@ arweave blockchain (community labs + permaweb)
 celestia labs  (modular)
 chainlink hackathons 
 HyperLedger
+
+
+!------------------------------Quantum Computing-----------------------------!
+https://www.nqcc.ac.uk/uk-quantum-hackathon-2024/
+https://www.iquise.mit.edu/iQuHACK/2024-02-02
+https://www.worldquant.com/iqc/
+https://qworld.net/
+
+
+
+
+
 !----------------Augmented Reality and Virtual Reality stuff----------------!
 Meta Spark
 Snap AR

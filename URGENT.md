@@ -1,4 +1,4 @@
-Chan Zuckerberg Intiaitive Fall cryo Et Machine Learning Competition
+1 : Chan Zuckerberg Intiaitive Fall cryo Et Machine Learning Competition
 https://cryoetdataportal.czscience.com/competition
 
 --onboarding concepts :
@@ -8,3 +8,18 @@ Deepfinder : https://deepfinder.readthedocs.io/en/latest/intro.html
              https://github.com/deep-finder
              https://gitlab.inria.fr/serpico/deep-finder
 
+2 : Machine Learning Knowledge notebooks (Noteable)
+handsOnMl3
+Probab and stats with Julia
+The SciML Book
+Neural Data science + starred github repository
+Cornell Course Codes curriculum Algorithms 
+Azure Machine Learning notebooks 
+Wikipedia : https://en.m.wikipedia.org/wiki/Outline_of_machine_learning#
+Notebooks to learn from : https://sebastianraschka.com/notebooks/python-notebooks/
+The Algorithms book (3 series books)
+Machine Learning knowledge from here https://mlg.eng.cam.ac.uk/
+
+3 : Start A company just like cameron Pffiffer Comind.blog (Post Genie project videos , ported from Plotly/Dash)
+
+4 : Make a website just like techWithKunal.com
