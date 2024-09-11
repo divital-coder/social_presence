@@ -1,12 +1,17 @@
 1 : Chan Zuckerberg Intiaitive Fall cryo Et Machine Learning Competition
 https://cryoetdataportal.czscience.com/competition
 
---onboarding concepts :
+--onboarding concepts :  [Utilize Parsl with all of them for parallelization]
 TomoTwin  : https://tomotwin-cryoet.readthedocs.io/en/stable/developer/devs.html
             https://github.com/MPI-Dortmund/tomotwin-cryoet?tab=readme-ov-file
 Deepfinder : https://deepfinder.readthedocs.io/en/latest/intro.html
              https://github.com/deep-finder
              https://gitlab.inria.fr/serpico/deep-finder
+Nn-Unet :    https://github.com/IML-DKFZ/nnunet-workshop
+             https://catalog.ngc.nvidia.com/orgs/nvidia/teams/dle/resources/nnunet_tf2
+             https://github.com/MIC-DKFZ/nnUNet
+MonAI :      https://docs.monai.io/projects/monai-deploy-app-sdk/en/latest/getting_started/tutorials/
+             https://github.com/Project-MONAI/tutorials
 
 2 : Machine Learning Knowledge notebooks (Noteable)
 handsOnMl3
