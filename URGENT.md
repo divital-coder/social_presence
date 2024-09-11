@@ -19,6 +19,10 @@ Wikipedia : https://en.m.wikipedia.org/wiki/Outline_of_machine_learning#
 Notebooks to learn from : https://sebastianraschka.com/notebooks/python-notebooks/
 The Algorithms book (3 series books)
 Machine Learning knowledge from here https://mlg.eng.cam.ac.uk/
+Kaggle Machine Learning courses 
+Neetcode, codeforces [C++]
+
+
 
 3 : Start A company just like cameron Pffiffer Comind.blog (Post Genie project videos , ported from Plotly/Dash)
 
