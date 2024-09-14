@@ -49,6 +49,11 @@ open-source CRM : https://twenty.com/
 open-souce alt to zendesk : https://www.seventy-seven.dev/
 
 
+Techstack : [Ts, Next, Vercel AI ADK, Cloudflare, Golang]
+Ai startups : Hume.ai[foundation voice model]
+              Mem0 (Memory layer for AI apps )
+Field-updates : Growjo, Hackernews, product-hunt, github
+
 research reading : paperswithcode.com
 
 theoretical knowledge : evaluation metrics, deep learning, machine learning algorithms
