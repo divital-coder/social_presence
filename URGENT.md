@@ -33,7 +33,7 @@ Notebooks to learn from : https://sebastianraschka.com/notebooks/python-notebook
 The Algorithms book (3 series books)
 Machine Learning knowledge from here https://mlg.eng.cam.ac.uk/
 Kaggle Machine Learning courses 
-Neetcode, codeforces [C++]
+Neetcode, codeforces [C++] (Kunal kushwaha submissions) https://codeforces.com/submissions/kunal_kushwaha/page/1
 Coursera, Transmission electron tomography 
 Turing Mathematics for summer school
 MongoDb Developer certification
