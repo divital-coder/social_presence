@@ -62,6 +62,13 @@ Y combinator hacker news
 CNCF Job board
 
 
+!------------------------------NewsLetters----------------!
+Substack
+Beehiv
+Notion hq + notion sites 
+
+
+
 !-------CREATIVE OUTLETS --------!
 Pexels (signed email) "divital2004@gmail.com"
 Shutterstock (signed email) "divital2004@gmail.com"
