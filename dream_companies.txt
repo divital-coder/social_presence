@@ -1,5 +1,8 @@
 ---------------Software Company ----------
-
+Chan Zuckerberg Initiative
+Howard Hughes Medical Institute
+Groq
+BlackForestLabs (FluxAImodel)
 Neuralink
 ScaleAi
 NuroAi
