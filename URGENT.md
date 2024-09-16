@@ -38,7 +38,7 @@ Coursera, Transmission electron tomography
 Turing Mathematics for summer school
 MongoDb Developer certification
 Structured text generation blogs from here : https://blog.dottxt.co/
-
+Fast.Ai deep learnign courses : https://www.fast.ai/
 
 
 3 : Start A company just like cameron Pffiffer Comind.blog (Post Genie project videos , ported from Plotly/Dash)
