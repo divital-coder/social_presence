@@ -2,6 +2,10 @@
 Chan Zuckerberg Initiative
 Howard Hughes Medical Institute
 Groq
+NousResearch
+DotTxtAi / Outlines 
+CERN 
+
 BlackForestLabs (FluxAImodel)
 Neuralink
 ScaleAi

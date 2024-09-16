@@ -37,6 +37,8 @@ Neetcode, codeforces [C++] (Kunal kushwaha submissions) https://codeforces.com/s
 Coursera, Transmission electron tomography 
 Turing Mathematics for summer school
 MongoDb Developer certification
+Structured text generation blogs from here : https://blog.dottxt.co/
+
 
 
 3 : Start A company just like cameron Pffiffer Comind.blog (Post Genie project videos , ported from Plotly/Dash)
