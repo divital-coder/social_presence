@@ -87,7 +87,7 @@ Golang
 swift + createML 
 Bash scripting 
 API and hosting : ngrok + Postman API + RAPID API
-observaibility platforms : datadog, cloud native computing foundation(Projects)
+observaibility platforms : datadog, cloud native computing foundation(Projects), phoenix(ai observability)
 Continuous integration + Continuous Development stuff (CI/CD)) : github actions and workflows, dagger.io, Jenkins, FluxCD (kubernetes)
 Deployment : Docker , kubernetes + helm , Microsoft Azure , Cloud databases.
 TERMINAL : iterm + warp/fig + hyper + foot (arch) / kitty + nvim + jet brains suite of products + visual studio code 
