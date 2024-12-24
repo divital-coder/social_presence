@@ -33,7 +33,7 @@ Notebooks to learn from : https://sebastianraschka.com/notebooks/python-notebook
 The Algorithms book (3 series books)
 Machine Learning knowledge from here https://mlg.eng.cam.ac.uk/
 Kaggle Machine Learning courses 
-Neetcode, codeforces [C++] (Kunal kushwaha submissions) https://codeforces.com/submissions/kunal_kushwaha/page/1
+CLIST, Neetcode, codeforces [C++] (Kunal kushwaha submissions) https://codeforces.com/submissions/kunal_kushwaha/page/1
 Coursera, Transmission electron tomography 
 Turing Mathematics for summer school
 MongoDb Developer certification
@@ -47,10 +47,13 @@ Fast.Ai deep learnign courses : https://www.fast.ai/
 4 : Make a website just like techWithKunal.com. 
 : React, NextJs, Sveltekit, Vercel, Cloudflare
 
+5: Start Exploring VTuber world AI-based such as nuro-sama AI
+
 
 UPCOMING EVENTS : 
-Parsl Fest talk slides
-Gsoc ligthning talk 
-Ossci community collider 
+JuliaCon2025
+Parsl Fest talk slides [DONE- Missed]
+Gsoc ligthning talk [DONE] 
+Ossci community collider [DONE] 
 
 
