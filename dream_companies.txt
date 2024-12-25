@@ -25,6 +25,8 @@ NolanoAI
 PumasAI 
 Juliahub
 TogetherAi
+Runway
+Replicate
 
 
 //these companies freaking exist today , what are you waiting for 

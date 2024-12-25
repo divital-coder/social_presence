@@ -17,3 +17,4 @@ Understanding and Implementing Graph Convolutional Neural Networks, and graph da
 Federated Machine Learning eg: Pysyft 
 GPU Programming / GPU Acceleration Using CUDA
 Distributed Systems Software Engineering (Northwood Space Careers listing)
+Coding Data (DataCurve)

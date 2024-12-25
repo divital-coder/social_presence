@@ -19,7 +19,8 @@ An application similar to Neurotorium for Brain Atlases Visualization
 Northeastern Jakub Mitura projects : (from onenote)
 Machine Learning 4 science projects
 Grand Challenge project 
-
+A Star Sipga Excel sheet projects
+Neuro-Sama
 
 2 : Machine Learning Knowledge notebooks (Noteable)
 handsOnMl3
@@ -33,7 +34,7 @@ Notebooks to learn from : https://sebastianraschka.com/notebooks/python-notebook
 The Algorithms book (3 series books)
 Machine Learning knowledge from here https://mlg.eng.cam.ac.uk/
 Kaggle Machine Learning courses 
-CLIST, Neetcode, codeforces [C++] (Kunal kushwaha submissions) https://codeforces.com/submissions/kunal_kushwaha/page/1
+CLIST, Neetcode, codeforces [C++] (Kunal kushwaha submissions) https://codeforces.com/submissions/kunal_kushwaha/page/1, Advent of Code
 Coursera, Transmission electron tomography 
 Turing Mathematics for summer school
 MongoDb Developer certification
@@ -45,7 +46,7 @@ Fast.Ai deep learnign courses : https://www.fast.ai/
 : There Build plotly-dash ported applications to Julia and Genie.
 
 4 : Make a website just like techWithKunal.com. 
-: React, NextJs, Sveltekit, Vercel, Cloudflare
+: React, NextJs, Sveltekit, Vercel, Cloudflare, Notion, Sanity
 
 5: Start Exploring VTuber world AI-based such as nuro-sama AI
 
@@ -57,3 +58,17 @@ Gsoc ligthning talk [DONE]
 Ossci community collider [DONE] 
 
 
+Media Modality Models: Runway , Blackforest Labs
+LLMs: Outlier, Claude, Perplexity, NotebookLM, Gemini, Grok, GPT4, HuggingFace
+Ai inference : Replicate.ai, run.ai, Groq, Cerebras 
+Cloud Platforms : Together.ai, Azure, Colab, Kaggle, LambdaLabs.com
+Avatars : MetaHuman
+Editors : Cursor, Zed, SuperMaven
+Locally : Llamafile, LLM.c
+Memory : Mem0, VectorDb
+NoteTaking : Mem.ai, Notion, Obsidian, 
+hackathons : lablab.ai, Kaggle, Unstop, Devpost
+Upskilling : paperswithCode + X, LinkedIn (bookmarks) + GitHub (stars and repos) + Youtube (Saved playlists), CList {NeetCode + AdventofCode past}, LeetArxiv, CodingData (data_curve), hackernews, AStar projects Excel sheet, ML4Sci, Social_presence
+Daily productivity : Crackboard.dev
+
+Languages : Mojo, Python, Julia , C++
