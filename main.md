@@ -23,8 +23,7 @@ Clubhouse
 Meetup
 luma (lu.ma) delightful events start here 
 calendly (great scheduling software) 
-
-
+Alternativeto.net (finding alternatives)
 
 
 
