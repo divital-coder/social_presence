@@ -444,8 +444,17 @@ hackersploit
 TEam field manual (Red team field manual + blue team field manual)
 World Campus Tech Club https://sites.psu.edu/wctechclub/ 
 BTDigg (torrent search engine)
-
-
+https://crackmes.one/
+https://pwn.college/
+https://pwnable.tw/
+https://github.com/zardus/wargame-nexus
+https://samsclass.info/127/127_F19.shtml
+https://guyinatuxedo.github.io/03-beginner_re/pico18_strings/index.html
+https://gitlab.com/exploit-database/
+https://blog.ret2.io/2018/09/11/scalable-security-education/
+https://attack.mitre.org/tactics/enterprise/
+https://github.com/HACKE-RC
+https://dev.to/bartosz/top-10-reverse-engineering-tools-3ni3
 
 !---------------------------API development---------------------
 FastAPI (python library)
