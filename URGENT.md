@@ -72,3 +72,36 @@ Upskilling : paperswithCode + X, LinkedIn (bookmarks) + GitHub (stars and repos)
 Daily productivity : Crackboard.dev
 
 Languages : Mojo, Python, Julia , C++
+
+
+
+
+
+
+Mathematics for Machine Learning : Tubingen University
+LLMs running locally: 
+    System Requirements Check
+    Install CUDA Toolkit
+    Install cuDNN
+    Install Python
+    Install Conda
+    Install PyTorch with CUDA support
+    Model Selection
+    INT8 Quantization
+    FP16 (Mixed Precision)
+    Understanding cuBLAS GEMM
+    Using cuBLAS GEMM in PyTorch
+    Understanding Kernel Fusion
+    Implementing Kernel Fusion in PyTorch
+    Model Loading and Inference
+    Memory Management
+    Performance Optimization
+    Batch Size Adjustment
+    Efficient Data Loading
+    Testing with Small Inputs
+    Monitor Performance
+    Adjust and Optimize
+    Troubleshooting
+    Scaling Up
+    Gradient Checkpointing
+    Model Parallelism
