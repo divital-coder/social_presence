@@ -79,6 +79,7 @@ Languages : Mojo, Python, Julia , C++
 
 
 Mathematics for Machine Learning : Tubingen University
+https://numerics.ovgu.de/teaching/ : navigate to the course links and see for examples or pdf, (implement them)
 LLMs running locally: 
     System Requirements Check
     Install CUDA Toolkit
