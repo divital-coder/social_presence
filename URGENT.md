@@ -106,3 +106,9 @@ LLMs running locally:
     Scaling Up
     Gradient Checkpointing
     Model Parallelism
+
+Mechanistic Interpretability: Measuring Non-linear feature interactions in Sparse Crosscoders  
+  Papers: 
+  CrossCoders for Cross-Layer Features and Model diffing
+  Open source replication of anthropic's sparse crosscoder paper for model-diffing
+  Measuring Non-linear feature interactions in Sparse Crosscoders
