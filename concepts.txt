@@ -1,4 +1,4 @@
-multi threading + parallel computing (GPU Parallelism) + distributed computing
+multi threading + parallel computing (GPU Parallelism) + distributed computing + High performance computing
 machine learning ( from main.txt machine learning section)
 blockchain (web3 stuff, ask claude)
 data-visualisation (main.txt,tools.txt ,  ask claude as well)
@@ -8,7 +8,7 @@ Cache Replacement Algorithms (huawei 2022, database problem algoritm)
 Medical Imaging -> Digital Twins, SuperVoxels[MedVoxelHD] 
 Coding Data -> DataCurve
 
-
+LLMs -> Mixture of Experts, Communicative interactive Agents, Structured generation, reasoning, Synthetic data generation, benchmarking, mechanistic interpretability
 
 NOTE: CHECK APPLE ICLOUD NOTES TITLES "COMPUTATIONAL INTERESTS FOR MORE INFORMATION"
 

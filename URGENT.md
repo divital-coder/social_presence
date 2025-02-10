@@ -1,6 +1,6 @@
 [Share your work on X, CohereforAi Discord, Youtube, linkedin, OSsci slack, Imaging.sc forum, Parsl Slack]
 
-1 : Chan Zuckerberg Intiaitive Fall cryo Et Machine Learning Competition
+1 : Chan Zuckerberg Intiaitive Fall cryo Et Machine Learning Competition [ELAPSED]
 https://cryoetdataportal.czscience.com/competition
 
 --onboarding concepts :  [Utilize Parsl with all of them for parallelization]

@@ -18,3 +18,4 @@ Federated Machine Learning eg: Pysyft
 GPU Programming / GPU Acceleration Using CUDA
 Distributed Systems Software Engineering (Northwood Space Careers listing)
 Coding Data (DataCurve)
+Communicative AI agents, reasoning, structured generation, synthetic data generation, benchmarking -> CamelAI 
