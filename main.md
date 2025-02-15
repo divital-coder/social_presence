@@ -28,7 +28,11 @@ Alternativeto.net (finding alternatives)
 
 
 !-------------------Community ----------------------!
+CamelAI community [EIGENT-AI slack] 
+LabLab-AI community
 Cohere for Ai discord
+AI alignment commnity [slack]
+
 Mila Udem discord
 https://app.gitter.im/#/room/#JuliaDiffEq_Lobby:gitter.im
 https://forum.image.sc/
@@ -189,10 +193,9 @@ https://www.amii.ca/your-career/career-opportunities/
 aman.ai (for learning about the grounding knowledge in ai) + https://youtu.be/t2CEgPsws3U?list=RDCMUC8butISFwT-Wl7EV0hUK0BQ
 http://www.mmds.org/
 https://vast.ai/careers
-https://www.together.ai/ca
-
-backdrop build
-buildspace
+https://www.together.ai/about#careers
+https://nebius.com/
+https://lambdalabs.com/careers#join
 -----------------------AI Resarch Labs---------------------------
 Vector Institute for AI
 Mila/Udem Institute for AI (Professor Irina Rish)
@@ -201,7 +204,6 @@ The Alan Turing Institute
 Openminded Federated machine learning 
 MBZUAI - Mohd AI
 Singapore international pregrad award SIPGA A* Research Intern
-Mitacs Globalink Research Intern
 Cohere for AI
 Cohere Research Scholar [Important]
 
@@ -221,7 +223,6 @@ center of advanced imaging institute https://cai2r.net/research/  https://cai2r.
 wellcome center human neuroimageing https://www.fil.ion.ucl.ac.uk/about/vacancies-and-careers/
 [architecture firm]  https://www.atrr.ca/company
 siemens healthineers https://jobs.siemens-healthineers.com/careers?query=intern&location=any&pid=563156119397676&level=student%20%28not%20yet%20graduated%29&level=recent%20college%20graduate&domain=siemens.com&sort_by=relevance&hl=en
-national institute of health https://www.nibib.nih.gov/training-careers/undergraduate
 GE healthcare [https://careers.gehealthcare.com/global/en/internships]
 Medical Imaging (https://www.medicalimaging.org/medical-imaging)
 Medical Imaging Challenges , Grand Challenges (https://grand-challenge.org/challenges/)
@@ -405,6 +406,9 @@ Axiomatic AI https://www.axiomatic-ai.com/
 ---------------------------------Cloud Compute-----------------------------
 https://github.com/zszazi/Deep-learning-in-cloud
 https://www.together.ai/ 
+lambda labs
+Nebius
+
 Cloud Native Computing Foundation AI projects 
 
 
