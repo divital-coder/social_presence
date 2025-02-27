@@ -49,7 +49,7 @@ Microsoft Learn student ambassador
 
 
 !--------------JOb Search ---------------!
-
+https://society-rse.org/careers/vacancies/ [IMPORTANT]
 ai-jobs.net
 SIMPLIFY Extension (JOb search portal)
 Levels.fyi (Companies listings)
