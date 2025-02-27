@@ -52,6 +52,7 @@ Microsoft Learn student ambassador
 https://society-rse.org/careers/vacancies/ [IMPORTANT]
 https://chtc.cs.wisc.edu/fellowships/ [IMPORTANT]
 https://www.gw.iucaa.in/ligo-surf-program/ [IMPORTANT , check in november 2025]
+https://www.jpl.nasa.gov/edu/internships/apply/ 
 ai-jobs.net
 SIMPLIFY Extension (JOb search portal)
 Levels.fyi (Companies listings)
@@ -359,7 +360,7 @@ http://www.mmds.org/
 Opportunities : 
 https://www.aisafetysupport.org/lots-of-links#h.b0w2c5fsdf2d  [Important]
 https://www.lesswrong.com/
-
+https://www.aisafety.com/
 
 
 Educationa Resources : 

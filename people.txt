@@ -1,5 +1,6 @@
 PEOPLE WITH GREAT INNOVATIVE ENDEAVOURS : 
-
+Saransh Chopra
+https://saransh-cpp.github.io/
 
 Justine Tunney : 
 https://justine.lol/
@@ -31,6 +32,7 @@ https://github.com/Saket-Upadhyay?tab=repositories
 Aurora Rossi [Temporal Graph Neural Networks]
 https://aurorarossi.github.io/menu1/
 
+------------------------------------ MISC----------------------------------------
 Vaxry/Vaxerski [HyprWm organization, hyprland]
 https://github.com/vaxerski
 
