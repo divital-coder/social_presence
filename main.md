@@ -50,6 +50,8 @@ Microsoft Learn student ambassador
 
 !--------------JOb Search ---------------!
 https://society-rse.org/careers/vacancies/ [IMPORTANT]
+https://chtc.cs.wisc.edu/fellowships/ [IMPORTANT]
+https://www.gw.iucaa.in/ligo-surf-program/ [IMPORTANT , check in november 2025]
 ai-jobs.net
 SIMPLIFY Extension (JOb search portal)
 Levels.fyi (Companies listings)
