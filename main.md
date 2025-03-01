@@ -315,6 +315,7 @@ https://stdntpartners-my.sharepoint.com/personal/divyansh_goyal_studentambassado
 
 
 [Undergraduate Research for summer listings]
+https://www.indiascienceandtechnology.gov.in/listingpage/internships
 https://www.aamc.org/career-development/affinity-groups/great/summer-undergrad-research-programs
 https://college.emory.edu/undergraduate-research/opportunity/opportunity-finder.htmlwhat 
 Amgen Scholars [Requires english language proficiency test]
