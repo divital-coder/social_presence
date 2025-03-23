@@ -362,6 +362,10 @@ Opportunities :
 https://www.aisafetysupport.org/lots-of-links#h.b0w2c5fsdf2d  [Important]
 https://www.lesswrong.com/
 https://www.aisafety.com/
+https://erafellowship.org
+https://www.matsprogram.org/
+https://apartresearch.com/sprints
+https://www.arena.education/
 
 
 Educationa Resources : 
