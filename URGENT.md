@@ -1,3 +1,13 @@
+[14th April 2025]
+1 : Produce a Project related to EEG and apply for IIT delhi internship.
+2 : Start with SciMLOperators.jl development and ramp up quickly.
+3 : Provide an abstract for the HepMC3-dev.jl package to Graeme.
+4 : Open PR for ITKIOWrapper, to wrap functions for nifti export and test MedEye on windows.
+5 : Start DeepML, Teregras, Corenll applied machine learning courses.
+6 : Learn how to run experiments locally using docker and follow elliot advice from tweet. 
+7 : Modify your notion site and update it regularly.   
+
+
 [Share your work on X, CohereforAi Discord, Youtube, linkedin, OSsci slack, Imaging.sc forum, Parsl Slack]
 
 1 : Chan Zuckerberg Intiaitive Fall cryo Et Machine Learning Competition [ELAPSED]
@@ -107,8 +117,19 @@ LLMs running locally:
     Gradient Checkpointing
     Model Parallelism
 
+Running experiments on docker
+Advice from elliot
+
+
+
 Mechanistic Interpretability: Measuring Non-linear feature interactions in Sparse Crosscoders  
   Papers: 
   CrossCoders for Cross-Layer Features and Model diffing
   Open source replication of anthropic's sparse crosscoder paper for model-diffing
   Measuring Non-linear feature interactions in Sparse Crosscoders
+
+
+ML Readiness : 
+Learn and implement papers
+https://ha0tang.github.io/
+
