@@ -1,14 +1,28 @@
-[14th April 2025]
-PRIORITY : STANFORD SECTION LEADER
-PRIORITY : EVERSE LAUNCH EVENT
-
 1 : Produce a Project related to EEG and apply for IIT delhi internship.
 2 : Start with SciMLOperators.jl development and ramp up quickly.
-3 : Provide an abstract for the HepMC3-dev.jl package to Graeme.
+3 : Provide an abstract for the HepMC3-dev.jl package to Graeme. [DONE]
 4 : Open PR for ITKIOWrapper, to wrap functions for nifti export and test MedEye on windows.
-5 : Start DeepML, Teregras, Corenll applied machine learning courses.
+5 : Start DeepML, Teregras, Corenll applied machine learning courses, neural Data science, bioinformatics algos, eeg notebooks.
 6 : Learn how to run experiments locally using docker and follow elliot advice from tweet. 
 7 : Modify your notion site and update it regularly.   
+8 : Review and complete all Section Leader Material from Stanford.
+9 : Work on open Issues on github.
+10 : Implement papers from comp-ai lab, chinese university robotics papers as well.
+11 : Start with projects under chanda-mandisa lab.
+12 : Participate in kaggle hacks.
+13 : Apply for research positions at universities.
+
+[23rd May, 2025]
+PRIORITY : GRAY Scott HPC Summer School
+[20th May, 2025]
+PRIORIY : ARKANSAS Summer Research program
+[22nd April 2025]
+PRIORITY : STANFORD SECTION LEADER Live Section Practice
+[15th April 2025]
+PRIORITY : STANFORD SECTION LEADER [Done]
+PRIORITY : EVERSE LAUNCH EVENT [Done]
+
+
 
 
 [Share your work on X, CohereforAi Discord, Youtube, linkedin, OSsci slack, Imaging.sc forum, Parsl Slack]
