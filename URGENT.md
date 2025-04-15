@@ -1,4 +1,7 @@
 [14th April 2025]
+PRIORITY : STANFORD SECTION LEADER
+PRIORITY : EVERSE LAUNCH EVENT
+
 1 : Produce a Project related to EEG and apply for IIT delhi internship.
 2 : Start with SciMLOperators.jl development and ramp up quickly.
 3 : Provide an abstract for the HepMC3-dev.jl package to Graeme.
