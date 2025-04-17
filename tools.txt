@@ -41,7 +41,7 @@ solanaJS + Arweave (marton lederer) Arconnect + "ask claude[anthropic] for techn
 Colosseum.org (hackathons), Syndicate.io [onchain products at scale]
 
 #ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING 
-PYTHON :  + anaconda + virtualenv + tensorflow + pytorch + keras + pandas + numpy + scipy + matplotlib + noteable(notebooks) + huggingface + selenium + pysyft(openminded), Flower (slack) + scikitlearn + FastAPI + LangChain + pydantic + spaCY + OpenCV + NLTK + pySpark + pyODBC (azure sql databases ) + giskardAI (Model testing) + WeightsandBiases + openML + data.world + UCI ML + Gradio + StreamLit, on-prem. foundational models, containerization(kubernetes + helm) , container orchestration, azure machine learning studio, vector databases(pinecone, chroma, vectorDB), MLFlow, airbyte, Parsl (parallel scripting in python)
+PYTHON :  + anaconda + virtualenv + tensorflow + pytorch + keras + pandas + numpy + scipy + matplotlib + noteable(notebooks) + huggingface / modelscope + selenium + pysyft(openminded), Flower (slack) + scikitlearn + FastAPI + LangChain + pydantic + spaCY + OpenCV + NLTK + pySpark + pyODBC (azure sql databases ) + giskardAI (Model testing) + WeightsandBiases + openML + data.world + UCI ML + Gradio + StreamLit, on-prem. foundational models, containerization(kubernetes + helm) , container orchestration, azure machine learning studio, vector databases(pinecone, chroma, vectorDB), MLFlow, airbyte, Parsl (parallel scripting in python)
 
 
 KubeFlow(machine-learning on kubernetes), MistralAI, RoboFlow, MlFlow
