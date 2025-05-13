@@ -1,5 +1,12 @@
 ---------------Software Company ----------
 Chan Zuckerberg Initiative
+Cell Bauhaus
+PumasAI
+Tempus
+Precigenetics
+Goodfire
+HumeAI
+Fal.AI
 Howard Hughes Medical Institute
 Groq
 NousResearch

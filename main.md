@@ -21,6 +21,7 @@ BeReal @Hurtbadly
 Purp @hurtbadly 
 Clubhouse 
 Meetup
+Cal.com
 luma (lu.ma) delightful events start here 
 calendly (great scheduling software) 
 Alternativeto.net (finding alternatives)
@@ -52,6 +53,7 @@ Microsoft Learn student ambassador
 https://society-rse.org/careers/vacancies/ [IMPORTANT]
 https://chtc.cs.wisc.edu/fellowships/ [IMPORTANT]
 https://www.gw.iucaa.in/ligo-surf-program/ [IMPORTANT , check in november 2025]
+https://researchsoftware.org/jobs.html
 https://www.jpl.nasa.gov/edu/internships/apply/ 
 ai-jobs.net
 SIMPLIFY Extension (JOb search portal)
@@ -66,7 +68,7 @@ ProductHunt
 GetLatka databases
 Y combinator hacker news
 CNCF Job board
-
+https://iris-hep.org/jobs
 
 !------------------------------NewsLetters----------------!
 Substack

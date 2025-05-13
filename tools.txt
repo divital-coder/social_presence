@@ -63,7 +63,7 @@ Ai startups : Hume.ai[foundation voice model]
               Mem0 (Memory layer for AI apps ) 
 Field-updates : Growjo, Hackernews, product-hunt, github
 
-research reading : paperswithcode.com
+research reading : paperswithcode.com, mlpapers.com, arxiv
 
 theoretical knowledge : evaluation metrics, deep learning, machine learning algorithms
 prebuilt-models : scaleAI, icons8-models, pieter-levels-companies(photoai.com, interiorAI.com). 
