@@ -45,4 +45,4 @@ interests :
 -- Epigenetics
 -- Seizure detection algorithms
 -- Treatment related disorders
-
+-- Bayesian Brain Model, Cognitive Bayesianism, Predictive Coding, Predictive Processing, Free Energy Principle, Active Inference [LazyDynamics, ReactiveBayes, BiasLab, UitNorway]
