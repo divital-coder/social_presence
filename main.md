@@ -70,6 +70,8 @@ Y combinator hacker news
 CNCF Job board
 https://iris-hep.org/jobs
 
+https://cursor.directory/jobs
+
 !------------------------------NewsLetters----------------!
 Substack
 Beehiv
@@ -363,11 +365,14 @@ http://www.mmds.org/
 Opportunities : 
 https://www.aisafetysupport.org/lots-of-links#h.b0w2c5fsdf2d  [Important]
 https://www.lesswrong.com/
+https://forum.effectivealtruism.org/posts/vvocfhQ7bcBR4FLBx/apply-to-the-second-ml-for-alignment-bootcamp-mlab-2-in
+https://www.alignmentforum.org/
 https://www.aisafety.com/
 https://erafellowship.org
 https://www.matsprogram.org/
 https://apartresearch.com/sprints
 https://www.arena.education/
+https://aialignment.mit.edu/getinvolved/
 
 
 Educationa Resources : 
