@@ -373,6 +373,7 @@ https://www.matsprogram.org/
 https://apartresearch.com/sprints
 https://www.arena.education/
 https://aialignment.mit.edu/getinvolved/
+https://ais-ucla.org/fellowships/
 
 
 Educationa Resources : 
