@@ -355,7 +355,12 @@ https://bssw.io/pages/bssw-fellowship-program  [ONLY for US Affiliated Universit
 [INSTA DEEP](https://www.instadeep.com/job-offer/b25ebfc8-c298-4ce8-a300-6f47d385d812/)
 
 
-
+(AI FEED FOR YOUTUBE)->
+AI.Engineer
+Pragmatic Engineer
+Rob Miles AI Safety
+GPU MODE
+Elliot Arledge
 
 https://www.cs.cornell.edu/courseinfo/listofcscourses [SUPER IMPORTANT FOR LEARNING]
 http://www.mmds.org/
@@ -374,7 +379,8 @@ https://apartresearch.com/sprints
 https://www.arena.education/
 https://aialignment.mit.edu/getinvolved/
 https://ais-ucla.org/fellowships/
-
+https://www.enigmaproject.ai/jobs
+https://careersearch.stanford.edu/jobs/interpretability-research-engineer-1-year-fixed-term-27663
 
 Educationa Resources : 
 https://course.aisafetyfundamentals.com/Alignment
