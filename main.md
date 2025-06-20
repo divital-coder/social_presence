@@ -22,6 +22,7 @@ Purp @hurtbadly
 Clubhouse 
 Meetup
 Cal.com
+EventBrite
 luma (lu.ma) delightful events start here 
 calendly (great scheduling software) 
 Alternativeto.net (finding alternatives)
