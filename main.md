@@ -135,6 +135,9 @@ ValveSoftware (Computer Vision Engineer)
 https://www.getcruise.com/careers/jobs/ (Staff Ml engineer)
 https://jobs.siemens-healthineers.com/careers
 
+Research sites : 
+AlphaXiv, Arxiv, PaperswithCode, HuggingFace Paper hub, OpenReview, HAL OpenScience
+
 !---------OpenSource Stuff---------------!
 Meta Open Source (LlAmA)
 SourceForge (for open source softawre discovery and contributions)
