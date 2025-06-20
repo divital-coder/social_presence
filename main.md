@@ -70,7 +70,7 @@ GetLatka databases
 Y combinator hacker news
 CNCF Job board
 https://iris-hep.org/jobs
-
+https://evanhahn.com/list-of-tech-for-good-job-boards/
 https://cursor.directory/jobs
 
 !------------------------------NewsLetters----------------!
