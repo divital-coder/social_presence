@@ -281,6 +281,7 @@ https://link.springer.com/article/10.1007/s10278-024-01083-0
 https://link.springer.com/article/10.1007/s12559-024-10291-3
 https://hal.science/search/index?q=domain_t%3Asdv+medical+imaging
 Pirates bay search for medical imaging stuff (https://tprbay.pw/search/medical%20imaging/1/99/0)
+https://aiplans.org/about
 https://openreview.net/forum?id=M6CfJ5H7XH
 https://www.reddit.com/r/Julia/comments/17z0gsg/looking_for_up_to_date_advanced_julia_programming/
 https://book.sciml.ai/
