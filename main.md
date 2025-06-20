@@ -382,6 +382,7 @@ https://aialignment.mit.edu/getinvolved/
 https://ais-ucla.org/fellowships/
 https://www.enigmaproject.ai/jobs
 https://careersearch.stanford.edu/jobs/interpretability-research-engineer-1-year-fixed-term-27663
+https://www.flf.org/fellowship
 
 Educationa Resources : 
 https://course.aisafetyfundamentals.com/Alignment
