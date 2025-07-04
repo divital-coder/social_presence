@@ -72,6 +72,7 @@ CNCF Job board
 https://iris-hep.org/jobs
 https://evanhahn.com/list-of-tech-for-good-job-boards/
 https://cursor.directory/jobs
+https://www.pythonjobshq.com/
 
 !------------------------------NewsLetters----------------!
 Substack
