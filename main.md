@@ -61,6 +61,8 @@ SIMPLIFY Extension (JOb search portal)
 Levels.fyi (Companies listings)
 h1bdata.info 
 Greenhouse (whenever u apply for a job, greenhosue provides a template for that job description and stuff)
+Moka 
+Workday
 Indeed 
 GlassDoor
 Dice.com
