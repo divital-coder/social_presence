@@ -23,3 +23,14 @@ CAUTION : activate your virtual environment first from mamba
 mamba env list
 mamba activate <env_name>
 
+
+Brightness on Arch Linux for hyprland (Wayland backend)
+```bash
+sudo pacman -S ddcutil
+sudo usermod -aG i2c $USER
+# Reboot your system after this step
+sudo chmod a+rw /dev/i2c-*  # Optional, temporary fix without reboot
+ddcutil detect
+ddcutil capabilities
+ddcutil setvcp 10 30  # Set brightness to 30%
+```
