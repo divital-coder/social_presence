@@ -34,3 +34,13 @@ ddcutil detect
 ddcutil capabilities
 ddcutil setvcp 10 30  # Set brightness to 30%
 ```
+
+# Setting Windows 11 VM on Arch Linux Host, { Ideally:  A dual GPU setup for GPU passthrough to the guest OS (windows 11)  }
+
+Tutorials followed : https://youtu.be/OwFZW8x8SsY
+https://computingforgeeks.com/install-kvm-qemu-virt-manager-arch-manjar/
+https://youtu.be/woji50z1hF0
+https://youtu.be/7tqKBy9r9b4
+
+Desktop Like Chris Titus : https://youtu.be/wNL6eIoksd8
+
