@@ -21,6 +21,11 @@ Junie by Jetbrains
 Athas Code 
 Zed Editor
 
+# Cloud Agents
+Codex
+Jules
+Devin
+
 # Learning
 NotebookLM
 
@@ -62,5 +67,5 @@ AMD
 Tenstorrent
 TinyGrad
 
-![image](images/image1.png)
+![image](./images/image1.png)
 
