@@ -62,5 +62,5 @@ AMD
 Tenstorrent
 TinyGrad
 
-![image]('images/image (1).png')
+![image](images/image1.png)
 
