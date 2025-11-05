@@ -20,6 +20,7 @@ Continue.dev
 Junie by Jetbrains
 Athas Code 
 Zed Editor
+Kiro (Amazon)
 
 # Cloud Agents
 Codex
