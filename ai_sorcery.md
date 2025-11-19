@@ -30,7 +30,7 @@
 | Athas Code         | Research-oriented editor              |
 | Zed Editor         | High-performance with AI              |
 | Kiro (Amazon)      | AWS-integrated AI IDE                 |
-
+| AntiGravity        | Google's WindSurf Wraper              |
 ## ☁️ Cloud Agents
 | Agent  | Platform               |
 |--------|------------------------|
