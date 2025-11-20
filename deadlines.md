@@ -8,6 +8,8 @@
 - [ ] Application to Microsoft Research Internship
 - [ ] Complete SciML DataInterpolations.jl Grant
 - [ ] Add a Typst template in this repo and add markdown content from gemini deepresearch for content and display them onto your Personal Julia site
+- [ ] Post on socials about experiments for Tinker API
+- [ ] Run to College and Get Transcripts
 
 # Opportunities
 
