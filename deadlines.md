@@ -6,6 +6,8 @@
 - [ ] Application for CERN OpenLab
 - [ ] Application for QualComm AI residency programs (Vietnam)
 - [ ] Application to Microsoft Research Internship
+- [ ] Complete SciML DataInterpolations.jl Grant
+- [ ] Add a Typst template in this repo and add markdown content from gemini deepresearch for content and display them onto your Personal Julia site
 
 # Opportunities
 
@@ -20,3 +22,8 @@
 - [ ] CVPR
 - [ ] Embodied AI
 - [ ] NeurIPS
+
+# Application for GPU grants
+
+- [ ] Application for Lambda Labs
+- [ ] Application for Nebius
