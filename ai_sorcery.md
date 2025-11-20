@@ -37,6 +37,8 @@
 | Codex  | OpenAI                 |
 | Jules  | Autonomous dev         |
 | Devin  | Cognition Labs         |
+| MiniMax| Agent.Minimax.io       |
+| Gemini, Grok, Kimi, Qwen, GLM   |
 
 ## 📚 Learning
 | Tool         | Use Case                     |
