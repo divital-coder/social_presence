@@ -168,9 +168,12 @@
 
 
  echo "
-      Physical, Embodied AI - WorldLabs, Build.Ai, Nvidia Cosmos, Gemini
-      Explainable AI - Red Teaming, AI Evaluation, AI safety, AI benchmarks
-      Scientific computing - AI models in Biology (imaging and cellular) -> CZI, Boltz, HHMI, AI models in HEP (INSPIRE HEP), TP Bench, AI models for Brain Computer Interfaces (Neural signals Decoding), Virtual and Augment reality ( Meta horizon engine, lapwing vrchat), Ai models for Quantum compute infrastructure. 
+TIP: Do domain research for such companies buy finding competitors within engines such as TraXcn, CB insights and Aviato. (Best Bet : DeepResearch)
+      Physical, Embodied AI - WorldLabs, Build.Ai, Nvidia Cosmos, Genie, Bytedance, Physical.ai
+      Explainable AI - Red Teaming, AI Evaluation, AI safety, AI benchmark, Apart Research, GoodFire, Arc-AGI, EQ-Bench, METR, LessWrong
+      Scientific computing - AI models in Biology (imaging and cellular) -> CZI, Boltz, HHMI, AI models in HEP (INSPIRE HEP), TP Bench, AI models for Brain Computer Interfaces (Neural signals Decoding, Neuralink), Virtual and Augment reality ( Meta horizon engine, lapwing vrchat), Ai models for Quantum compute infrastructure. 
       AI infrastructure - HPC, Model serving and deployment, inference engines, Agents, MCP, memory, reasoning, API, Context, Search, Deep Research, Routing, inference optimization (llamafile, huntrai bug file formats), Environment (Docket, Kuberenets - SF compute company) 
-
+      HPC -> GPU MODE, Tenstorrent, VectorWare {Rust}, SF Compute company 
+      AI Pipeline -> Thinking Machines Lab (Tinker), LlamaFactory,
+      Multimodal -> Twelve Labs, MiniMax AI, Civit.Ai, 
       "```
