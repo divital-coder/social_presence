@@ -14,6 +14,7 @@
 | Crush           | Lightweight terminal AI                  |
 | Aider Terminal  | Pair programming in terminal             |
 | Warp Terminal   | AI-enhanced modern terminal              |
+| OpenWeb UI      | All-in-one AI app                        |
 | AnythingLLM     | All-in-one AI app with RAG and agents    |
 
 ## ✍️ Agentic Editors
@@ -44,6 +45,7 @@
 | Tool         | Use Case                     |
 |--------------|------------------------------|
 | NotebookLM   | AI notebook with audio       |
+| DeepWiki     | Github repo digest           |
 
 ## 🔀 Model Routing
 | Service     | Feature                           |
@@ -110,12 +112,14 @@
 |---------------|--------------------------------|
 | Github        | Code collaboration platform    |
 | Mem.Ai        | AI-powered note-taking         |
-| Typst         | Modern typesetting system      |
+| Typst, Quarto | Modern typesetting system      |
 | Playbook      | Workflow automation            |
 | SuperMemory   | Enhanced memory management     |
 | Miro          | Visual collaboration boards    |
 | Asana         | Task and project management    |
 | MyMind        | Personal knowledge base        |
+| Smithery      | MCP Database                   |
+| Weaviate      | Vector Database                |
 
 ## 💬 Social Platforms
 | Platform      | Focus                          |
@@ -164,6 +168,15 @@
 | Luma AI       | Platform for discovering and hosting AI-focused events and communities |
 | Eventbrite    | General event discovery and ticketing with AI event filters |
 
+## 🗓️ AI Stable Diffusion
+| Platform      | Focus                          |
+|---------------|--------------------------------|
+| Comfy UI      | Platform for discovering and hosting AI-focused events and communities |
+| Civit.AI      | General event discovery and ticketing with AI event filters |
+| 
+
+
+
 ![AI Tools Ecosystem](./images/image1.png)
 
 
@@ -177,3 +190,4 @@ TIP: Do domain research for such companies buy finding competitors within engine
       AI Pipeline -> Thinking Machines Lab (Tinker), LlamaFactory,
       Multimodal -> Twelve Labs, MiniMax AI, Civit.Ai, 
       "```
+

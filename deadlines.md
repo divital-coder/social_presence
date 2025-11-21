@@ -17,6 +17,9 @@
 - [aideadlines.org](https://aideadlines.org)
 
 # Conferences
+- [ ] SHREC 2026 ( IMP )
+- [ ] Student Cluster Competition 26 ( IMP ) 
+- [ ] JuliacCon 2026 ( IMP )
 
 - [ ] ICCV
 - [ ] ICLR
