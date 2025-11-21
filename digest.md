@@ -13,11 +13,19 @@
 - [**The SciML Book**](https://book.sciml.ai/)
 - [**Algorithmica (HPC Complexity and Hardware)**](https://en.algorithmica.org/hpc/complexity/hardware/)
 - [**Algorithmica (Russian Edition)**](https://ru.algorithmica.org/)
+- **CUDA Book by elliot arledge**
+- **Reinforcement learning book in linkedin saves**
+- **Optimization algorithms from Optimization.jl and Hyperactive**
+- [**Geometric deep learning book**](https://geometricdeeplearning.com/book/)
+- [**Drawing Figures**](https://github.com/Atcold/Energy-Book/releases/tag/v0.9.0)
+- **The interpretability book by dili prasad UIT norway**
+- [**The Free energy principle Active inference book**](https://direct.mit.edu/books/oa-monograph/5299/Active-InferenceThe-Free-Energy-Principle-in-Mind)
 
 ## Research Papers
 
 - [**Automatic Sparse Differentiation in Julia**](https://iclr-blogposts.github.io/2025/blog/sparse-autodiff/)
 - [**ICLR Blog on Sparse Autodiff**](https://iclr-blogposts.github.io/2025/blog/)
+- [**Tensors in computation**](https://arxiv.org/abs/2106.08090)
 
 ## Articles
 
@@ -39,5 +47,6 @@
 
 ## Skills to Develop
 
-- Cuda Kernel Optimizer
-- AI Red Teaming
+- Cuda Kernel Optimizer [HPC]
+- AI Red Teaming    [Safety]
+- Spatial Intelligence [Physica/Embodied AI]
