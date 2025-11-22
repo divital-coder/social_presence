@@ -10,6 +10,12 @@
 - [ ] Add a Typst template in this repo and add markdown content from gemini deepresearch for content and display them onto your Personal Julia site
 - [ ] Post on socials about experiments for Tinker API
 - [ ] Run to College and Get Transcripts
+- [ ] Application for AMD Open Robotics hackathon
+= [ ] Emails to Swiss University Professors for the ThinkSwiss Research Internship
+
+# Misc
+- Read the Gemini-Robotics report
+- Start a Research Focused AI startup, (Github, huggingface, modelscope, website) -> Apply for grants from: Hyperscalers and Cloud providers 
 
 # Opportunities
 
