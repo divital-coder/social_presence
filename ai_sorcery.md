@@ -175,6 +175,8 @@
 |---------------|--------------------------------|
 | Comfy UI      | Platform for discovering and hosting AI-focused events and communities |
 | Civit.AI      | General event discovery and ticketing with AI event filters |
+| MoonDream     | General event discovery and ticketing with AI event filters |
+| 
 
 ## Cloud Compute Platforms
 | Platform      | Focus                          |

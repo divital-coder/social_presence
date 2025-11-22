@@ -10,3 +10,4 @@
 ## Tinker API 150$ Credit
 ## OpenAI 25$ Credit 
 ## Blaxel AI agent 250$ Credit
+## Google AI pro subscription Gemini (August-2026)
