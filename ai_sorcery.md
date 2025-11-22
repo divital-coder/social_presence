@@ -32,6 +32,7 @@
 | Zed Editor         | High-performance with AI              |
 | Kiro (Amazon)      | AWS-integrated AI IDE                 |
 | AntiGravity        | Google's WindSurf Wraper              |
+
 ## ☁️ Cloud Agents
 | Agent  | Platform               |
 |--------|------------------------|
@@ -40,6 +41,7 @@
 | Devin  | Cognition Labs         |
 | MiniMax| Agent.Minimax.io       |
 | Gemini, Grok, Kimi, Qwen, GLM   |
+| Blaxel | Cloud agent platform   |
 
 ## 📚 Learning
 | Tool         | Use Case                     |
@@ -173,9 +175,34 @@
 |---------------|--------------------------------|
 | Comfy UI      | Platform for discovering and hosting AI-focused events and communities |
 | Civit.AI      | General event discovery and ticketing with AI event filters |
-| 
 
+## Cloud Compute Platforms
+| Platform      | Focus                          |
+|---------------|--------------------------------|
+| Lambda Labs   | Frontier Cloud compute platform |
+| Modal Labs    | Frontier Cloud compute platform |
+| HyperBolic    |   
+| Lightning AI  |
+| HuggingFace   
 
+## Navigating system via Speech
+| Platform      | Focus             |
+|---------------|-------------------|
+| WhisprFlow    | Uses Whispr Model |
+| SuperWhisper  | Mac based platform|
+
+## Vibe Coding everything 
+| Tool          | Description                              |
+|---------------|------------------------------------------|
+| Lovable       | Full-stack web app builder (GPT-Engineer)|
+| Bolt.new      | Browser-based full-stack dev environment |
+| Same.dev      | AI-powered development environment       |
+| Replit        | Collaborative IDE with Replit Agent      |
+| Google AI Studio | Prototyping environment for Gemini    |
+| EMERGENT.SH      | AI prototyping and coding             |
+| V0 (Vercel)      | Generative UI system                  |
+| Glide            | No-code app builder                   |
+| Memex            | Ai softwware engineer                 |
 
 ![AI Tools Ecosystem](./images/image1.png)
 
