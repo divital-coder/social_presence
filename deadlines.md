@@ -1,3 +1,4 @@
+Opportunities at AI alignment, ARENA, Open Source Mech Interp, Screenshots, linkedin saves, X saves
 # Deadlines
 
 - [ ] Application for FLAIR UK Research Internship
