@@ -16,7 +16,9 @@ Opportunities at AI alignment, ARENA, Open Source Mech Interp, Screenshots, link
 - [ ] Apply to the Neel nanda MATS stream
 - [ ] Apply to OpenAI residency program
 - [ ] Apply to Lipi Thukral's internship in Bio
+- [ ] 2026 Apple AI/ML Research internship
 - [ ] Email to join teh south korean computer vision lab
+- [ ] ELLIS pHD :https://informatics.ed.ac.uk/study-with-us/our-degrees/postgraduate-research-and-cdts/phd-multimodal-generative-ai-collaborative-agents
 # Misc
 - Read the Gemini-Robotics report
 - Start a Research Focused AI startup, (Github, huggingface, modelscope, website) -> Apply for grants from: Hyperscalers and Cloud providers 
