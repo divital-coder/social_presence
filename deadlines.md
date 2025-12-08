@@ -4,7 +4,7 @@ Opportunities at AI alignment, ARENA, Open Source Mech Interp, Screenshots, link
 - [ ] Application for FLAIR UK Research Internship
 - [ ] Application for FLAIR UK engineering Science Phd
 - [ ] Application for University of Exeter PHD in cloud and climate science
-- [ ] Application for CERN OpenLab
+- [ ] Application for CERN OpenLab and Summer Student programs
 - [ X ] Application for QualComm AI residency programs (Vietnam)
 <!-- - [ ] Application to Microsoft Research Internship -->
 <!-- - [ ] Complete SciML DataInterpolations.jl Grant  -->
