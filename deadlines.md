@@ -22,6 +22,7 @@ Opportunities at AI alignment, ARENA, Open Source Mech Interp, Screenshots, link
 - [ ] Apply to Inria PDF internship (mention topics along the lines of pruning memorization via loss landscape -> Linkedin Comment related to Tabular sequential model) 2025.07 - Present, Research Scientist at Lexsi Labs, Remote
 Tabular Foundation Models: Contributed to the development of foundation models for tabular data in high-stakes domains; co-developed a library for inference, fine-tuning, and benchmarking of tabular foundation models, Lexsi Labs tools
 - [ ] Application for Aalto research internship and others from Himahuja check
+- [ ] Application for Google Early researchers : https://www.google.com/about/careers/applications/jobs/results/142798918797664966-predoctoral-researcher-university-graduate-2026-starts-fixedterm-contract
 
 # Misc
 - Read the Gemini-Robotics report
