@@ -1,9 +1,9 @@
 Opportunities at AI alignment, ARENA, Open Source Mech Interp, Screenshots, linkedin saves, X saves
 # Deadlines
 
-- [ ] Application for FLAIR UK Research Internship
-- [ ] Application for FLAIR UK engineering Science Phd
-- [ ] Application for University of Exeter PHD in cloud and climate science
+<!-- - [ ] Application for FLAIR UK Research Internship -->
+<!-- - [ ] Application for FLAIR UK engineering Science Phd -->
+<!-- - [ ] Application for University of Exeter PHD in cloud and climate science -->
 - [ ] Application for CERN OpenLab and Summer Student programs
 - [ X ] Application for QualComm AI residency programs (Vietnam)
 <!-- - [ ] Application to Microsoft Research Internship -->
@@ -19,6 +19,9 @@ Opportunities at AI alignment, ARENA, Open Source Mech Interp, Screenshots, link
 - [ ] 2026 Apple AI/ML Research internship
 - [ ] Email to join teh south korean computer vision lab
 - [ ] ELLIS pHD :https://informatics.ed.ac.uk/study-with-us/our-degrees/postgraduate-research-and-cdts/phd-multimodal-generative-ai-collaborative-agents
+- [ ] Apply to Inria PDF internship (mention topics along the lines of pruning memorization via loss landscape -> Linkedin Comment related to Tabular sequential model)
+- [ ] Application for Aalto research internship and others from Himahuja check
+
 # Misc
 - Read the Gemini-Robotics report
 - Start a Research Focused AI startup, (Github, huggingface, modelscope, website) -> Apply for grants from: Hyperscalers and Cloud providers 
