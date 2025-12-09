@@ -19,7 +19,8 @@ Opportunities at AI alignment, ARENA, Open Source Mech Interp, Screenshots, link
 - [ ] 2026 Apple AI/ML Research internship
 - [ ] Email to join teh south korean computer vision lab
 - [ ] ELLIS pHD :https://informatics.ed.ac.uk/study-with-us/our-degrees/postgraduate-research-and-cdts/phd-multimodal-generative-ai-collaborative-agents
-- [ ] Apply to Inria PDF internship (mention topics along the lines of pruning memorization via loss landscape -> Linkedin Comment related to Tabular sequential model)
+- [ ] Apply to Inria PDF internship (mention topics along the lines of pruning memorization via loss landscape -> Linkedin Comment related to Tabular sequential model) 2025.07 - Present, Research Scientist at Lexsi Labs, Remote
+Tabular Foundation Models: Contributed to the development of foundation models for tabular data in high-stakes domains; co-developed a library for inference, fine-tuning, and benchmarking of tabular foundation models, Lexsi Labs tools
 - [ ] Application for Aalto research internship and others from Himahuja check
 
 # Misc
