@@ -24,6 +24,9 @@ Tabular Foundation Models: Contributed to the development of foundation models f
 - [ ] Application for Aalto research internship and others from Himahuja check
 - [ ] Application for Google Early researchers : https://www.google.com/about/careers/applications/jobs/results/142798918797664966-predoctoral-researcher-university-graduate-2026-starts-fixedterm-contract
 
+- [ ] Study for Cell bauhaus internship
+- [ ] Manage daily indulgances with Samsung innovation campus programmer`
+
 # Misc
 - Read the Gemini-Robotics report
 - Start a Research Focused AI startup, (Github, huggingface, modelscope, website) -> Apply for grants from: Hyperscalers and Cloud providers 
