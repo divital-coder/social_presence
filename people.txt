@@ -37,6 +37,7 @@ Aurora Rossi [Temporal Graph Neural Networks]
 https://aurorarossi.github.io/menu1/
 
 
+Tanay: Founder of WisprFlow
 ------------------------------------ MISC----------------------------------------
 Vaxry/Vaxerski [HyprWm organization, hyprland]
 https://github.com/vaxerski
@@ -55,6 +56,7 @@ Vtubers: IronMouse, Neuro-sama(vedal987) Ai based vtubers
 Animation : JakeFellman
 Software Development : Brain-Machine Interfaces [biomedical engineering] max hodak https://maxhodak.com/ 
 Dlive Dayz streamer : Ashipedia
+PCB and electronics: AtaraByte
 
 Inspirations : Lucy Guo, Jutta Schnabel, Gwyenne Shotwell, Tracey Kiss, Melanie perkins, Laura Katz
 
