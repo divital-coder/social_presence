@@ -16,6 +16,7 @@
 | Warp Terminal   | AI-enhanced modern terminal              |
 | OpenWeb UI      | All-in-one AI app                        |
 | AnythingLLM     | All-in-one AI app with RAG and agents    |
+| SillyTavernAI   | NSFW chat with llms                      |
 
 ## ✍️ Agentic Editors
 | Editor             | Highlight                             |
