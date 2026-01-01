@@ -148,6 +148,7 @@
 | AI Conference Deadlines | Track submission deadlines             |
 | Elicit AI             | AI tool to search, summarize, and extract data from papers |
 | wizwand               | AI research assistant               |
+| Realdeepresearch.github.io | AI research assistant           |
 
 ## 💼 Opportunities & Jobs
 | Resource       | Focus                                      |
