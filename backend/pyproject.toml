@@ -1,0 +1,30 @@
+[project]
+name = "social-presence-backend"
+version = "0.1.0"
+description = "Backend API for Social Presence Hub"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.128.0",
+    "oracledb>=3.4.1",
+    "pydantic>=2.12.5",
+    "pydantic-settings>=2.12.0",
+    "python-multipart>=0.0.21",
+    "sqlalchemy>=2.0.45",
+    "uvicorn[standard]>=0.40.0",
+]
+
+[project.scripts]
+serve = "uvicorn app.main:app --host 0.0.0.0 --port 8000"
+
+[tool.uv]
+dev-dependencies = [
+    "ruff>=0.8.0",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "W"]
