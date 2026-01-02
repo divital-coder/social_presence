@@ -26,6 +26,7 @@ Tabular Foundation Models: Contributed to the development of foundation models f
 
 - [ ] Study for Cell bauhaus internship
 - [ ] Manage daily indulgances with Samsung innovation campus programmer`
+- [ ] Apart Research AI manipulation hackathon, AIM intelligence internship, Mediterrenean society for consciousness science
 
 # Misc
 - Read the Gemini-Robotics report
