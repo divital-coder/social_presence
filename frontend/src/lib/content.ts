@@ -1,5 +1,6 @@
 import fs from "fs"
 import path from "path"
+import { isApiConfigured, fetchContentFiles, fetchContentBySlug } from "./api"
 
 export interface ContentFile {
   slug: string
@@ -40,7 +41,10 @@ function formatTitle(filename: string): string {
     .replace(/\b\w/g, (l) => l.toUpperCase())
 }
 
-export async function getContentFiles(): Promise<ContentFile[]> {
+/**
+ * Get content files from filesystem (local development)
+ */
+async function getContentFilesFromFs(): Promise<ContentFile[]> {
   const files: ContentFile[] = []
 
   try {
@@ -48,6 +52,7 @@ export async function getContentFiles(): Promise<ContentFile[]> {
 
     for (const entry of entries) {
       if (entry.endsWith(".md") || entry.endsWith(".txt")) {
+        // Skip hidden and swap files
         if (entry.startsWith(".") || entry.includes("~")) continue
 
         const filePath = path.join(contentDir, entry)
@@ -72,6 +77,7 @@ export async function getContentFiles(): Promise<ContentFile[]> {
   }
 
   return files.sort((a, b) => {
+    // Priority order for certain files
     const priority = ["main", "deadlines", "ai_sorcery", "URGENT"]
     const aIdx = priority.indexOf(a.slug)
     const bIdx = priority.indexOf(b.slug)
@@ -82,8 +88,57 @@ export async function getContentFiles(): Promise<ContentFile[]> {
   })
 }
 
+/**
+ * Get content files - uses API if configured, otherwise filesystem
+ */
+export async function getContentFiles(): Promise<ContentFile[]> {
+  // Use API if configured
+  if (isApiConfigured()) {
+    try {
+      const apiFiles = await fetchContentFiles()
+      // API returns list items without content, need to fetch each
+      // For list view, we return minimal data
+      return apiFiles.map((f) => ({
+        slug: f.slug,
+        title: f.title,
+        content: "", // Content fetched separately
+        category: f.category,
+        icon: f.icon,
+      }))
+    } catch (error) {
+      console.error("API error, falling back to filesystem:", error)
+    }
+  }
+
+  // Fallback to filesystem
+  return getContentFilesFromFs()
+}
+
+/**
+ * Get single content file by slug - uses API if configured
+ */
 export async function getContentBySlug(slug: string): Promise<ContentFile | null> {
-  const files = await getContentFiles()
+  // Use API if configured
+  if (isApiConfigured()) {
+    try {
+      const apiFile = await fetchContentBySlug(slug)
+      if (apiFile) {
+        return {
+          slug: apiFile.slug,
+          title: apiFile.title,
+          content: apiFile.content,
+          category: apiFile.category,
+          icon: apiFile.icon,
+        }
+      }
+      return null
+    } catch (error) {
+      console.error("API error, falling back to filesystem:", error)
+    }
+  }
+
+  // Fallback to filesystem
+  const files = await getContentFilesFromFs()
   return files.find((f) => f.slug === slug) || null
 }
 
@@ -99,11 +154,13 @@ export function parseDeadlines(content: string): Deadline[] {
   let currentCategory = "General"
 
   for (const line of lines) {
+    // Check for category headers
     if (line.startsWith("# ")) {
       currentCategory = line.replace("# ", "").trim()
       continue
     }
 
+    // Parse checkbox items
     const completedMatch = line.match(/^-\s*\[\s*[xX]\s*\]\s*(.+)/)
     const pendingMatch = line.match(/^-\s*\[\s*\]\s*(.+)/)
     const altPendingMatch = line.match(/^=\s*\[\s*\]\s*(.+)/)
@@ -144,6 +201,7 @@ export function parseSocialLinks(content: string): Record<string, SocialLink[]> 
   let currentSection = "Social"
 
   for (const line of lines) {
+    // Check for section headers
     if (line.includes("!----") || line.includes("!-------") || line.includes("!---")) {
       const match = line.match(/!-+(.+?)-+!/)
       if (match) {
@@ -153,10 +211,13 @@ export function parseSocialLinks(content: string): Record<string, SocialLink[]> 
       continue
     }
 
+    // Skip empty lines
     if (!line.trim()) continue
 
+    // Parse social links
     const platformMatch = line.match(/^(\w+(?:\s+\w+)?)\s+[@(].+/)
     if (platformMatch) {
+      const platform = platformMatch[1].toLowerCase()
       const handleMatch = line.match(/@(\w+)/)
       const emailMatch = line.match(/"([^"]+@[^"]+)"/)
 
