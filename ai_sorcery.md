@@ -50,7 +50,7 @@
 ## Agentic Editors
 
 | Editor | Highlight |
-|--------|----------|
+|--------|-----------|
 | Cursor | AI-first code editor |
 | WindSurf | Autonomous coding flows |
 | Zen | Minimalist AI editor |
@@ -95,7 +95,7 @@
 ## Model Routing
 
 | Service | Feature |
-|---------|--------|
+|---------|---------|
 | OpenRouter | Unified API for 100+ models |
 | Martian | Intelligent model routing |
 
@@ -114,7 +114,7 @@
 ## Agentic Browsers
 
 | Browser | Feature |
-|---------|--------|
+|---------|---------|
 | OpenAI Atlas | Autonomous web navigation |
 | Fellou | Research agent |
 | Manus | Task automation browser |
@@ -128,7 +128,7 @@
 Foundational Voice Models
 
 | Tool | Specialty |
-|------|----------|
+|------|-----------|
 | Eleven Labs | Ultra-realistic voice |
 | Hume AI | Emotion-aware voice AI |
 | Suno.Ai | AI music generation |
@@ -138,7 +138,7 @@ Foundational Voice Models
 ## Multimodal Infrastructure
 
 | Platform | Focus |
-|----------|------|
+|----------|-------|
 | Twelve Labs | Video understanding |
 | World Labs | 3D world modeling |
 
@@ -147,7 +147,7 @@ Foundational Voice Models
 ## AI Safety
 
 | Org/Tool | Mission |
-|----------|--------|
+|----------|---------|
 | GoodFire | AI safety research |
 | METR | Model evaluation |
 | Anthropic | Safe AGI development |
@@ -169,7 +169,7 @@ Foundational Voice Models
 ## Chinese AI Platforms
 
 | Platform | Focus |
-|----------|------|
+|----------|-------|
 | OpenBayes | Online ML platform with GPUs |
 | ModelScope | Model hub for exploration |
 | Hyper.ai | AI cloud and development tools |
@@ -199,7 +199,7 @@ Foundational Voice Models
 ## Social Platforms
 
 | Platform | Focus |
-|----------|------|
+|----------|-------|
 | X | Microblogging and discussions |
 | Threads | Text-based social networking |
 | Telegram | Messaging and communities |
@@ -231,7 +231,7 @@ Foundational Voice Models
 ## Opportunities and Jobs
 
 | Resource | Focus |
-|----------|------|
+|----------|-------|
 | INSPIRE HEP | Job listings in high energy physics |
 | Foorilla (JobsDataAPI) | API for tech job postings globally |
 | FindAPhD | Directory of PhD programs worldwide |
@@ -241,7 +241,7 @@ Foundational Voice Models
 ## HackerBoards
 
 | Platform | Focus |
-|----------|------|
+|----------|-------|
 | HackerNews | Tech news and discussions |
 | Lobste.rs | Tech news curation (invite-only) |
 | DailyRotation | Curated tech and developer news |
@@ -254,7 +254,7 @@ Foundational Voice Models
 ## Event Aggregation
 
 | Platform | Focus |
-|----------|------|
+|----------|-------|
 | Luma AI | Discovering and hosting AI events |
 | Eventbrite | Event discovery with AI filters |
 
@@ -263,7 +263,7 @@ Foundational Voice Models
 ## Stable Diffusion
 
 | Platform | Focus |
-|----------|------|
+|----------|-------|
 | Comfy UI | Node-based workflow for SD |
 | Civit.AI | Model sharing and community |
 | MoonDream | Lightweight vision-language model |
@@ -273,7 +273,7 @@ Foundational Voice Models
 ## Cloud Compute
 
 | Platform | Focus |
-|----------|------|
+|----------|-------|
 | Lambda Labs | GPU cloud compute |
 | Modal Labs | Serverless GPU infrastructure |
 | HyperBolic | Decentralized compute |
@@ -285,7 +285,7 @@ Foundational Voice Models
 ## Speech Navigation
 
 | Platform | Focus |
-|----------|------|
+|----------|-------|
 | WhisprFlow | Uses Whisper model |
 | SuperWhisper | Mac-based speech platform |
 
@@ -314,7 +314,7 @@ Use TraXcn, CB Insights, and Aviato for competitor research. Best approach: Deep
 ### Key Domains
 
 | Domain | Companies/Tools |
-|--------|----------------|
+|--------|-----------------|
 | Physical/Embodied AI | WorldLabs, Build.Ai, Nvidia Cosmos, Genie, ByteDance, Physical.ai |
 | Explainable AI | Apart Research, GoodFire, Arc-AGI, EQ-Bench, METR, LessWrong |
 | Scientific Computing | CZI, Boltz, HHMI (Biology), INSPIRE HEP, TP Bench, Neuralink (BCI) |

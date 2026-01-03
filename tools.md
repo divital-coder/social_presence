@@ -237,7 +237,7 @@
 ### Learning Resources
 
 | Resource | Focus |
-|----------|------|
+|----------|-------|
 | PapersWithCode | Research |
 | mlpapers.com | Papers |
 | arXiv | Preprints |

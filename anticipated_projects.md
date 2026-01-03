@@ -27,7 +27,7 @@
 ## Project Ideas
 
 | Project | Description | Reference |
-|---------|-------------|----------|
+|---------|-------------|-----------|
 | Sound of Sorting | Sorting algorithm visualizer in Dear ImGui or Svelte | [TimoBingmann](https://github.com/bingmann/sound-of-sorting) |
 | Plotly Julia Apps | Sample dashboard applications in Julia ecosystem | Dash Enterprise Gallery |
 | Portfolio Site | Custom portfolio alongside linktree | - |
