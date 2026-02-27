@@ -24,6 +24,7 @@
 - [Speech Navigation](#speech-navigation)
 - [Vibe Coding](#vibe-coding)
 - [Domain Research Tips](#domain-research-tips)
+- [Browser Tab Log](#browser-tab-log)
 
 ---
 
@@ -322,5 +323,13 @@ Use TraXcn, CB Insights, and Aviato for competitor research. Best approach: Deep
 | HPC | GPU MODE, Tenstorrent, VectorWare (Rust), SF Compute |
 | AI Pipeline | Thinking Machines Lab (Tinker), LlamaFactory |
 | Multimodal | Twelve Labs, MiniMax AI, Civit.Ai |
+
+## Browser Tab Log
+
+Persistent record of frequently used tabs and tools - serves as a backup when browser history gets cleared.
+
+https://make10000hours.com/ | https://www.notion.com/ | https://github.com/ | https://huggingface.co/ | https://www.modelscope.ai/ | https://aistudio.google.com/ | https://gemini.google.com/ | https://notebooklm.google.com/ | https://claude.ai/ | https://kimi.moonshot.cn/ | https://chat.deepseek.com/ | https://manus.im/ | https://earth.google.com/ | https://www.worldlabs.ai/ | https://www.twelvelabs.io/ | https://openwebui.com/ | https://github.com/SillyTavern/SillyTavern | https://github.com/paperless-ngx/paperless-ngx | https://www.igdb.com/ | https://foorilla.com/ | https://www.perplexity.ai/ | https://civit.ai/ | https://www.liblib.ai/ | https://news.smol.ai/ | https://ai-search.io/ | https://www.youtube.com/ | https://realdeepresearch.github.io/ | https://www.alphaxiv.org/ | https://anara.com/ | https://news.aibase.com/ | https://mlcontests.com/ | https://aideadlin.es/ | https://en.wikipedia.org/wiki/Reservoir_computing | https://note.com/ | https://rbcborealis.com/program/fellowships/ | https://masason-foundation.org/en/
+
+---
 
 ![AI Tools Ecosystem](./images/image1.png)
