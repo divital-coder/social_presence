@@ -6,6 +6,7 @@
 - [Project Ideas](#project-ideas)
 - [Medical Imaging Research](#medical-imaging-research)
 - [Cryo-ET and Imaging Projects](#cryo-et-and-imaging-projects)
+- [Algorithms to Implement](#algorithms-to-implement)
 - [Upcoming Opportunities](#upcoming-opportunities)
 - [Project Concepts](#project-concepts)
 - [Interesting References](#interesting-references)
@@ -107,6 +108,14 @@ Additional project ideas:
 - Grand Challenge project
 - A Star SIPGA Excel sheet projects
 - Neuro-Sama
+
+---
+
+## Algorithms to Implement
+
+- Seizure detection challenge
+- Cryo-ET tomogram detection challenge
+- Sub-millisecond Fourier Transform
 
 ---
 

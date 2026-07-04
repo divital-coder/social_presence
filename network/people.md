@@ -3,6 +3,8 @@
 ## Table of Contents
 
 - [Innovators](#innovators)
+- [Researchers I Admire](#researchers-i-admire)
+- [YouTubers](#youtubers)
 - [Misc](#misc)
 - [Inspirations](#inspirations)
 - [Contacts](#contacts)
@@ -26,6 +28,29 @@ People with great innovative endeavours.
 | Saket Upadhyay | Cybersecurity | [GitHub](https://github.com/Saket-Upadhyay?tab=repositories) |
 | Aurora Rossi | Temporal Graph Neural Networks | [site](https://aurorarossi.github.io/menu1/) |
 | Tanay | Founder of WisprFlow | - |
+
+---
+
+## Researchers I Admire
+
+| Researcher | Note |
+|------------|------|
+| Ewin Tang | Quantum / classical algorithms (dequantization) |
+| Ruqi Gao | - |
+| Luo Fuli | - |
+| Heejeong Nam | - |
+| Sergey Shumsky | - |
+| Graeme A Stewart | Quantum / HEP algorithms |
+
+Associated: Peking University -> YouTube, GitHub (Yuan Lab), Qualcomm AI.
+
+---
+
+## YouTubers
+
+- Hash3D
+- Neuro-sama
+- LaurieWired
 
 ---
 

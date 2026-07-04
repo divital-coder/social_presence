@@ -2,11 +2,81 @@
 
 ## Table of Contents
 
+- [Research Directions](#research-directions)
 - [Computational Interests](#computational-interests)
 - [Areas Actively Being Explored](#areas-actively-being-explored)
 - [Computational Biology and Neuroscience](#computational-biology-and-neuroscience)
 - [Fields of Interest](#fields-of-interest)
 - [Languages to Master](#languages-to-master)
+- [Source Scans](#source-scans)
+
+---
+
+## Research Directions
+
+Consolidated domain research and aspirations (from notes and scanned pages).
+Current language focus: Julia, Rust.
+
+### Learning Paradigms
+
+- Representation learning
+- Causality
+- Self-supervised learning
+- Continual learning
+- Hierarchical reinforcement learning
+
+### Probabilistic and Bayesian
+
+- Active inference (+ complexity systems + probabilistic machine learning)
+- Probabilistic programming
+- Bayesian statistics
+- Hierarchical Pitman-Yor processes
+
+### Complexity and Dynamical Systems
+
+- Complexity science
+- Agent-based modelling
+- Non-linear dynamical systems / dynamical systems
+- Computational behaviour modelling
+- Control systems
+- Algorithmic game theory
+
+### Interpretability and Safety
+
+- Interpretability toolkits / research-guided principles to discover what lies underneath the models
+- Mechanistic interpretability
+- AI-safety and modelling
+
+### World Models and Inference
+
+- Video-based world modelling
+- Gaussian splats
+- Embodied multimodal world models (Embodied AI)
+- Biological world models (from computational biology)
+- Inference optimization
+
+### Algorithms and Foundations
+
+- Quantum + classical algorithms (Quantum-CERN / quantum computing)
+- Symbolic computing
+- Optimization algorithms
+- Applied category theory
+- Knowledge graphs
+- Formal concept analysis
+- Strongly connected components
+- Dynamic programming
+- Reverse engineering
+
+### Domains
+
+- Embodied AI | Edge AI | Quantum AI | Computational Neuroscience | Computational Biology
+- Cognitive and computational neuroscience (Active Inference)
+- Aero / Astronautical science, Astrophysics, Aerospace
+- Material sciences and superconductors
+
+### Research Geography
+
+Follow university journals from: China, Russia, US, Switzerland.
 
 ---
 
@@ -128,4 +198,13 @@ Computational biology track: Firefox + EEG notebooks + Moabb (Mother of All Brai
 
 ## Languages to Master
 
-Mojo, Python, Julia, C++
+Mojo, Python, Julia, C++, Rust. Current focus: Julia, Rust.
+
+---
+
+## Source Scans
+
+Original handwritten research notes, kept as visual backup.
+
+![Research fields](../images/research-fields-scan.png)
+![Research aspirations](../images/research-aspirations-scan.png)

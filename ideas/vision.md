@@ -27,3 +27,11 @@ Aspirations and long-term direction.
 - Kids: Masa-son Foundation, RBC Borealis Fellowship
 - The science, university labs, fellowships, and competitions from Julia Slack and community
 - Target countries: US, China, Russia, Japan, Canada, South-Korea
+
+## Chinese Research Ecosystem
+
+Think in this way: a career in stages of research.
+
+- Love for Chinese startups + Chinese companies + Chinese researchers + Bilibili
+- Chinese universities -> Peking University (path: YouTube, GitHub / Yuan Lab, Qualcomm AI)
+- Chinese game labs: Game Science, Infold (paper) games
