@@ -1,9 +1,11 @@
 # Anticipated Projects
 
 ## Table of Contents
+
 - [High Priority Tasks](#high-priority-tasks)
 - [Project Ideas](#project-ideas)
 - [Medical Imaging Research](#medical-imaging-research)
+- [Cryo-ET and Imaging Projects](#cryo-et-and-imaging-projects)
 - [Upcoming Opportunities](#upcoming-opportunities)
 - [Project Concepts](#project-concepts)
 - [Interesting References](#interesting-references)
@@ -81,6 +83,30 @@
 | Turing.jl | [turing.ml](https://turing.ml/) |
 | ParallelStencil.jl | [GitHub](https://github.com/omlins/ParallelStencil.jl) |
 | KernelAbstractions.jl | [GitHub](https://github.com/JuliaGPU/KernelAbstractions.jl) |
+
+---
+
+## Cryo-ET and Imaging Projects
+
+Chan Zuckerberg Initiative Fall Cryo-ET Machine Learning Competition (elapsed) - [competition](https://cryoetdataportal.czscience.com/competition)
+
+Onboarding concepts (utilize Parsl with all of them for parallelization):
+
+| Concept | Links |
+|---------|-------|
+| TomoTwin | [docs](https://tomotwin-cryoet.readthedocs.io/en/stable/developer/devs.html), [GitHub](https://github.com/MPI-Dortmund/tomotwin-cryoet?tab=readme-ov-file) |
+| DeepFinder | [docs](https://deepfinder.readthedocs.io/en/latest/intro.html), [GitHub](https://github.com/deep-finder), [GitLab](https://gitlab.inria.fr/serpico/deep-finder) |
+| nnU-Net | [workshop](https://github.com/IML-DKFZ/nnunet-workshop), [NGC](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/dle/resources/nnunet_tf2), [GitHub](https://github.com/MIC-DKFZ/nnUNet) |
+| MONAI | [tutorials](https://docs.monai.io/projects/monai-deploy-app-sdk/en/latest/getting_started/tutorials/), [GitHub](https://github.com/Project-MONAI/tutorials) |
+
+Additional project ideas:
+
+- An application similar to Neurotorium for brain atlas visualization
+- Northeastern / Jakub Mitura projects (from OneNote)
+- Machine Learning 4 Science projects
+- Grand Challenge project
+- A Star SIPGA Excel sheet projects
+- Neuro-Sama
 
 ---
 

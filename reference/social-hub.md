@@ -1,6 +1,9 @@
 # Social Presence Hub
 
+Directory of social handles, communities, job boards, and resource catalogs.
+
 ## Table of Contents
+
 - [Social Media](#social-media)
 - [Messaging](#messaging)
 - [Social Platforms](#social-platforms)
@@ -30,6 +33,9 @@
 - [Cloud Native](#cloud-native)
 - [Storage](#storage)
 - [Dark Web Resources](#dark-web-resources)
+- [Saved Information Sources](#saved-information-sources)
+- [Reference Linktrees](#reference-linktrees)
+- [Skills Reference Images](#skills-reference-images)
 
 ---
 
@@ -51,7 +57,8 @@
 ## Messaging
 
 | Platform | Contact |
-|----------|---------|n| Signal | +919315431855 |
+|----------|---------|
+| Signal | +919315431855 |
 | WhatsApp | +919315431855 |
 
 ---
@@ -604,9 +611,9 @@ NeurIPS, ICLR, CVPR, AAAI, ACL, ICDAR
 
 ## Skills Reference Images
 
-![CZI Job Listing 1](./images/swappy-20240706-042151.png)
-![CZI Job Listing 2](./images/swappy-20240706-042208.png)
-![Atropos Health 1](./images/atropos_one.png)
-![Atropos Health 2](./images/atropos_two.png)
-![Vector Response 1](./images/vector_response_one.png)
-![Vector Response 2](./images/vector_response_two.png)
+![CZI Job Listing 1](../images/swappy-20240706-042151.png)
+![CZI Job Listing 2](../images/swappy-20240706-042208.png)
+![Atropos Health 1](../images/atropos_one.png)
+![Atropos Health 2](../images/atropos_two.png)
+![Vector Response 1](../images/vector_response_one.png)
+![Vector Response 2](../images/vector_response_two.png)

@@ -1,0 +1,28 @@
+# O'Reilly Courses
+
+Video courses with companion repositories.
+
+| # | Course | Video | Code |
+|---|--------|-------|------|
+| 1 | Deep Learning with TensorFlow, Keras and PyTorch | [video](https://youtu.be/UinV6_QiOEU?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) | [GitHub](https://github.com/jonkrohn/DLTFpT) |
+| 2 | Hands-on Deep Learning Model Training with the Sequential API in Keras | [video](https://youtu.be/aPUCQ46BcK0?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) | Supplementary: [manning.com](https://manning.com) |
+| 3 | Natural Language Processing with Real World Projects | [part 1](https://youtu.be/ftV8CQeDsRw?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM), part 2 (link missing) | [GitHub](https://github.com/packtpublishing/natural-language-processing-with-real-world-projects) |
+| 4 | LangChain Masterclass - Build 15 OpenAI and LLAMA 2 LLM Apps Using Python | [video](https://youtu.be/R6sRBWnqZH0?list=PLwVzlbeNfUoGAhidDFq-GLVuilj_ICkmk) | [GitHub](https://github.com/PacktPublishing/LangChain-MasterClass---Build-15-OpenAI-and-LLAMA-2-LLM-Apps-using-Python) |
+| 5 | Deep Learning for Natural Language Processing, 2nd Edition | [video](https://youtube.com/live/GWTjGE7I3Qo) | [GitHub](https://github.com/jonkrohn/DLTFpT) |
+| 6 | Introduction to Transformer Models for NLP: Using BERT, GPT, and More | [video](https://youtu.be/t6L9MBi0qNA) | [GitHub](https://github.com/sinanuozdemir/oreilly-transformers-video-series) |
+| 7 | Machine Vision, GANs, and Deep Reinforcement Learning | [video](https://youtu.be/OvEqxjJoNcY?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) | [GitHub](https://github.com/jonkrohn/DLTFpT) |
+| 8 | Learning Deep Learning: From Perceptron to Large Language Models | [video](https://youtu.be/TqCS2KinBzw?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) | [GitHub](https://github.com/NVDLI/LDL) |
+| 9 | Quick Guide to Large Language Models: Introduction | [video](https://youtu.be/YxFuXcOJq-s?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) | [GitHub](https://github.com/sinanuozdemir/quick-start-guide-to-llms) |
+| 10 | Machine Learning, Data Science and Generative AI with Python | [part 1](https://youtu.be/2y98BAWL8Yw?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM), [part 2](https://youtu.be/sSyIH7BqFmU?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) | [GitHub](https://github.com/PacktPublishing/Machine-Learning-Data-Science-and-Generative-AI-with-Python) |
+| 11 | The Essential Machine Learning Foundations: Math, Probability, Statistics, and Computer Science | [part 1](https://youtu.be/x23Wt84ATSQ?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM), [part 2](https://youtu.be/MNad_ebcY3M?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) | [GitHub](https://github.com/jonkrohn/ML-foundations) |
+| 12 | Virtualization for Everyone | [video](https://youtu.be/4eYcUO0eZXU) | - |
+| 13 | PyTorch 2.0 for Deep Learning: Building and Training Neural Networks from Scratch | [video](https://youtu.be/nXpwLie0LFE?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) | - |
+| 14 | AI Security and Responsible AI Practices | [video](https://youtu.be/nNz770PhYYM?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) | - |
+| 15 | Deep Learning - Artificial Neural Networks with TensorFlow | [video](https://youtu.be/NLZ08PoEnJ0?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) | - |
+| 16 | Linux Under the Hood, 2nd Edition | [video](https://youtu.be/JVBLEMJUYck?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) | - |
+| 17 | Linux Shell Scripting - Advanced | [video](https://youtu.be/RpfhSm_4vtU) | - |
+| 18 | PyTorch for Deep Learning and Computer Vision | [video](https://youtu.be/cn3KbDDCmuI?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) | [GitHub](https://github.com/packtpublishing/pytorch-for-deep-learning-and-computer-vision) |
+| 19 | Advanced Chatbots with Deep Learning and Python | [video](https://youtu.be/QdZ4ZJMWjvM?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) | [GitHub](https://github.com/PacktPublishing/Advanced-Chatbots-with-Deep-Learning-Python) |
+| 20 | Practical Machine Learning with TensorFlow 2.0 and Scikit-Learn | [part 1](https://youtube.com/live/x929jsGsQds), [part 2](https://youtu.be/li-q9iPJC5M?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) | [GitHub](https://github.com/PacktPublishing/Practical-Machine-Learning-with-TensorFlow-2.0-and-Scikit-Learn) |
+| 21 | Ultimate Go: Advanced Concepts | [video](https://youtu.be/i3f39QPdg8Y?list=PLCX5N7Nvviq598E8R6uCVy_blnXoAwKpM) | - |
+| 22 | Learning Apache Tomcat | [video](https://youtube.com/live/nuinnubO_D0) | [GitLab examples](https://resources.oreilly.com/examples/0636920053606/) |

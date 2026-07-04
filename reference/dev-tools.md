@@ -1,6 +1,9 @@
 # Tools and Technologies
 
+Catalog of development tools, libraries, and platforms by domain.
+
 ## Table of Contents
+
 - [3D Modelling and Design](#3d-modelling-and-design)
 - [Video Creation](#video-creation)
 - [AI Video Enhancement](#ai-video-enhancement)
@@ -17,6 +20,9 @@
 - [Linux Tools](#linux-tools)
 - [Illustrations](#illustrations)
 - [Event Organizing](#event-organizing)
+- [Startup Research](#startup-research)
+- [Design Tools](#design-tools)
+- [Toolchain (extended)](#toolchain-extended)
 
 ---
 
@@ -421,3 +427,25 @@
 | Figma | UI/UX design |
 | FigJam | Whiteboarding |
 | Draw.io | Diagrams |
+
+---
+
+## Toolchain (extended)
+
+Extended language, library, compiler, and profiling stack (from active-learning notes).
+
+### Languages
+
+Julia, Python, C++ 17, C++ 20, CUDA (learn via Elliot, CUDA docs, PMPP, Teregras, GPU_MODE), Rust, Fortran, Scala, Golang, Zig, Mojo, Haskell, Lua, Elm, Bash
+
+### Libraries
+
+Jax, PyTorch, llama.cpp, llamafile
+
+### Compilers
+
+g++, clang++, nvc++, gfortran, nvfortran, dpc++
+
+### Profiling Tools
+
+Valgrind, Maqao, Perf, NSight, Malt, Numaprof

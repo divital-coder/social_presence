@@ -1,6 +1,9 @@
 # AI Tools and Agents Ecosystem
 
+Catalog of AI agents, editors, platforms, and infrastructure.
+
 ## Table of Contents
+
 - [Terminal-Based Agents](#terminal-based-agents)
 - [Agentic Editors](#agentic-editors)
 - [Cloud Agents](#cloud-agents)
@@ -25,6 +28,7 @@
 - [Vibe Coding](#vibe-coding)
 - [Domain Research Tips](#domain-research-tips)
 - [Inspiration](#inspiration)
+- [Model and Platform Index](#model-and-platform-index)
 - [Browser Tab Log](#browser-tab-log)
 
 ---
@@ -127,7 +131,7 @@
 
 ## Audio Tools
 
-Foundational Voice Models
+Foundational Voice Models.
 
 | Tool | Specialty |
 |------|-----------|
@@ -325,11 +329,37 @@ Use TraXcn, CB Insights, and Aviato for competitor research. Best approach: Deep
 | AI Pipeline | Thinking Machines Lab (Tinker), LlamaFactory |
 | Multimodal | Twelve Labs, MiniMax AI, Civit.Ai |
 
+---
+
 ## Inspiration
 
 Companies and projects pushing boundaries in unexpected directions.
 
 Superconducting Power Trains (China) | Dark Factories (China) | Osmo/Olfactory AI (Scent AI) | Helaina (Nutrition Formula) | Game Science (China) | Papergames (China) | XPENG (China)
+
+---
+
+## Model and Platform Index
+
+Quick-reference index of models and platforms by function.
+
+| Category | Entries |
+|----------|---------|
+| Media Modality Models | Runway, Blackforest Labs |
+| LLMs | Outlier, Claude, Perplexity, NotebookLM, Gemini, Grok, GPT4, HuggingFace |
+| AI Inference | Replicate.ai, run.ai, Groq, Cerebras |
+| Cloud Platforms | Together.ai, Azure, Colab, Kaggle, LambdaLabs.com |
+| Avatars | MetaHuman |
+| Editors | Cursor, Zed, SuperMaven |
+| Locally | Llamafile, LLM.c |
+| Memory | Mem0, VectorDb |
+| Note Taking | Mem.ai, Notion, Obsidian |
+| Hackathons | lablab.ai, Kaggle, Unstop, Devpost |
+| Daily Productivity | Crackboard.dev |
+
+### Upskilling Loop
+
+paperswithCode + X, LinkedIn (bookmarks) + GitHub (stars and repos) + YouTube (saved playlists), CList {NeetCode + AdventofCode past}, LeetArxiv, CodingData (data_curve), HackerNews, AStar projects Excel sheet, ML4Sci, Social_presence
 
 ---
 
@@ -341,4 +371,4 @@ https://make10000hours.com/ | https://www.notion.com/ | https://github.com/ | ht
 
 ---
 
-![AI Tools Ecosystem](./images/image1.png)
+![AI Tools Ecosystem](../images/image1.png)
