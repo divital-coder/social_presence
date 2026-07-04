@@ -33,6 +33,10 @@ Directory of social handles, communities, job boards, and resource catalogs.
 - [Cloud Native](#cloud-native)
 - [Storage](#storage)
 - [Dark Web Resources](#dark-web-resources)
+- [Music and Sounds](#music-and-sounds)
+- [Monetization](#monetization)
+- [Payments and Commerce](#payments-and-commerce)
+- [Volunteer Work](#volunteer-work)
 - [Saved Information Sources](#saved-information-sources)
 - [Reference Linktrees](#reference-linktrees)
 - [Skills Reference Images](#skills-reference-images)
@@ -207,6 +211,9 @@ Directory of social handles, communities, job boards, and resource catalogs.
 | DevPost | Hackathons |
 | CodeWars | Practice |
 | CSSBattle | CSS games |
+| CodePen | Code playground |
+| The Full Stack Network | Community |
+| CSS Tricks | CSS tutorials |
 
 ### Research Sites
 
@@ -464,6 +471,7 @@ NeurIPS, ICLR, CVPR, AAAI, ACL, ICDAR
 | Cybrary | Training |
 | Black Hat | Conference |
 | DEFCON | Conference |
+| Hackersploit | Training |
 
 ### Practice
 
@@ -501,6 +509,7 @@ NeurIPS, ICLR, CVPR, AAAI, ACL, ICDAR
 | Discord | @hurtbadly |
 | Mastodon | Social |
 | Tumblr | Blog |
+| Moodle | Blog and writing |
 
 ---
 
@@ -511,6 +520,8 @@ NeurIPS, ICLR, CVPR, AAAI, ACL, ICDAR
 | Twitch | @hurtbadly |
 | Kick | @hurtbadly |
 | YouNow | @divital2004 |
+| LiveMe | Mobile only |
+| Bigo Live | Mobile only |
 
 ---
 
@@ -582,6 +593,53 @@ NeurIPS, ICLR, CVPR, AAAI, ACL, ICDAR
 | GoalKicker | Cheatsheets |
 | LibGen | Books |
 | Sci-Hub | Papers |
+
+---
+
+## Music and Sounds
+
+| Platform | Description |
+|----------|-------------|
+| Spotify | Streaming |
+| SoundCloud | Streaming |
+| YouTube Music | Streaming |
+| Apple Music | Streaming |
+
+---
+
+## Monetization
+
+Subscription-based creator platforms.
+
+| Platform | Description |
+|----------|-------------|
+| Patreon | Membership |
+| GumRoad | Digital products |
+| OnlyFans | Subscriptions |
+| Fansly | Subscriptions |
+| Passes.com | Creator platform |
+
+---
+
+## Payments and Commerce
+
+| Platform | Description |
+|----------|-------------|
+| Stripe Atlas | Company incorporation |
+| Shopify | E-commerce |
+| eBay | Marketplace |
+| Amazon | Marketplace |
+| Craigslist | Classifieds |
+| ClickFunnels | Sales funnels (Kevin David) |
+
+---
+
+## Volunteer Work
+
+| Platform | Description |
+|----------|-------------|
+| Internet Archive | Wayback Machine |
+| CatchaFire | Skills-based volunteering |
 
 ---
 
