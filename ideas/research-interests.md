@@ -77,7 +77,7 @@ Current language focus: Julia, Rust.
 ### Research Geography
 
 Follow university journals from: China, Russia, US, Switzerland.
-
+Tshinua University and Peking University Journals
 ---
 
 ## Computational Interests
