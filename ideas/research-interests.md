@@ -40,7 +40,20 @@ Current language focus: Julia, Rust.
 - Computational behaviour modelling
 - Control systems
 - Algorithmic game theory
+- Episodic memory modelling
 
+Phase transition in machine learning
+Computational complexity
+Dynamics of learning in high-dimension
+Message passing algorithms
+Challenges in machine learning
+Statistical physics of deep neural networks
+High-dimensional statistics
+Optimization and implicit regularisation
+Replica and cavity methods
+Probability theory and rigorous approaches
+Statistical inference in high-dimension
+Computational learning theory
 ### Interpretability and Safety
 
 - Interpretability toolkits / research-guided principles to discover what lies underneath the models
